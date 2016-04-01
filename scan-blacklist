@@ -1,0 +1,81 @@
+#!/usr/bin/env zsh
+
+set -e -u
+
+CURDIR=$(dirname $0)
+
+while getopts "z:b:o:" OPT; do
+    case $OPT in
+        z)
+            PACKAGE_SET=${OPTARG}
+            ;;
+        b)
+            BLACKLIST_LIST=${OPTARG}
+            ;;
+        o)
+            ORIGIN_LIST=${OPTARG}
+            ;;
+    esac
+done
+
+shift $((${OPTIND} - 1))
+
+# ===========================================================================
+
+_make_conf=$(mktemp)
+
+cat /usr/local/etc/poudriere.d/make.conf \
+    /usr/local/etc/poudriere.d/${PACKAGE_SET}-make.conf > ${_make_conf}
+
+cleanup()
+{
+    rm ${_make_conf}
+}
+
+interrupt()
+{
+    cleanup
+    exit 1
+}
+
+trap interrupt INT
+
+export PORTSDIR=/usr/local/poudriere/ports/default
+export PORT_DBDIR=/usr/local/etc/poudriere.d/${PACKAGE_SET}-options
+
+typeset -A ports
+
+blacklist=()
+
+scan()
+{
+    echo "Scanning $1"
+
+    [ -d ${PORTSDIR}/$1 ] || return 1
+
+    for _depend in `make __MAKE_CONF=${_make_conf} -VPKG_DEPENDS -VBUILD_DEPENDS -VEXTRACT_DEPENDS -VLIB_DEPENDS -VPATCH_DEPENDS -VFETCH_DEPENDS -VRUN_DEPENDS -C ${PORTSDIR}/$1`; do
+        _depend=$(echo ${_depend} | sed -e "s/.*://")
+        _depend=${_depend#${PORTSDIR}/}
+
+	if [ $blacklist[(i)${_depend}] -le ${#blacklist} ]; then
+            echo "Found: $1 -> ${_depend}."
+            exit 1
+	fi
+
+        (( $+ports[${_depend}] )) && continue
+
+	ports[${_depend}]=1
+
+	scan "${_depend}"
+    done
+}
+
+cat ${BLACKLIST_LIST} | grep -v "^#" | while read _path; do
+    blacklist[(i)${_path}]=${_path}
+done
+
+cat ${ORIGIN_LIST} | grep -v "^#" | while read _path; do
+    scan ${_path}
+done
+
+cleanup

@@ -1,0 +1,24 @@
+#!/bin/sh
+
+set -e -u
+
+CURDIR=$(dirname $0)
+
+: ${PACKAGE_SET:=}
+
+while getopts "z:" OPT; do
+    case $OPT in
+        z)
+            PACKAGE_SET=${OPTARG}
+            ;;
+    esac
+done
+
+shift $((${OPTIND} - 1))
+
+[ -n "${PACKAGE_SET}" ] || {
+    echo "$(basename $0): package set not specified."
+    exit 1
+}
+
+exec make __MAKE_CONF=${CURDIR}/env/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/env/options/${PACKAGE_SET} "$@"

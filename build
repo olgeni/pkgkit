@@ -1,0 +1,227 @@
+#!/bin/sh
+
+set -e -u
+
+CURDIR=$(dirname $0)
+
+: ${BUILD_PACKAGES_ROOT:=/usr/local/poudriere/data/packages}
+
+: ${POUDRIERE_REMOTE_PACKAGES:=""}
+
+BUILD_EXCLUDE_ROOT=$(realpath ${CURDIR}/blacklist)
+BUILD_ORIGIN_ROOT=$(realpath ${CURDIR}/origins)
+
+DEFAULT_JOBS=$(sysctl -n kern.smp.cpus)
+
+package_blacklist()
+{
+    ${CURDIR}/scan-blacklist -z ${PACKAGE_SET} -b ${BUILD_EXCLUDE_ROOT}/${PACKAGE_SET}-blacklist -o ${PACKAGE_ORIGIN}
+}
+
+package_build()
+{
+    if [ -z "${_disable_clean}" ]; then
+        sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+    fi
+
+    sudo poudriere bulk -J ${JOBS} -j ${PACKAGE_JAIL} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+}
+
+package_clean()
+{
+    sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+}
+
+package_repo()
+{
+    sudo pkg repo ${PACKAGE_SOURCE}/
+}
+
+package_local_push()
+{
+    sudo rsync              \
+         --archive          \
+         --verbose          \
+         --delete           \
+         --inplace          \
+         --max-delete=1000  \
+         ${PACKAGE_SOURCE}/ \
+         ${PACKAGE_LOCAL_TARGET}/
+}
+
+package_local_pull()
+{
+    sudo rsync                    \
+         --archive                \
+         --verbose                \
+         --delete                 \
+         --inplace                \
+         --max-delete=1000        \
+         ${PACKAGE_LOCAL_TARGET}/ \
+         ${PACKAGE_SOURCE}/
+}
+
+package_remote_push()
+{
+    if [ -z "${PACKAGE_REMOTE_TARGET}" ]; then
+        return 1
+    fi
+
+    rsync                                   \
+        --rsh="ssh -i ${POUDRIERE_SSH_KEY}" \
+        --archive                           \
+        --verbose                           \
+        --checksum                          \
+        --partial                           \
+        --delete                            \
+        --delay-updates                     \
+        --max-delete=1000                   \
+        ${PACKAGE_LOCAL_TARGET}/            \
+        ${PACKAGE_REMOTE_TARGET}/
+}
+
+package_remote_pull()
+{
+    if [ -z "${PACKAGE_REMOTE_TARGET}" ]; then
+        return 1
+    fi
+
+    sudo -E rsync                            \
+         --rsh="ssh -i ${POUDRIERE_SSH_KEY}" \
+         --archive                           \
+         --verbose                           \
+         --checksum                          \
+         --partial                           \
+         --delete                            \
+         --delay-updates                     \
+         --max-delete=1000                   \
+         ${PACKAGE_REMOTE_TARGET}/           \
+         ${PACKAGE_LOCAL_TARGET}/
+}
+
+args=`getopt xbcesSrRCJ: $*`
+
+set -- $args
+
+while true; do
+    case "$1" in
+        -x)
+            _perform_blacklist=YES
+            shift
+            ;;
+        -b)
+            _perform_build=YES
+            shift
+            ;;
+        -c)
+            _perform_clean=YES
+            shift
+            ;;
+        -e)
+            _perform_repo=YES
+            shift
+            ;;
+        -s)
+            _local_push=YES
+            shift
+            ;;
+        -S)
+            _local_pull=YES
+            shift
+            ;;
+        -r)
+            _remote_push=YES
+            shift
+            ;;
+        -R)
+            _remote_pull=YES
+            shift
+            ;;
+        -C)
+            _disable_clean=YES
+            shift
+            ;;
+        -J)
+            JOBS=$2
+            shift; shift
+            ;;
+        --)
+            shift
+            break
+            ;;
+    esac
+done
+
+: ${_perform_blacklist:=""}
+: ${_perform_build:=""}
+: ${_perform_clean:=""}
+: ${_perform_repo:=""}
+: ${_local_push:=""}
+: ${_local_pull:=""}
+: ${_remote_push:=""}
+: ${_remote_pull:=""}
+: ${_disable_clean:=""}
+: ${JOBS:=${DEFAULT_JOBS}}
+
+for _config in "$@"; do
+    # reset
+    JAIL_VERSION=""
+    JAIL_ARCH=""
+    PACKAGE_JAIL=""
+    PACKAGE_PORTS=""
+    PACKAGE_SET=""
+    # reset
+
+    . ${_config}
+
+    PACKAGE_BASENAME=packages-${JAIL_VERSION}-${JAIL_ARCH}-${PACKAGE_SET}
+
+    PACKAGE_ORIGIN=${BUILD_ORIGIN_ROOT}/${JAIL_VERSION}-${JAIL_ARCH}-${PACKAGE_SET}.txt
+    PACKAGE_SOURCE=${BUILD_PACKAGES_ROOT}/${PACKAGE_JAIL}-${PACKAGE_PORTS}-${PACKAGE_SET}/.latest
+
+    PKG_TXZ=${PACKAGE_SOURCE}/Latest/pkg.txz
+
+    PACKAGE_LOCAL_TARGET=${BSDKIT_PATH}/${PACKAGE_BASENAME}
+
+    if [ -n "${POUDRIERE_REMOTE_PACKAGES}" ]; then
+        PACKAGE_REMOTE_TARGET=${POUDRIERE_REMOTE_PACKAGES}/${PACKAGE_BASENAME}
+    else
+        PACKAGE_REMOTE_TARGET=""
+    fi
+
+    # if [ ! -e ${PKG_TXZ} ]; then
+    #     sudo poudriere bulk -J ${JOBS} -j ${PACKAGE_JAIL} -z ${PACKAGE_SET} ports-mgmt/pkg
+    # fi
+
+    if [ -n "${_perform_blacklist}" ]; then
+        package_blacklist
+    fi
+
+    if [ -n "${_perform_build}" ]; then
+        package_build
+    fi
+
+    if [ -n "${_perform_clean}" ]; then
+        package_clean
+    fi
+
+    if [ -n "${_perform_repo}" ]; then
+        package_repo
+    fi
+
+    if [ -n "${_local_push}" ]; then
+        package_local_push
+    fi
+
+    if [ -n "${_remote_push}" ]; then
+        package_remote_push
+    fi
+
+    if [ -n "${_remote_pull}" ]; then
+        package_remote_pull
+    fi
+
+    if [ -n "${_local_pull}" ]; then
+        package_local_pull
+    fi
+done

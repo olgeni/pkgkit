@@ -1,0 +1,47 @@
+#!/usr/local/bin/zsh
+
+set -e
+
+CURDIR=$(dirname $0)
+
+: ${PACKAGE_SET:=}
+
+while getopts "z:" OPT; do
+    case $OPT in
+        z)
+            PACKAGE_SET=${OPTARG}
+            ;;
+    esac
+done
+
+shift $((${OPTIND} - 1))
+
+[ -n "${PACKAGE_SET}" ] || {
+    echo "run-make: package set not specified."
+    exit 1
+}
+
+export PORT_DBDIR=/usr/local/etc/poudriere.d/${PACKAGE_SET}-options
+export PORTSDIR=/usr/local/poudriere/ports/default
+
+typeset -A ports
+
+list-depends ()
+{
+    if [ -n "$ports[$1]" ]; then
+        return 0
+    fi
+
+    ports[$1]=1
+
+    echo $1
+
+    for _depend in `make __MAKE_CONF=/usr/local/etc/poudriere.d/${PACKAGE_SET}-make.conf -VPKG_DEPENDS -VBUILD_DEPENDS -VEXTRACT_DEPENDS -VLIB_DEPENDS -VFETCH_DEPENDS -VRUN_DEPENDS LOCALBASE=/nonexistent -C ${PORTSDIR}/$1`; do
+        _depend=$(echo ${_depend} | sed -e "s/.*://")
+        _depend=${_depend#${PORTSDIR}/}
+
+	list-depends "${_depend}"
+    done
+}
+
+list-depends "$1"

@@ -1,0 +1,39 @@
+#!/bin/sh
+
+set -e -u
+
+: ${ORIGIN:=}
+
+while getopts "o:" OPT; do
+    case $OPT in
+        o)
+            ORIGIN=${OPTARG}
+            ;;
+    esac
+done
+
+shift $((${OPTIND} - 1))
+
+[ -n "${ORIGIN}" ] || {
+    echo "$(basename $0): origin not specified."
+    exit 1
+}
+
+for _file in "$@"; do
+    [ -f ${_file} ] || {
+        echo "$(basename $0): ${_file} does not exist."
+        exit 1
+    }
+done
+
+for _file in "$@"; do
+    echo "$(basename $0): adding ${ORIGIN} to ${_file}."
+
+    _tmpfile=$(mktemp)
+
+    (echo ${ORIGIN}; cat ${_file}) | sort | uniq > ${_tmpfile}
+
+    cat ${_tmpfile} > ${_file}
+
+    rm ${_tmpfile}
+done
