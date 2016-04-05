@@ -704,6 +704,7 @@ textproc/jq
 textproc/kibana3
 textproc/kibana43
 textproc/kibana44
+textproc/kibana45
 textproc/libxml2
 textproc/libxslt
 textproc/libyaml
