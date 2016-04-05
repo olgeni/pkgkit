@@ -460,6 +460,7 @@ security/gnupg
 security/gnupg1
 security/gnutls
 security/ipsec-tools
+security/keybase
 security/mcrypt
 security/md5deep
 security/nmap
