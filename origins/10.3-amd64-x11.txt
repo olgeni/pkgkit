@@ -671,6 +671,7 @@ sysutils/webmin
 sysutils/x86info
 sysutils/xfsprogs
 sysutils/xosview
+sysutils/zap
 sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
 sysutils/zfstools
