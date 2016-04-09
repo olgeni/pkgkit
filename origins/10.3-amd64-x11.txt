@@ -590,6 +590,7 @@ sysutils/ddrescue
 sysutils/detox
 sysutils/devstat
 sysutils/dfc
+sysutils/direnv
 sysutils/disktype
 sysutils/dmidecode
 sysutils/dtpstree
