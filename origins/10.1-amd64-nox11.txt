@@ -386,6 +386,7 @@ net-mgmt/libsmi
 net-mgmt/nagios4
 net-mgmt/net-snmp
 net-mgmt/nrpe
+net-mgmt/tcpreplay
 net-mgmt/tcptrack
 net-mgmt/whatmask
 net/GeoIP
