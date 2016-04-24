@@ -513,6 +513,7 @@ sysutils/bsdcrashtar
 sysutils/cciss_vol_status
 sysutils/ccze
 sysutils/cdargs
+sysutils/cdls
 sysutils/cdrtools
 sysutils/clone
 sysutils/coreutils
