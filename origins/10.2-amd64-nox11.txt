@@ -466,6 +466,7 @@ security/gnupg1
 security/gnutls
 security/ipsec-tools
 security/keybase
+security/letsencrypt.sh
 security/mcrypt
 security/md5deep
 security/nmap
