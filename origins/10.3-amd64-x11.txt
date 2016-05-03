@@ -632,6 +632,7 @@ sysutils/lnav
 sysutils/logstash
 sysutils/lsof
 sysutils/ltrace
+sysutils/megacli
 sysutils/monit
 sysutils/moreutils
 sysutils/most
