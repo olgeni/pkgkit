@@ -4,7 +4,7 @@ set -e -u
 
 CURDIR=$(dirname $0)
 
-while getopts "z:b:o:" OPT; do
+while getopts "z:b:f:" OPT; do
     case $OPT in
         z)
             PACKAGE_SET=${OPTARG}
@@ -12,7 +12,7 @@ while getopts "z:b:o:" OPT; do
         b)
             BLACKLIST_LIST=${OPTARG}
             ;;
-        o)
+        f)
             ORIGIN_LIST=${OPTARG}
             ;;
     esac
