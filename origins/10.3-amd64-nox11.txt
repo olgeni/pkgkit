@@ -522,6 +522,7 @@ sysutils/cpdup
 sysutils/cronolog
 sysutils/daemonize
 sysutils/dar
+sysutils/dcfldd
 sysutils/ddrescue
 sysutils/detox
 sysutils/devstat
