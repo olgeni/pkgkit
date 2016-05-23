@@ -63,6 +63,7 @@ databases/pg_activity
 databases/pgadmin3
 databases/pgbarman
 databases/pgbouncer
+databases/pgespresso
 databases/pgtop
 databases/pgtune
 databases/php56-mysql
