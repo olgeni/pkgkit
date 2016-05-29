@@ -15,7 +15,7 @@ DEFAULT_JOBS=$(sysctl -n kern.smp.cpus)
 
 package_blacklist()
 {
-    ${CURDIR}/scan-blacklist -z ${PACKAGE_SET} -b ${BUILD_EXCLUDE_ROOT}/${PACKAGE_SET}-blacklist -o ${PACKAGE_ORIGIN}
+    ${CURDIR}/scan-blacklist -z ${PACKAGE_SET} -b ${BUILD_EXCLUDE_ROOT}/${PACKAGE_SET}-blacklist -f ${PACKAGE_ORIGIN}
 }
 
 package_build()
