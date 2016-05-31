@@ -599,6 +599,8 @@ sysutils/symlinks
 sysutils/syslog-ng
 sysutils/sysvbanner
 sysutils/tlsdate
+sysutils/tmate
+sysutils/tmate-slave
 sysutils/tmux
 sysutils/tree
 sysutils/ts
