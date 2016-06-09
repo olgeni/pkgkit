@@ -64,6 +64,8 @@ databases/pgadmin3
 databases/pgbarman
 databases/pgbouncer
 databases/pgespresso
+databases/pglogical
+databases/pglogical-output
 databases/pgtop
 databases/pgtune
 databases/php56-mysql
