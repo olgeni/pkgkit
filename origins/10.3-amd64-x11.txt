@@ -74,6 +74,7 @@ databases/php56-pdo_pgsql
 databases/php56-pdo_sqlite
 databases/php56-pgsql
 databases/postgresql-jdbc
+databases/postgresql-repmgr
 databases/postgresql93-client
 databases/postgresql93-server
 databases/postgresql94-client
