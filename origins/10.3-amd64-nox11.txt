@@ -54,6 +54,7 @@ databases/mysql56-server
 databases/p5-Bucardo
 databases/pear-MDB2_Driver_pgsql
 databases/pg_activity
+databases/pg_citus
 databases/pgbarman
 databases/pgbouncer
 databases/pgespresso
