@@ -244,6 +244,7 @@ graphics/jpeg-turbo
 graphics/libexif
 graphics/libgphoto2
 graphics/liblqr-1
+graphics/libsixel
 graphics/netpbm
 graphics/opencv-core
 graphics/openjpeg
