@@ -482,11 +482,11 @@ security/pam_ssh_agent_auth
 security/php56-hash
 security/php56-openssl
 security/pinentry
+security/py-certbot
 security/py-certifi
 security/py-cryptkit
 security/py-fail2ban
 security/py-keyczar
-security/py-letsencrypt
 security/py-mcrypt
 security/py-oauthlib
 security/py-pycrypto
