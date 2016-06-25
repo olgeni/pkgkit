@@ -196,6 +196,7 @@ devel/tcllibc
 devel/tig
 devel/tmake
 devel/valgrind
+devel/yajl-tcl
 devel/yasm
 dns/adns
 dns/bind99
