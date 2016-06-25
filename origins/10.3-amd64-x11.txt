@@ -531,6 +531,7 @@ security/bcwipe
 security/ca_root_nss
 security/clamav
 security/denyhosts
+security/doas
 security/expiretable
 security/fakeroot
 security/gnupg
