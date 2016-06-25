@@ -667,6 +667,7 @@ www/csstidy
 www/elinks
 www/googlebook_dl
 www/grafana2
+www/grafana3
 www/httpie
 www/lighttpd
 www/links
