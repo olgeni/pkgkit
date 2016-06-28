@@ -348,6 +348,7 @@ misc/lv
 misc/mbuffer
 misc/mc
 misc/py-pexpect
+misc/seq2
 misc/shc
 misc/ttyrec
 misc/window
