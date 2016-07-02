@@ -215,6 +215,7 @@ editors/fileobj
 editors/heme
 editors/hexcurse
 editors/hexedit
+editors/hte
 editors/joe
 editors/le
 editors/nano
