@@ -426,6 +426,7 @@ net/py-GeoIP
 net/py-amqp
 net/py-kombu
 net/py-libcloud
+net/py-magic-wormhole
 net/py-pyzmq
 net/py-tweepy
 net/py-urllib3
