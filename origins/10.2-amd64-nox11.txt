@@ -611,6 +611,7 @@ sysutils/tree
 sysutils/ts
 sysutils/tty-clock
 sysutils/ttyload
+sysutils/uefi-edk2-bhyve
 sysutils/usermin
 sysutils/vagrant
 sysutils/webmin
