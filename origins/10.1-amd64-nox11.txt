@@ -613,6 +613,7 @@ sysutils/ts
 sysutils/tty-clock
 sysutils/ttyload
 sysutils/uefi-edk2-bhyve
+sysutils/uefi-edk2-bhyve-csm
 sysutils/usermin
 sysutils/vagrant
 sysutils/webmin
