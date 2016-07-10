@@ -446,6 +446,7 @@ net/tsocks
 net/ucarp
 net/usbredir
 net/wireshark
+net/wol
 net/zsync
 ports-mgmt/pkg
 ports-mgmt/pkg_rmleaves

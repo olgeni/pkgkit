@@ -511,6 +511,7 @@ net/ucarp
 net/uget
 net/usbredir
 net/wireshark
+net/wol
 net/x11vnc
 net/zsync
 ports-mgmt/pkg
