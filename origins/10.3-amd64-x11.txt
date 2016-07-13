@@ -724,6 +724,7 @@ textproc/ffe
 textproc/flex
 textproc/gsed
 textproc/hunspell
+textproc/igor
 textproc/it-aspell
 textproc/it-hunspell
 textproc/jq
