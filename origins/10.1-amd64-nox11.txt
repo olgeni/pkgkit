@@ -617,6 +617,7 @@ sysutils/uefi-edk2-bhyve
 sysutils/uefi-edk2-bhyve-csm
 sysutils/usermin
 sysutils/vagrant
+sysutils/vm-bhyve
 sysutils/webmin
 sysutils/x86info
 sysutils/xfsprogs
