@@ -565,6 +565,7 @@ sysutils/lnav
 sysutils/lsof
 sysutils/ltrace
 sysutils/megacli
+sysutils/mkfile
 sysutils/monit
 sysutils/moreutils
 sysutils/most
