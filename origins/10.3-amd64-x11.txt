@@ -517,7 +517,6 @@ ports-mgmt/pkg
 ports-mgmt/pkg_rmleaves
 ports-mgmt/portlint
 ports-mgmt/portmaster
-ports-mgmt/porttools
 ports-mgmt/porttree
 ports-mgmt/poudriere-devel
 print/enscript-a4
