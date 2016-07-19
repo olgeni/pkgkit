@@ -394,6 +394,7 @@ misc/seq2
 misc/shc
 misc/ttyrec
 misc/unclutter
+misc/vifm
 misc/window
 misc/xd
 multimedia/asdcplib

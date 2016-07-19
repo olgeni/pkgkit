@@ -352,6 +352,7 @@ misc/py-pexpect
 misc/seq2
 misc/shc
 misc/ttyrec
+misc/vifm
 misc/window
 misc/xd
 multimedia/asdcplib
