@@ -588,6 +588,7 @@ sysutils/ataidle
 sysutils/atop
 sysutils/bbcp
 sysutils/beadm
+sysutils/bhyve-firmware
 sysutils/bsdadminscripts
 sysutils/bsdcrashtar
 sysutils/cciss_vol_status
@@ -687,8 +688,6 @@ sysutils/tree
 sysutils/ts
 sysutils/tty-clock
 sysutils/ttyload
-sysutils/uefi-edk2-bhyve
-sysutils/uefi-edk2-bhyve-csm
 sysutils/usermin
 sysutils/vagrant
 sysutils/vm-bhyve
