@@ -801,6 +801,7 @@ x11-fonts/dejavu
 x11-fonts/droid-fonts-ttf
 x11-fonts/fantasque-sans-mono
 x11-fonts/freefonts
+x11-fonts/hack-font
 x11-fonts/inconsolata-ttf
 x11-fonts/jmk-x11-fonts
 x11-fonts/lfpfonts-fix
