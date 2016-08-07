@@ -116,6 +116,7 @@ devel/boost-jam
 devel/boost-libs
 devel/bpython
 devel/ccache
+devel/cdecl
 devel/cdialog
 devel/cgdb
 devel/checkbashisms
