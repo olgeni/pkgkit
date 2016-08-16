@@ -49,7 +49,6 @@ converters/php56-iconv
 converters/php56-mbstring
 converters/recode
 converters/unix2dos
-databases/c3p0
 databases/couchdb
 databases/gdbm
 databases/hiredis
