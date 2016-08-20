@@ -138,6 +138,7 @@ devel/git
 devel/git-extras
 devel/gitolite
 devel/gmake
+devel/gradle
 devel/gsoap
 devel/icu
 devel/ipython
