@@ -418,6 +418,8 @@ net/miruo
 net/mosh
 net/mpd5
 net/mtr
+net/nats
+net/nats-top
 net/ncp
 net/ngrep
 net/nss_ldap
