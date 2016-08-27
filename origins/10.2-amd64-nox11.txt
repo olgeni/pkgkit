@@ -701,5 +701,4 @@ www/varnish4
 www/w3m
 www/yaws
 www/youtube_dl
-x11-fonts/fantasque-sans-mono
 x11/xtermcontrol
