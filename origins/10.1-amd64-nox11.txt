@@ -588,7 +588,6 @@ sysutils/pwgen
 sysutils/py-psutil
 sysutils/py-ranger
 sysutils/py-salt
-sysutils/qjail
 sysutils/rdate
 sysutils/rdiff-backup
 sysutils/rename
