@@ -546,7 +546,6 @@ sysutils/dmidecode
 sysutils/dtpstree
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
-sysutils/e2fsprogs
 sysutils/eject
 sysutils/flock
 sysutils/fpart
