@@ -1,4 +1,5 @@
 audio/esound
+audio/pulseaudio
 databases/evolution-data-server
 devel/doxygen
 devel/fam
