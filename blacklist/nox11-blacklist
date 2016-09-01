@@ -30,6 +30,7 @@ print/tex-jadetex
 print/texlive-base
 print/texlive-texmf
 security/cyrus-sasl2
+security/openssl
 textproc/docbook-utils
 textproc/dsssl-docbook-modular
 textproc/openjade
