@@ -584,6 +584,7 @@ sysutils/pipemeter
 sysutils/ptools
 sysutils/pv
 sysutils/pwgen
+sysutils/py-glances
 sysutils/py-psutil
 sysutils/py-ranger
 sysutils/py-salt
