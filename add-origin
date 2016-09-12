@@ -31,7 +31,7 @@ for _file in "$@"; do
 
     _tmpfile=$(mktemp)
 
-    (echo ${ORIGIN}; cat ${_file}) | sort | uniq > ${_tmpfile}
+    (echo ${ORIGIN}; cat ${_file}) | LC_ALL=C sort | uniq > ${_tmpfile}
 
     cat ${_tmpfile} > ${_file}
 
