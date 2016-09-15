@@ -298,6 +298,8 @@ graphics/xfig
 graphics/xpaint
 graphics/xv
 japanese/im-ja
+java/intellij-fsnotifier
+java/intellij-pty4j
 java/java-zoneinfo
 java/javavmwrapper
 java/linux-oracle-jdk18
