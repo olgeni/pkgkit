@@ -469,6 +469,7 @@ security/autossh
 security/bcwipe
 security/ca_root_nss
 security/clamav
+security/dehydrated
 security/denyhosts
 security/doas
 security/expiretable
@@ -478,7 +479,6 @@ security/gnupg1
 security/gnutls
 security/ipsec-tools
 security/keybase
-security/letsencrypt.sh
 security/mcrypt
 security/md5deep
 security/nmap
