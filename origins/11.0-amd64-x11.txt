@@ -483,6 +483,7 @@ net/mosh
 net/mpd5
 net/mtr
 net/nats
+net/nats-streaming-server
 net/nats-top
 net/ncp
 net/ngrep
