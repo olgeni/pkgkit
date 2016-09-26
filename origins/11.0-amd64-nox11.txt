@@ -422,6 +422,7 @@ net/nats-streaming-server
 net/nats-top
 net/ncp
 net/ngrep
+net/nload
 net/nss_ldap
 net/omnitty
 net/openldap24-client
