@@ -448,6 +448,7 @@ net/trafshow
 net/tsocks
 net/ucarp
 net/usbredir
+net/vnstat
 net/wireshark
 net/wol
 net/zsync
