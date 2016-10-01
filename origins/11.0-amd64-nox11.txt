@@ -620,6 +620,7 @@ sysutils/ttyload
 sysutils/usermin
 sysutils/vagrant
 sysutils/vm-bhyve
+sysutils/vmtouch
 sysutils/webmin
 sysutils/x86info
 sysutils/xfsprogs
