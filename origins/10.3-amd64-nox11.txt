@@ -74,11 +74,11 @@ databases/postgresql95-plperl
 databases/postgresql95-plpython
 databases/postgresql95-pltcl
 databases/postgresql95-server
-databases/py-PyGreSQL
 databases/py-bsddb
 databases/py-gdbm
 databases/py-hiredis
 databases/py-psycopg2
+databases/py-PyGreSQL
 databases/py-pyPgSQL
 databases/py-redis
 databases/py-south
@@ -91,7 +91,6 @@ databases/sqlite3
 databases/tdb
 deskutils/gcal
 deskutils/taskwarrior
-devel/ElectricFence
 devel/android-tools-adb
 devel/arcanist
 devel/astyle
@@ -119,6 +118,7 @@ devel/deheader
 devel/dev86
 devel/distcc
 devel/distel
+devel/ElectricFence
 devel/etcd
 devel/fossil
 devel/gdb
@@ -154,7 +154,6 @@ devel/popt
 devel/protobuf
 devel/protobuf-c
 devel/psvn
-devel/py-Jinja2
 devel/py-bitarray
 devel/py-bitstring
 devel/py-dateutil
@@ -165,6 +164,7 @@ devel/py-gitosis
 devel/py-interface
 devel/py-ipaddr
 devel/py-isodate
+devel/py-Jinja2
 devel/py-kjbuckets
 devel/py-logilab-common
 devel/py-lxml
@@ -233,7 +233,6 @@ ftp/lftp
 ftp/ncftp3
 ftp/wget
 games/bsdgames
-graphics/ImageMagick-nox11
 graphics/exif
 graphics/frei0r
 graphics/gd
@@ -241,6 +240,7 @@ graphics/giflib
 graphics/gocr
 graphics/gphoto2
 graphics/icoutils
+graphics/ImageMagick-nox11
 graphics/jhead
 graphics/jpeg-turbo
 graphics/libexif
@@ -400,10 +400,10 @@ net-mgmt/nrpe-ssl
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
 net-mgmt/whatmask
-net/GeoIP
 net/arping
 net/czmq
 net/empty
+net/GeoIP
 net/gnetcat
 net/haproxy
 net/hexinject
@@ -427,8 +427,8 @@ net/nss_ldap
 net/omnitty
 net/openldap24-client
 net/openldap24-server
-net/py-GeoIP
 net/py-amqp
+net/py-GeoIP
 net/py-kombu
 net/py-libcloud
 net/py-magic-wormhole
