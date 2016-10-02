@@ -1,3 +1,5 @@
+# textproc/docbook-utils
+# textproc/dsssl-docbook-modular
 audio/esound
 audio/pulseaudio
 databases/evolution-data-server
@@ -31,8 +33,6 @@ print/texlive-base
 print/texlive-texmf
 security/cyrus-sasl2
 security/openssl
-textproc/docbook-utils
-textproc/dsssl-docbook-modular
 textproc/openjade
 www/apache22
 x11-toolkits/libbonoboui
