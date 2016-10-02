@@ -266,7 +266,6 @@ graphics/tiff
 graphics/webp
 lang/alchemist.el
 lang/clang36
-lang/csharp-mode.el
 lang/cython
 lang/elixir
 lang/elixir-mode.el
