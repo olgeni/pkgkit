@@ -116,7 +116,6 @@ devel/cvs2svn
 devel/cvsps
 devel/deheader
 devel/dev86
-devel/distcc
 devel/distel
 devel/ElectricFence
 devel/etcd

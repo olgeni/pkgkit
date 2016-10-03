@@ -127,7 +127,6 @@ devel/dconf-editor
 devel/ddd
 devel/deheader
 devel/dev86
-devel/distcc
 devel/distel
 devel/ElectricFence
 devel/etcd
