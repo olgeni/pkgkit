@@ -238,6 +238,9 @@ editors/paredit-mode.el
 editors/pico-alpine
 editors/vim
 emulators/dosbox
+emulators/fuse
+emulators/fuse-utils
+emulators/libspectrum
 emulators/linux-c6
 emulators/open-vm-tools
 emulators/qemu-devel
