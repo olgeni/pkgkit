@@ -465,6 +465,7 @@ print/libpaper
 print/papersize-default-a4
 print/pdflib
 science/py-scipy
+security/aespipe
 security/autossh
 security/bcwipe
 security/ca_root_nss
