@@ -375,7 +375,6 @@ multimedia/mp4v2
 multimedia/mpgtx
 multimedia/mplayer
 multimedia/mxflib
-multimedia/opencinematools
 multimedia/qt-faststart
 multimedia/rtmpdump
 multimedia/schroedinger

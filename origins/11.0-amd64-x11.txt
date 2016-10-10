@@ -435,7 +435,6 @@ multimedia/mplayer
 multimedia/mplayer-skins
 multimedia/mpv
 multimedia/mxflib
-multimedia/opencinematools
 multimedia/qt-faststart
 multimedia/rox-videothumbnail
 multimedia/rtmpdump
