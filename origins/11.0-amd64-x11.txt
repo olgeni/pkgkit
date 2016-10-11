@@ -274,7 +274,7 @@ graphics/libgphoto2
 graphics/liblqr-1
 graphics/libsixel
 graphics/netpbm
-graphics/opencv-core
+graphics/opencv2-core
 graphics/openjpeg
 graphics/php56-gd
 graphics/plotutils
