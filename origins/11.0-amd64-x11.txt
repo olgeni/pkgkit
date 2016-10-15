@@ -631,6 +631,7 @@ sysutils/fusefs-libs
 sysutils/fusefs-ntfs
 sysutils/fusefs-sshfs
 sysutils/gaffitter
+sysutils/gconf-editor
 sysutils/grub2-bhyve
 sysutils/gsmartcontrol
 sysutils/hal
