@@ -400,6 +400,7 @@ misc/unclutter
 misc/vifm
 misc/window
 misc/xd
+misc/ytree
 multimedia/asdcplib
 multimedia/dvbsnoop
 multimedia/ffmpeg
