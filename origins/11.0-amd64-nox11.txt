@@ -646,6 +646,7 @@ textproc/ffe
 textproc/flex
 textproc/gsed
 textproc/hunspell
+textproc/icdiff
 textproc/igor
 textproc/it-aspell
 textproc/it-hunspell
