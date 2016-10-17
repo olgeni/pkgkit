@@ -871,6 +871,7 @@ x11/nvidia-driver
 x11/nvidia-settings
 x11/rgb
 x11/rofi
+x11/slop
 x11/wmctrl
 x11/xautolock
 x11/xclip
