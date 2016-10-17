@@ -239,6 +239,7 @@ editors/pico-alpine
 editors/vim
 emulators/dosbox
 emulators/fuse
+emulators/fuse-roms
 emulators/fuse-utils
 emulators/libspectrum
 emulators/linux-c6
