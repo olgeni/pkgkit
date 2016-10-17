@@ -686,6 +686,7 @@ sysutils/smartmontools
 sysutils/socklog
 sysutils/spinner
 sysutils/spiped
+sysutils/storcli
 sysutils/stress
 sysutils/symlinks
 sysutils/syslog-ng
