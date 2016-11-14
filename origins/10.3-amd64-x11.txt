@@ -322,7 +322,7 @@ lang/gcc
 lang/go
 lang/itcl4
 lang/jimtcl
-lang/perl5.20
+lang/perl5.24
 lang/php56
 lang/py-mx-base
 lang/python
