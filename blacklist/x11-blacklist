@@ -15,7 +15,6 @@ graphics/jpeg
 graphics/libgnomecanvas
 lang/gcc46
 lang/gcc47
-lang/gcc48
 lang/python32
 lang/python33
 lang/python34
