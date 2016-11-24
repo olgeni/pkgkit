@@ -297,6 +297,7 @@ mail/dovecot2-pigeonhole
 mail/ez-pine-gpg
 mail/fetchmail
 mail/getmail
+mail/imapdedup
 mail/imapfilter
 mail/imapsync
 mail/imaputils
