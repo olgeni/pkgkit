@@ -193,6 +193,8 @@ devel/subversion
 devel/swig13
 devel/tcllib
 devel/tcllibc
+devel/tclreadline
+devel/tclthread
 devel/tig
 devel/tmake
 devel/valgrind
@@ -286,6 +288,7 @@ lang/python2
 lang/python27
 lang/ruby22
 lang/rust
+lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
 mail/alpine
@@ -444,6 +447,7 @@ net/samba36
 net/slurm
 net/socat
 net/subnetcalc
+net/tcludp
 net/tcpshow
 net/trafshow
 net/tsocks
@@ -701,6 +705,7 @@ www/py-flask
 www/py-meld3
 www/py-requests
 www/squid
+www/tclhttpd
 www/tidy
 www/tinyproxy
 www/uwsgi

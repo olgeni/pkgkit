@@ -206,6 +206,8 @@ devel/subversion
 devel/swig13
 devel/tcllib
 devel/tcllibc
+devel/tclreadline
+devel/tclthread
 devel/tig
 devel/tkcon
 devel/tmake
@@ -331,6 +333,7 @@ lang/python2
 lang/python27
 lang/ruby22
 lang/rust
+lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
 mail/alpine
@@ -513,6 +516,7 @@ net/sdl_net
 net/slurm
 net/socat
 net/subnetcalc
+net/tcludp
 net/tcpshow
 net/tigervnc
 net/trafshow
@@ -792,6 +796,7 @@ www/py-meld3
 www/py-requests
 www/seamonkey
 www/squid
+www/tclhttpd
 www/tidy
 www/tinyproxy
 www/uwsgi
@@ -847,6 +852,7 @@ x11-servers/xorg-vfbserver
 x11-themes/adwaita-icon-theme
 x11-themes/gtk-arc-themes
 x11-themes/icon-naming-utils
+x11-toolkits/bwidget
 x11-toolkits/open-motif
 x11-toolkits/py-tkinter
 x11-toolkits/tk-wrapper
