@@ -1,6 +1,3 @@
-# editors/slime
-# java/icedtea-web
-# print/pdftk
 accessibility/redshift
 archivers/gcpio
 archivers/gtar
@@ -543,6 +540,7 @@ print/gsfonts
 print/libpaper
 print/papersize-default-a4
 print/pdflib
+print/pdftk
 science/py-scipy
 security/aespipe
 security/autossh

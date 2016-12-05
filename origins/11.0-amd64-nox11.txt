@@ -1,5 +1,3 @@
-# editors/slime
-# print/pdftk
 archivers/gcpio
 archivers/gtar
 archivers/lzip
@@ -466,10 +464,10 @@ ports-mgmt/poudriere-devel
 print/enscript-a4
 print/freetype2
 print/ghostscript9-agpl-base
-print/gsfonts
 print/libpaper
 print/papersize-default-a4
 print/pdflib
+print/pdftk
 science/py-scipy
 security/aespipe
 security/autossh

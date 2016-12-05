@@ -1,5 +1,3 @@
-# textproc/docbook-utils
-# textproc/dsssl-docbook-modular
 audio/esound
 audio/pulseaudio
 databases/evolution-data-server
@@ -45,11 +43,11 @@ audio/gstreamer-plugins-mad
 audio/gstreamer-plugins-mp3
 devel/libnotify
 devel/m17n-lib
-graphics/ImageMagick
 graphics/freeglut
 graphics/gdk-pixbuf2
 graphics/graphite2
 graphics/gtk-update-icon-cache
+graphics/ImageMagick
 graphics/libGL
 graphics/libGLU
 multimedia/gstreamer-plugins
@@ -62,11 +60,8 @@ www/webkit-gtk2
 x11-fonts/font-util
 x11-fonts/fontcacheproto
 x11-fonts/fontsproto
-x11-fonts/libfontenc
 x11-fonts/libXfont
 x11-fonts/libXft
-x11-fonts/mkfontdir
-x11-fonts/mkfontscale
 x11-toolkits/qt5-gui
 x11-toolkits/qt5-quick
 x11-toolkits/wxgtk30
@@ -98,5 +93,4 @@ x11/xcb-util-renderutil
 x11/xcb-util-wm
 x11/xextproto
 x11/xf86vidmodeproto
-x11/xproto
 x11/xtrans
