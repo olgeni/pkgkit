@@ -698,6 +698,7 @@ www/nginx
 www/node
 www/npm
 www/php56-session
+www/py-bottle
 www/py-django18
 www/py-flask
 www/py-meld3
