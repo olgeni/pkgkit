@@ -464,6 +464,7 @@ net-mgmt/nrpe-ssl
 net-mgmt/riemann
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
+net-mgmt/telegraf
 net-mgmt/whatmask
 net/arping
 net/czmq

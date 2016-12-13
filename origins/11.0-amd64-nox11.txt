@@ -399,6 +399,7 @@ net-mgmt/nrpe
 net-mgmt/nrpe-ssl
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
+net-mgmt/telegraf
 net-mgmt/whatmask
 net/arping
 net/czmq
