@@ -303,7 +303,10 @@ java/intellij-pty4j
 java/java-zoneinfo
 java/javavmwrapper
 java/linux-oracle-jdk18
+java/linux-oracle-jre18
+java/openjdk7-jre
 java/openjdk8
+java/openjdk8-jre
 java/sqlitejdbc
 lang/alchemist.el
 lang/clang36
