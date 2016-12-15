@@ -443,6 +443,7 @@ net/relayd
 net/rinetd
 net/rsync
 net/samba36
+net/sendemail
 net/slurm
 net/socat
 net/subnetcalc
