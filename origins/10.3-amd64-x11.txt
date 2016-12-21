@@ -677,6 +677,9 @@ sysutils/pefs-kmod
 sysutils/pftop
 sysutils/pipemeter
 sysutils/ptools
+sysutils/puppet37
+sysutils/puppet38
+sysutils/puppet4
 sysutils/pv
 sysutils/pwgen
 sysutils/py-glances
