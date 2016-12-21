@@ -457,6 +457,7 @@ net-im/pidgin
 net-mgmt/bsnmp-jails
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
+net-mgmt/cacti
 net-mgmt/collectd5
 net-mgmt/iftop
 net-mgmt/ipcalc
