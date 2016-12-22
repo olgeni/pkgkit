@@ -772,6 +772,7 @@ textproc/py-elasticsearch-py
 textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-pyelasticsearch
+textproc/py-python-augeas
 textproc/texi2html
 textproc/the_silver_searcher
 textproc/tinyxml
