@@ -644,6 +644,7 @@ textproc/ack
 textproc/align
 textproc/asciidoc
 textproc/aspell
+textproc/augeas
 textproc/bar
 textproc/cdiff
 textproc/diffstat
