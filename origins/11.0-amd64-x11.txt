@@ -863,6 +863,7 @@ x11-themes/adwaita-icon-theme
 x11-themes/gtk-arc-themes
 x11-themes/icon-naming-utils
 x11-toolkits/bwidget
+x11-toolkits/iwidgets
 x11-toolkits/open-motif
 x11-toolkits/py-tkinter
 x11-toolkits/tk-wrapper
