@@ -523,6 +523,7 @@ shells/ksh93
 shells/lshell
 shells/mksh
 shells/zsh
+shells/zsh-navigation-tools
 sysutils/afio
 sysutils/ansible
 sysutils/ataidle

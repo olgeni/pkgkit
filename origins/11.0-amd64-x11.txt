@@ -603,6 +603,7 @@ shells/lshell
 shells/mksh
 shells/viewglob
 shells/zsh
+shells/zsh-navigation-tools
 sysutils/afio
 sysutils/ansible
 sysutils/ataidle
