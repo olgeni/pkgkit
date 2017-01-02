@@ -396,6 +396,7 @@ net-mgmt/collectd5
 net-mgmt/iftop
 net-mgmt/ipcalc
 net-mgmt/libsmi
+net-mgmt/nagios-check_netsnmp
 net-mgmt/nagios4
 net-mgmt/net-snmp
 net-mgmt/nrpe
