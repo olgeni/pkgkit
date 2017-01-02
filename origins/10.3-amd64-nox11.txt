@@ -117,6 +117,7 @@ devel/dev86
 devel/distel
 devel/ElectricFence
 devel/etcd
+devel/etcd3
 devel/fossil
 devel/gdb
 devel/gindent
