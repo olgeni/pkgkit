@@ -353,6 +353,7 @@ mail/imaputils
 mail/libpst
 mail/libspf2
 mail/mboxgrep
+mail/mutt
 mail/pfqueue
 mail/postfix
 mail/procmail

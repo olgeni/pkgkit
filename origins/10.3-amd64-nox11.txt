@@ -304,6 +304,7 @@ mail/imapsync
 mail/imaputils
 mail/libspf2
 mail/mboxgrep
+mail/mutt
 mail/pfqueue
 mail/postfix
 mail/procmail
