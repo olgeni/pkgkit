@@ -657,7 +657,6 @@ textproc/docbook
 textproc/docbook-sgml
 textproc/docbook-xml
 textproc/docbook-xsl
-textproc/docdiff
 textproc/en-aspell
 textproc/en-hunspell
 textproc/expat2
@@ -687,6 +686,7 @@ textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-pyelasticsearch
 textproc/py-python-augeas
+textproc/rubygem-docdiff
 textproc/texi2html
 textproc/the_silver_searcher
 textproc/xmlcatmgr

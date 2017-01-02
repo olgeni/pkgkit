@@ -744,7 +744,6 @@ textproc/docbook
 textproc/docbook-sgml
 textproc/docbook-xml
 textproc/docbook-xsl
-textproc/docdiff
 textproc/elasticsearch-plugin-head
 textproc/elasticsearch2
 textproc/elasticsearch2-plugin-hq
@@ -778,6 +777,7 @@ textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-pyelasticsearch
 textproc/py-python-augeas
+textproc/rubygem-docdiff
 textproc/texi2html
 textproc/the_silver_searcher
 textproc/tinyxml
