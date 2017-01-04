@@ -264,6 +264,7 @@ graphics/gimp-lqr-plugin
 graphics/gimp-refocus-plugin
 graphics/gimp-resynthesizer
 graphics/gocr
+graphics/gource
 graphics/gphoto2
 graphics/icoutils
 graphics/ImageMagick
