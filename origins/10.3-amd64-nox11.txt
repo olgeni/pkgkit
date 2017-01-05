@@ -311,6 +311,7 @@ mail/postfix
 mail/procmail
 mail/pyzor
 mail/razor-agents
+mail/ripmime
 mail/roundcube
 mail/smtp-cli
 mail/spamassassin
