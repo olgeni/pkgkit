@@ -203,6 +203,7 @@ dns/adns
 dns/bind99
 dns/dnsmasq
 dns/dnstop
+dns/dnsutl
 dns/maradns
 dns/py-dnspython
 editors/biew
