@@ -771,6 +771,7 @@ textproc/libxslt
 textproc/libyaml
 textproc/markdown
 textproc/markdown-mode.el
+textproc/miller
 textproc/par
 textproc/php56-dom
 textproc/php56-simplexml
