@@ -286,7 +286,7 @@ lang/python
 lang/python-mode.el
 lang/python2
 lang/python27
-lang/ruby22
+lang/ruby23
 lang/rust
 lang/tcl-manual
 lang/tcl-wrapper
