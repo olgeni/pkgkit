@@ -541,6 +541,7 @@ net/wireshark
 net/wol
 net/x11vnc
 net/zsync
+ports-mgmt/lsknobs
 ports-mgmt/pkg
 ports-mgmt/pkg_rmleaves
 ports-mgmt/portlint
