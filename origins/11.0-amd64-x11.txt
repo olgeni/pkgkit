@@ -355,6 +355,7 @@ mail/imapsync
 mail/imaputils
 mail/libpst
 mail/libspf2
+mail/mailfromd
 mail/mboxgrep
 mail/mutt
 mail/pfqueue

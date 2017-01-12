@@ -305,6 +305,7 @@ mail/imapfilter
 mail/imapsync
 mail/imaputils
 mail/libspf2
+mail/mailfromd
 mail/mboxgrep
 mail/mutt
 mail/pfqueue
