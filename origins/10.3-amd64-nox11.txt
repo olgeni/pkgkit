@@ -598,6 +598,7 @@ sysutils/ohmu
 sysutils/parallel
 sysutils/pdumpfs
 sysutils/pefs-kmod
+sysutils/pfstat
 sysutils/pftop
 sysutils/pipemeter
 sysutils/ptools
