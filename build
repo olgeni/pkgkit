@@ -8,7 +8,7 @@ CURDIR=$(dirname $0)
 
 : ${BUILD_PACKAGES_ROOT:=/usr/local/poudriere/data/packages}
 
-: ${POUDRIERE_REMOTE_PACKAGES:=""}
+: ${BSDKIT_REMOTE:=""}
 
 BUILD_EXCLUDE_ROOT=$(realpath ${CURDIR}/blacklist)
 BUILD_ORIGIN_ROOT=$(realpath ${CURDIR}/origins)
@@ -69,16 +69,16 @@ package_remote_push()
         return 1
     fi
 
-    rsync                                   \
-        --rsh="ssh -i ${POUDRIERE_SSH_KEY}" \
-        --archive                           \
-        --verbose                           \
-        --checksum                          \
-        --partial                           \
-        --delete                            \
-        --delay-updates                     \
-        --max-delete=1000                   \
-        ${PACKAGE_LOCAL_TARGET}/            \
+    rsync                                \
+        --rsh="ssh -i ${BSDKIT_SSH_KEY}" \
+        --archive                        \
+        --verbose                        \
+        --checksum                       \
+        --partial                        \
+        --delete                         \
+        --delay-updates                  \
+        --max-delete=1000                \
+        ${PACKAGE_LOCAL_TARGET}/         \
         ${PACKAGE_REMOTE_TARGET}/
 }
 
@@ -88,16 +88,16 @@ package_remote_pull()
         return 1
     fi
 
-    sudo -E rsync                            \
-         --rsh="ssh -i ${POUDRIERE_SSH_KEY}" \
-         --archive                           \
-         --verbose                           \
-         --checksum                          \
-         --partial                           \
-         --delete                            \
-         --delay-updates                     \
-         --max-delete=1000                   \
-         ${PACKAGE_REMOTE_TARGET}/           \
+    sudo -E rsync                         \
+         --rsh="ssh -i ${BSDKIT_SSH_KEY}" \
+         --archive                        \
+         --verbose                        \
+         --checksum                       \
+         --partial                        \
+         --delete                         \
+         --delay-updates                  \
+         --max-delete=1000                \
+         ${PACKAGE_REMOTE_TARGET}/        \
          ${PACKAGE_LOCAL_TARGET}/
 }
 
@@ -185,8 +185,8 @@ for _config in "$@"; do
 
     PACKAGE_LOCAL_TARGET=${BSDKIT_PATH}/${PACKAGE_BASENAME}
 
-    if [ -n "${POUDRIERE_REMOTE_PACKAGES}" ]; then
-        PACKAGE_REMOTE_TARGET=${POUDRIERE_REMOTE_PACKAGES}/${PACKAGE_BASENAME}
+    if [ -n "${BSDKIT_REMOTE}" ]; then
+        PACKAGE_REMOTE_TARGET=${BSDKIT_REMOTE}/${PACKAGE_BASENAME}
     else
         PACKAGE_REMOTE_TARGET=""
     fi
