@@ -804,7 +804,6 @@ www/firefox
 www/googlebook_dl
 www/grafana2
 www/grafana3
-www/httpie
 www/lighttpd
 www/links
 www/lynx
@@ -817,6 +816,7 @@ www/npm
 www/php56-session
 www/py-bottle
 www/py-flask
+www/py-httpie
 www/py-meld3
 www/py-requests
 www/seamonkey
