@@ -666,6 +666,7 @@ sysutils/hextools
 sysutils/hfsutils
 sysutils/host-setup
 sysutils/htop
+sysutils/iocell
 sysutils/iohyve
 sysutils/ioping
 sysutils/ipmitool
