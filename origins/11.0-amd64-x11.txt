@@ -104,6 +104,7 @@ devel/autoconf
 devel/autoconf-wrapper
 devel/automake
 devel/automake-wrapper
+devel/awscli
 devel/binutils
 devel/bison
 devel/boost-jam
