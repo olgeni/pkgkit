@@ -708,6 +708,7 @@ sysutils/rdiff-backup
 sysutils/rename
 sysutils/renameutils
 sysutils/reptyr
+sysutils/restic
 sysutils/rsyslog8
 sysutils/runit
 sysutils/samefile
