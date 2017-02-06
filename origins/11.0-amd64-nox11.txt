@@ -279,6 +279,7 @@ lang/gambit-c
 lang/gawk
 lang/gcc
 lang/go
+lang/gprolog
 lang/itcl4
 lang/jimtcl
 lang/perl5.24
