@@ -115,6 +115,7 @@ devel/ccache
 devel/cdecl
 devel/cdialog
 devel/cgdb
+devel/check
 devel/checkbashisms
 devel/cmake
 devel/cscope
@@ -142,7 +143,6 @@ devel/icu
 devel/ipython
 devel/jline
 devel/kBuild
-devel/libcheck
 devel/libev
 devel/libpdel
 devel/libtool
