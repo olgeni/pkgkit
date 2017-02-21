@@ -181,6 +181,7 @@ devel/py-stevedore
 devel/py-subversion
 devel/py-virtualenv
 devel/py-virtualenv-clone
+devel/py-xmltodict
 devel/pylint
 devel/rclint
 devel/rebar
