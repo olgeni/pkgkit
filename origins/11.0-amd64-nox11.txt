@@ -715,6 +715,8 @@ www/elinks
 www/googlebook_dl
 www/grafana2
 www/grafana3
+www/kannel
+www/kannel-sqlbox
 www/lighttpd
 www/links
 www/lynx
