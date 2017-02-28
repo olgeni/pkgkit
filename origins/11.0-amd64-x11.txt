@@ -236,6 +236,7 @@ editors/hexedit
 editors/hte
 editors/joe
 editors/le
+editors/micro
 editors/nano
 editors/ne
 editors/paredit-mode.el
