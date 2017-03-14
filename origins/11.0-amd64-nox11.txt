@@ -659,7 +659,6 @@ sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
 sysutils/zfstools
 sysutils/zrep
-textproc/ack
 textproc/align
 textproc/asciidoc
 textproc/aspell
@@ -691,6 +690,7 @@ textproc/libyaml
 textproc/markdown
 textproc/markdown-mode.el
 textproc/miller
+textproc/p5-ack
 textproc/par
 textproc/php56-dom
 textproc/php56-simplexml
