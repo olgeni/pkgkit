@@ -82,6 +82,7 @@ databases/postgresql95-server
 databases/py-bsddb
 databases/py-gdbm
 databases/py-hiredis
+databases/py-pgcli
 databases/py-psycopg2
 databases/py-PyGreSQL
 databases/py-pyPgSQL
