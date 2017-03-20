@@ -152,6 +152,7 @@ devel/libvirt
 devel/libzvbi
 devel/m4
 devel/magit
+devel/maven33
 devel/mercurial
 devel/mkcmd
 devel/msrc0
