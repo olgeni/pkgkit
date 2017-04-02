@@ -143,6 +143,7 @@ devel/gradle
 devel/gsoap
 devel/icu
 devel/ipython
+devel/jenkins
 devel/jline
 devel/kBuild
 devel/libev
