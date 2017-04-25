@@ -418,6 +418,7 @@ misc/lv
 misc/mbuffer
 misc/mc
 misc/py-pexpect
+misc/rpl
 misc/seq2
 misc/shc
 misc/ttyrec
