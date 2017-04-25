@@ -595,6 +595,7 @@ sysutils/iocell
 sysutils/iohyve
 sysutils/ioping
 sysutils/ipmitool
+sysutils/jps
 sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
