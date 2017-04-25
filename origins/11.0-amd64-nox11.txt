@@ -57,6 +57,7 @@ databases/pg_rman
 databases/pgbarman
 databases/pgbouncer
 databases/pgespresso
+databases/pgloader
 databases/pglogical
 databases/pgtop
 databases/pgtune
