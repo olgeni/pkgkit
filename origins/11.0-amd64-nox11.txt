@@ -714,6 +714,7 @@ textproc/xmlcatmgr
 textproc/xmlcharent
 textproc/xmlstarlet
 textproc/xmlto
+textproc/zsh-syntax-highlighting
 www/apache24
 www/aria2
 www/csstidy
