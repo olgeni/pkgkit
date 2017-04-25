@@ -321,7 +321,6 @@ java/openjdk7-jre
 java/openjdk8
 java/openjdk8-jre
 java/sqlitejdbc
-java/wildfly90
 lang/abcl
 lang/alchemist.el
 lang/clang36
