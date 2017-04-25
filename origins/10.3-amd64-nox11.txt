@@ -617,7 +617,6 @@ sysutils/pfstat
 sysutils/pftop
 sysutils/pipemeter
 sysutils/ptools
-sysutils/puppet38
 sysutils/puppet4
 sysutils/pv
 sysutils/pwgen
