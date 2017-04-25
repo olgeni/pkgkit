@@ -47,7 +47,6 @@ devel/libnotify
 devel/m17n-lib
 graphics/freeglut
 graphics/gdk-pixbuf2
-graphics/graphite2
 graphics/gtk-update-icon-cache
 graphics/ImageMagick
 graphics/libGL
@@ -55,7 +54,6 @@ graphics/libGLU
 multimedia/gstreamer-plugins
 multimedia/gstreamer-plugins-core
 print/ghostscript9-x11
-print/harfbuzz
 print/tex-dvipsk
 textproc/jade
 www/webkit-gtk2
