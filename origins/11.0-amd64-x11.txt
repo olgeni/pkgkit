@@ -94,6 +94,7 @@ databases/recutils
 databases/redis
 databases/rrdtool
 databases/slony1v2
+databases/speedtables
 databases/sqlite3
 databases/tdb
 deskutils/freemind
