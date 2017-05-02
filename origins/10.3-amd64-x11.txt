@@ -323,7 +323,7 @@ java/openjdk8-jre
 java/sqlitejdbc
 lang/abcl
 lang/alchemist.el
-lang/clang36
+lang/clang38
 lang/cython
 lang/elixir
 lang/elixir-mode.el
