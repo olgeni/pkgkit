@@ -843,7 +843,6 @@ www/uwsgi
 www/varnish4
 www/w3m
 www/yaws
-www/you-get
 www/youtube_dl
 x11-clocks/xalarm
 x11-clocks/xclock
