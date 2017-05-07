@@ -161,6 +161,7 @@ devel/mkcmd
 devel/msrc0
 devel/nasm
 devel/newfile
+devel/p5-Module-CoreList
 devel/patch
 devel/pcre
 devel/pear
