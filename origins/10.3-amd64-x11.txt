@@ -356,7 +356,6 @@ mail/alpine
 mail/archmbox
 mail/assp
 mail/dovecot2
-mail/dovecot2-antispam-plugin
 mail/dovecot2-pigeonhole
 mail/ez-pine-gpg
 mail/fetchmail
