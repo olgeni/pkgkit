@@ -86,6 +86,7 @@ databases/py-south
 databases/py-sqlite3
 databases/recutils
 databases/redis
+databases/retcl
 databases/rrdtool
 databases/slony1v2
 databases/speedtables
