@@ -558,6 +558,7 @@ net/wireshark
 net/wol
 net/x11vnc
 net/zsync
+ports-mgmt/bsdadminscripts2
 ports-mgmt/lsknobs
 ports-mgmt/pkg
 ports-mgmt/pkg_rmleaves
@@ -637,7 +638,6 @@ sysutils/atop
 sysutils/bbcp
 sysutils/beadm
 sysutils/bhyve-firmware
-sysutils/bsdadminscripts
 sysutils/bsdcrashtar
 sysutils/cciss_vol_status
 sysutils/ccze
