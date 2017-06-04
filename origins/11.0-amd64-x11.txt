@@ -57,7 +57,6 @@ databases/p5-Bucardo
 databases/pear-MDB2_Driver_pgsql
 databases/pg_activity
 databases/pg_citus
-databases/pg_rman
 databases/pgadmin3
 databases/pgbarman
 databases/pgbouncer
