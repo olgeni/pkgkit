@@ -233,7 +233,6 @@ editors/ne
 editors/paredit-mode.el
 editors/pico-alpine
 editors/vim
-emulators/open-vm-tools
 emulators/qemu-devel
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions

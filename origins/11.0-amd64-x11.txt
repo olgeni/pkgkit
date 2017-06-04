@@ -255,7 +255,6 @@ emulators/fuse-roms
 emulators/fuse-utils
 emulators/libspectrum
 emulators/linux-c6
-emulators/open-vm-tools
 emulators/qemu-devel
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
