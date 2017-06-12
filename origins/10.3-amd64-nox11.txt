@@ -90,6 +90,7 @@ databases/rrdtool
 databases/slony1v2
 databases/speedtables
 databases/sqlite3
+databases/tcl-sqlite3
 databases/tdb
 deskutils/gcal
 deskutils/taskwarrior
