@@ -674,7 +674,6 @@ sysutils/fusefs-sshfs
 sysutils/gaffitter
 sysutils/gconf-editor
 sysutils/grub2-bhyve
-sysutils/gsmartcontrol
 sysutils/hal
 sysutils/hal-info
 sysutils/hatop
