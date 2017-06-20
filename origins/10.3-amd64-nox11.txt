@@ -326,6 +326,7 @@ mail/pyzor
 mail/razor-agents
 mail/ripmime
 mail/roundcube
+mail/rspamd
 mail/smtp-cli
 mail/spamassassin
 mail/spamd
