@@ -10,7 +10,6 @@ devel/llvm33
 devel/llvm34
 devel/llvm35
 devel/llvm39
-devel/py36-setuptools
 graphics/jpeg
 graphics/libgnomecanvas
 lang/clang33
@@ -19,12 +18,10 @@ lang/clang35
 lang/clang36
 lang/gcc46
 lang/gcc47
-lang/python3
 lang/python32
 lang/python33
 lang/python34
 lang/python35
-lang/python36
 lang/ruby19
 lang/ruby20
 lang/ruby21
