@@ -61,6 +61,7 @@ multimedia/gstreamer-plugins
 multimedia/gstreamer-plugins-core
 print/ghostscript9-x11
 print/tex-dvipsk
+print/transfig
 textproc/jade
 www/webkit-gtk2
 x11-fonts/font-util
