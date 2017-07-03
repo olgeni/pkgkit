@@ -183,6 +183,7 @@ devel/py-protobuf
 devel/py-pyasn1
 devel/py-pytz
 devel/py-setproctitle
+devel/py-sh
 devel/py-six
 devel/py-stevedore
 devel/py-subversion
