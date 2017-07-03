@@ -294,6 +294,7 @@ lang/itcl4
 lang/jimtcl
 lang/perl5.24
 lang/php56
+lang/py-hy
 lang/py-mx-base
 lang/python
 lang/python-mode.el
