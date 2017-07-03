@@ -102,6 +102,7 @@ deskutils/freemind
 deskutils/gcal
 deskutils/taskwarrior
 devel/android-tools-adb
+devel/android-tools-fastboot
 devel/apache-ant
 devel/arcanist
 devel/astyle

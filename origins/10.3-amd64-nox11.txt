@@ -95,6 +95,7 @@ databases/tdb
 deskutils/gcal
 deskutils/taskwarrior
 devel/android-tools-adb
+devel/android-tools-fastboot
 devel/arcanist
 devel/astyle
 devel/autoconf
