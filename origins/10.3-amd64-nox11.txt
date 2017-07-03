@@ -429,6 +429,7 @@ net-mgmt/tcptrack
 net-mgmt/telegraf
 net-mgmt/whatmask
 net/arping
+net/cloud-init
 net/czmq
 net/empty
 net/GeoIP
