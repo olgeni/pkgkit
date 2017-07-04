@@ -185,6 +185,8 @@ devel/py-interface
 devel/py-ipaddr
 devel/py-isodate
 devel/py-Jinja2
+devel/py-jupyter_client
+devel/py-jupyter_console
 devel/py-kjbuckets
 devel/py-logilab-common
 devel/py-lxml
@@ -196,6 +198,7 @@ devel/py-pip
 devel/py-protobuf
 devel/py-pyasn1
 devel/py-pytz
+devel/py-qtconsole
 devel/py-setproctitle
 devel/py-sh
 devel/py-six
