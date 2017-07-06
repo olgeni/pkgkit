@@ -417,6 +417,7 @@ misc/cstream
 misc/delay
 misc/findutils
 misc/getopt
+misc/gnome-icon-theme
 misc/gnu-watch
 misc/help2man
 misc/inplace
