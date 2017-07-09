@@ -590,6 +590,7 @@ sysutils/dvd+rw-tools
 sysutils/dvdbackup
 sysutils/eject
 sysutils/exa
+sysutils/exfat-utils
 sysutils/flock
 sysutils/fpart
 sysutils/fusefs-ext4fuse
