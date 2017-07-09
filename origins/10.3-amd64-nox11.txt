@@ -593,6 +593,7 @@ sysutils/exa
 sysutils/exfat-utils
 sysutils/flock
 sysutils/fpart
+sysutils/fusefs-exfat
 sysutils/fusefs-ext4fuse
 sysutils/fusefs-libs
 sysutils/fusefs-ntfs
