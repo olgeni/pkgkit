@@ -102,6 +102,7 @@ databases/tdb
 deskutils/freemind
 deskutils/gcal
 deskutils/taskwarrior
+deskutils/timewarrior
 devel/android-tools-adb
 devel/android-tools-fastboot
 devel/apache-ant
