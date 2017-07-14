@@ -743,6 +743,7 @@ www/kannel-sqlbox
 www/lighttpd
 www/links
 www/lynx
+www/minio
 www/mod_php56
 www/mod_wsgi4
 www/mod_xsendfile
