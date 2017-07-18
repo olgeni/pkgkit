@@ -468,6 +468,7 @@ net/py-kombu
 net/py-libcloud
 net/py-magic-wormhole
 net/py-pyzmq
+net/py-s3cmd
 net/py-tweepy
 net/py-urllib3
 net/rabbitmq
