@@ -576,6 +576,7 @@ sysutils/clone
 sysutils/cloudabi-utils
 sysutils/coreutils
 sysutils/cpdup
+sysutils/cpuid
 sysutils/cronolog
 sysutils/daemonize
 sysutils/dar
