@@ -620,6 +620,7 @@ sysutils/lnav
 sysutils/lsof
 sysutils/ltrace
 sysutils/megacli
+sysutils/memtest86+
 sysutils/mkfile
 sysutils/monit
 sysutils/moreutils
