@@ -758,6 +758,7 @@ www/npm
 www/php56-session
 www/py-bottle
 www/py-flask
+www/py-gandi.cli
 www/py-httpie
 www/py-meld3
 www/py-requests
