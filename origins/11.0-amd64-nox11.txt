@@ -507,6 +507,7 @@ print/papersize-default-a4
 print/pdflib
 print/pdftk
 science/py-scipy
+security/acme.sh
 security/aespipe
 security/autossh
 security/bcwipe
