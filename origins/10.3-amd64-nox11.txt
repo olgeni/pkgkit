@@ -589,6 +589,7 @@ sysutils/dfc
 sysutils/direnv
 sysutils/disktype
 sysutils/dmidecode
+sysutils/downtimed
 sysutils/dtpstree
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
