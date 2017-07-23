@@ -900,6 +900,7 @@ x11-fonts/linuxlibertine
 x11-fonts/mkbold-mkitalic
 x11-fonts/mkfontdir
 x11-fonts/mkfontscale
+x11-fonts/noto-lite
 x11-fonts/nucleus
 x11-fonts/oldschool-pc-fonts
 x11-fonts/roboto-fonts-ttf
