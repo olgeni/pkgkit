@@ -73,7 +73,6 @@ package_remote_push()
         --rsh="ssh -i ${BSDKIT_SSH_KEY}" \
         --archive                        \
         --verbose                        \
-        --checksum                       \
         --partial                        \
         --delete                         \
         --delay-updates                  \
@@ -92,7 +91,6 @@ package_remote_pull()
          --rsh="ssh -i ${BSDKIT_SSH_KEY}" \
          --archive                        \
          --verbose                        \
-         --checksum                       \
          --partial                        \
          --delete                         \
          --delay-updates                  \
