@@ -418,6 +418,7 @@ net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
 net-mgmt/cacti
 net-mgmt/cacti-spine
+net-mgmt/check_ipmi_sensor
 net-mgmt/collectd5
 net-mgmt/iftop
 net-mgmt/ipcalc
