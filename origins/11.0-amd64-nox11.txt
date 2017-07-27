@@ -127,7 +127,6 @@ devel/deheader
 devel/dev86
 devel/distel
 devel/ElectricFence
-devel/etcd
 devel/etcd32
 devel/fossil
 devel/gdb
