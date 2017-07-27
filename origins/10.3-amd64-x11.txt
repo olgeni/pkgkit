@@ -104,6 +104,7 @@ deskutils/freemind
 deskutils/gcal
 deskutils/taskwarrior
 deskutils/timewarrior
+deskutils/treesheets
 devel/android-tools-adb
 devel/android-tools-fastboot
 devel/apache-ant
