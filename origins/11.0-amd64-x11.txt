@@ -807,6 +807,7 @@ textproc/icdiff
 textproc/igor
 textproc/it-aspell
 textproc/it-hunspell
+textproc/jo
 textproc/jq
 textproc/kibana45
 textproc/libxml2
