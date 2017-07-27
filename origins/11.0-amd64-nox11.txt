@@ -678,6 +678,7 @@ sysutils/tree
 sysutils/ts
 sysutils/tty-clock
 sysutils/ttyload
+sysutils/ufs_copy
 sysutils/usermin
 sysutils/vagrant
 sysutils/vm-bhyve
