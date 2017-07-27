@@ -775,6 +775,7 @@ sysutils/vm-bhyve
 sysutils/vmtouch
 sysutils/webmin
 sysutils/x86info
+sysutils/xe
 sysutils/xfsprogs
 sysutils/xosview
 sysutils/zap
