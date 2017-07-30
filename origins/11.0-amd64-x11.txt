@@ -606,6 +606,7 @@ security/gnupg
 security/gnupg1
 security/gnutls
 security/ipsec-tools
+security/keepassxc
 security/keybase
 security/mcrypt
 security/md5deep
