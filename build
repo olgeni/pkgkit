@@ -53,6 +53,23 @@ package_local_push()
 
 package_local_pull()
 {
+    if [ ! -d ${PACKAGE_SOURCE} ]; then
+        local _timestamp=$(date +%s)
+
+        local _path=$(dirname ${PACKAGE_SOURCE})
+
+        sudo mkdir -p ${_path}/.real_${_timestamp}
+
+        sudo ln -sf .real_${_timestamp}     ${_path}/.latest
+        sudo ln -sf .latest/.buildname      ${_path}/.buildname
+        sudo ln -sf .latest/.jailversion    ${_path}/.jailversion
+        sudo ln -sf .latest/All             ${_path}/All
+        sudo ln -sf .latest/digests.txz     ${_path}/digests.txz
+        sudo ln -sf .latest/Latest          ${_path}/Latest
+        sudo ln -sf .latest/meta.txz        ${_path}/meta.txz
+        sudo ln -sf .latest/packagesite.txz ${_path}/packagesite.txz
+    fi
+
     sudo rsync                    \
          --archive                \
          --verbose                \
