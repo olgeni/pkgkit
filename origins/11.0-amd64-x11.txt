@@ -411,6 +411,7 @@ math/py-matplotlib
 math/py-networkx
 math/py-numeric
 math/py-numpy
+math/qalculate
 math/suitesparse
 misc/bestfit
 misc/boxes
