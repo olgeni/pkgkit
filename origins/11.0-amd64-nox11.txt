@@ -315,8 +315,8 @@ lang/tcl86
 mail/alpine
 mail/archmbox
 mail/assp
-mail/dovecot2
-mail/dovecot2-pigeonhole
+mail/dovecot
+mail/dovecot-pigeonhole
 mail/ez-pine-gpg
 mail/fetchmail
 mail/getmail
