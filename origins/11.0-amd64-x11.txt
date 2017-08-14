@@ -685,6 +685,7 @@ sysutils/downtimed
 sysutils/dtpstree
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
+sysutils/e2fsprogs
 sysutils/eject
 sysutils/exa
 sysutils/exfat-utils
