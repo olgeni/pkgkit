@@ -519,6 +519,7 @@ net/freerdp
 net/GeoIP
 net/gnatsd
 net/gnetcat
+net/go-cs
 net/haproxy
 net/hexinject
 net/hping
