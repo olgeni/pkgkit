@@ -28,6 +28,7 @@ audio/opus-tools
 audio/opusfile
 audio/portaudio
 audio/sdl_sound
+audio/shntool
 audio/soundtouch
 audio/sox
 audio/twolame
