@@ -346,6 +346,7 @@ lang/ficl
 lang/gambit-c
 lang/gawk
 lang/gcc
+lang/gforth
 lang/go
 lang/gprolog
 lang/itcl4
