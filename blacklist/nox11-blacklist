@@ -29,6 +29,7 @@ lang/ruby22
 net/gtk-vnc
 net/libgweather
 net/samba43
+net/samba44
 print/ghostscript9-base
 print/teTeX-texmf
 print/tex-formats

@@ -479,7 +479,7 @@ net/redir
 net/relayd
 net/rinetd
 net/rsync
-net/samba44
+net/samba45
 net/sendemail
 net/slurm
 net/socat
