@@ -629,6 +629,7 @@ sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
 sysutils/lnav
+sysutils/lr
 sysutils/lsof
 sysutils/ltrace
 sysutils/megacli
