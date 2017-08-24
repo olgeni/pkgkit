@@ -823,6 +823,7 @@ textproc/it-hunspell
 textproc/jo
 textproc/jq
 textproc/kibana45
+textproc/kibana46
 textproc/libxml2
 textproc/libxslt
 textproc/libyaml
