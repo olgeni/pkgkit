@@ -28,6 +28,7 @@ audio/shntool
 audio/soundtouch
 audio/sox
 audio/twolame
+benchmarks/flamegraph
 benchmarks/httperf
 benchmarks/iozone
 benchmarks/iperf
