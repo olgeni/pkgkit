@@ -23,15 +23,15 @@ package_blacklist()
 package_build()
 {
     if [ -z "${_disable_clean}" ]; then
-        sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+        sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
     fi
 
-    sudo poudriere bulk -J ${JOBS} -j ${PACKAGE_JAIL} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+    sudo poudriere bulk -J ${JOBS} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
 }
 
 package_clean()
 {
-    sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+    sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
 }
 
 package_repo()
@@ -185,7 +185,7 @@ for _config in "$@"; do
     JAIL_VERSION=""
     JAIL_ARCH=""
     PACKAGE_JAIL=""
-    PACKAGE_PORTS=""
+    PACKAGE_TREE=""
     PACKAGE_SET=""
     # reset
 
@@ -194,7 +194,7 @@ for _config in "$@"; do
     PACKAGE_BASENAME=packages-${JAIL_VERSION}-${JAIL_ARCH}-${PACKAGE_SET}
 
     PACKAGE_ORIGIN=${BUILD_ORIGIN_ROOT}/${JAIL_VERSION}-${JAIL_ARCH}-${PACKAGE_SET}.txt
-    PACKAGE_SOURCE=${BUILD_PACKAGES_ROOT}/${PACKAGE_JAIL}-${PACKAGE_PORTS}-${PACKAGE_SET}/.latest
+    PACKAGE_SOURCE=${BUILD_PACKAGES_ROOT}/${PACKAGE_JAIL}-${PACKAGE_TREE}-${PACKAGE_SET}/.latest
 
     PKG_TXZ=${PACKAGE_SOURCE}/Latest/pkg.txz
 
@@ -207,7 +207,7 @@ for _config in "$@"; do
     fi
 
     # if [ ! -e ${PKG_TXZ} ]; then
-    #     sudo poudriere bulk -J ${JOBS} -j ${PACKAGE_JAIL} -z ${PACKAGE_SET} ports-mgmt/pkg
+    #     sudo poudriere bulk -J ${JOBS} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} ports-mgmt/pkg
     # fi
 
     if [ -n "${_perform_blacklist}" ]; then
