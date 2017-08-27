@@ -153,7 +153,6 @@ devel/gradle
 devel/gsoap
 devel/icu
 devel/ipython
-devel/jenkins
 devel/jline
 devel/kBuild
 devel/libev
@@ -329,10 +328,7 @@ java/intellij-pty4j
 java/java-zoneinfo
 java/javavmwrapper
 java/linux-oracle-jdk18
-java/linux-oracle-jre18
-java/openjdk7-jre
 java/openjdk8
-java/openjdk8-jre
 java/sqlitejdbc
 lang/abcl
 lang/alchemist.el
@@ -494,18 +490,11 @@ net-im/pidgin
 net-mgmt/bsnmp-jails
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
-net-mgmt/cacti
-net-mgmt/cacti-spine
-net-mgmt/check_ipmi_sensor
 net-mgmt/collectd5
 net-mgmt/iftop
 net-mgmt/ipcalc
 net-mgmt/iprange
 net-mgmt/libsmi
-net-mgmt/mk-livestatus
-net-mgmt/nagios-certexp-plugin
-net-mgmt/nagios-check_netsnmp
-net-mgmt/nagios4
 net-mgmt/net-snmp
 net-mgmt/nrpe
 net-mgmt/nrpe-ssl
@@ -740,7 +729,6 @@ sysutils/pfstat
 sysutils/pftop
 sysutils/pipemeter
 sysutils/ptools
-sysutils/puppet4
 sysutils/pv
 sysutils/pwgen
 sysutils/py-glances
@@ -805,10 +793,6 @@ textproc/docbook
 textproc/docbook-sgml
 textproc/docbook-xml
 textproc/docbook-xsl
-textproc/elasticsearch-plugin-head
-textproc/elasticsearch2
-textproc/elasticsearch2-plugin-hq
-textproc/elasticsearch2-plugin-sql
 textproc/en-aspell
 textproc/en-hunspell
 textproc/expat2
@@ -822,8 +806,6 @@ textproc/it-aspell
 textproc/it-hunspell
 textproc/jo
 textproc/jq
-textproc/kibana45
-textproc/kibana46
 textproc/libxml2
 textproc/libxslt
 textproc/libyaml
@@ -836,10 +818,8 @@ textproc/php56-dom
 textproc/php56-simplexml
 textproc/php56-xml
 textproc/py-chardet
-textproc/py-elasticsearch-py
 textproc/py-libxml2
 textproc/py-markdown2
-textproc/py-pyelasticsearch
 textproc/py-python-augeas
 textproc/rubygem-docdiff
 textproc/texi2html
@@ -858,8 +838,6 @@ www/elinks
 www/firefox
 www/googlebook_dl
 www/grafana2
-www/grafana3
-www/grafana4
 www/kannel
 www/kannel-sqlbox
 www/lighttpd

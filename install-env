@@ -13,8 +13,11 @@ chown -R root:wheel /usr/local/etc/poudriere.d/nox11-options/
 
 install -o root -g wheel -m 644 -v env/make.conf /usr/local/etc/poudriere.d/make.conf
 
-install -o root -g wheel -m 644 -v env/x11 /usr/local/etc/poudriere.d/x11-make.conf
-install -o root -g wheel -m 644 -v env/nox11 /usr/local/etc/poudriere.d/nox11-make.conf
+install -o root -g wheel -m 644 -v env/default-make.conf /usr/local/etc/poudriere.d/default-make.conf
+install -o root -g wheel -m 644 -v env/ubiquity-make.conf /usr/local/etc/poudriere.d/ubiquity-make.conf
+
+install -o root -g wheel -m 644 -v env/x11-make.conf /usr/local/etc/poudriere.d/x11-make.conf
+install -o root -g wheel -m 644 -v env/nox11-make.conf /usr/local/etc/poudriere.d/nox11-make.conf
 
 install -o root -g wheel -m 644 -v blacklist/x11-blacklist /usr/local/etc/poudriere.d/x11-blacklist
 install -o root -g wheel -m 644 -v blacklist/nox11-blacklist /usr/local/etc/poudriere.d/nox11-blacklist
