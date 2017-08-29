@@ -560,6 +560,7 @@ shells/zsh
 shells/zsh-navigation-tools
 sysutils/afio
 sysutils/ansible
+sysutils/aptly
 sysutils/ataidle
 sysutils/atop
 sysutils/bbcp
