@@ -425,8 +425,6 @@ net-mgmt/ipcalc
 net-mgmt/iprange
 net-mgmt/libsmi
 net-mgmt/net-snmp
-net-mgmt/nrpe
-net-mgmt/nrpe-ssl
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
 net-mgmt/telegraf
