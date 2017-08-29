@@ -10,9 +10,6 @@ CURDIR=$(dirname $0)
 
 : ${BSDKIT_REMOTE:=""}
 
-BUILD_EXCLUDE_ROOT=$(realpath ${CURDIR}/blacklist)
-BUILD_ORIGIN_ROOT=$(realpath ${CURDIR}/origins)
-
 DEFAULT_JOBS=$(sysctl -n kern.smp.cpus)
 
 package_blacklist()
@@ -192,7 +189,10 @@ for _config in "$@"; do
 
     PACKAGE_BASENAME=packages-${PACKAGE_ABI}-${PACKAGE_TREE}-${PACKAGE_SET}
 
-    PACKAGE_ORIGIN=${BUILD_ORIGIN_ROOT}/${PACKAGE_ABI}-${PACKAGE_TREE}-${PACKAGE_SET}.txt
+    BUILD_EXCLUDE_ROOT=$(realpath ${CURDIR}/blacklist)
+    BUILD_ORIGIN_ROOT=$(realpath ${CURDIR}/origins/${PACKAGE_TREE})
+
+    PACKAGE_ORIGIN=${BUILD_ORIGIN_ROOT}/${PACKAGE_ABI}-${PACKAGE_SET}.txt
     PACKAGE_SOURCE=${BUILD_PACKAGES_ROOT}/${PACKAGE_JAIL}-${PACKAGE_TREE}-${PACKAGE_SET}/.latest
 
     PKG_TXZ=${PACKAGE_SOURCE}/Latest/pkg.txz
