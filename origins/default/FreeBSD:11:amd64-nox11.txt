@@ -564,6 +564,7 @@ sysutils/ansible
 sysutils/aptly
 sysutils/ataidle
 sysutils/atop
+sysutils/azure-agent
 sysutils/bbcp
 sysutils/beadm
 sysutils/bhyve-firmware
