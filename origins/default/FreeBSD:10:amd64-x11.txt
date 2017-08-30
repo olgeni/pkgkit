@@ -103,6 +103,7 @@ databases/sqlite3
 databases/tarantool
 databases/tcl-sqlite3
 databases/tdb
+databases/timescaledb
 deskutils/freemind
 deskutils/gcal
 deskutils/taskwarrior
