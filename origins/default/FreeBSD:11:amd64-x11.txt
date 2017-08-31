@@ -632,6 +632,7 @@ security/ssss
 security/starttls
 security/stunnel
 security/sudo
+security/veracrypt
 security/vlock
 security/vuxml
 security/xinetd
