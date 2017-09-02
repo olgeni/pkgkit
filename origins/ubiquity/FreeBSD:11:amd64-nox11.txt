@@ -378,6 +378,7 @@ misc/ipbt
 misc/lv
 misc/mbuffer
 misc/mc
+misc/patchutils
 misc/py-pexpect
 misc/rpl
 misc/seq2
