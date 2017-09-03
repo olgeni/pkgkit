@@ -71,6 +71,7 @@ databases/pgtop
 databases/pgtune
 databases/php71-mysqli
 databases/php71-pdo
+databases/php71-pdo_mysql
 databases/php71-pdo_pgsql
 databases/php71-pdo_sqlite
 databases/php71-pgsql
@@ -173,6 +174,7 @@ devel/p5-Module-CoreList
 devel/patch
 devel/pcre
 devel/pear
+devel/php71-gettext
 devel/php71-json
 devel/php71-tokenizer
 devel/pkgconf
@@ -409,6 +411,7 @@ math/lapack
 math/libqalculate
 math/mpc
 math/mpfr
+math/php71-gmp
 math/py-matplotlib
 math/py-networkx
 math/py-numeric
@@ -499,6 +502,7 @@ net-mgmt/ipcalc
 net-mgmt/iprange
 net-mgmt/libsmi
 net-mgmt/net-snmp
+net-mgmt/php71-snmp
 net-mgmt/riemann
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
@@ -535,6 +539,8 @@ net/nss_ldap
 net/omnitty
 net/openldap24-client
 net/openldap24-server
+net/php71-ldap
+net/php71-sockets
 net/py-amqp
 net/py-GeoIP
 net/py-kombu
@@ -614,6 +620,7 @@ security/pam_google_authenticator
 security/pam_ldap
 security/pam_mkhomedir
 security/pam_ssh_agent_auth
+security/php71-filter
 security/php71-hash
 security/php71-openssl
 security/pinentry
@@ -730,6 +737,7 @@ sysutils/pdumpfs
 sysutils/pefs-kmod
 sysutils/pfstat
 sysutils/pftop
+sysutils/php71-posix
 sysutils/pipemeter
 sysutils/ptools
 sysutils/pv
@@ -817,6 +825,7 @@ textproc/markdown-mode.el
 textproc/miller
 textproc/p5-ack
 textproc/par
+textproc/php71-ctype
 textproc/php71-dom
 textproc/php71-simplexml
 textproc/php71-xml
