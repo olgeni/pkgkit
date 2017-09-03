@@ -532,7 +532,6 @@ security/pam_google_authenticator
 security/pam_ldap
 security/pam_mkhomedir
 security/pam_ssh_agent_auth
-security/pecl-ssh2-0
 security/php71-hash
 security/php71-openssl
 security/pinentry
