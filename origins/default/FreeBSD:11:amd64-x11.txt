@@ -253,6 +253,7 @@ editors/chexedit
 editors/dhex
 editors/emacs
 editors/fileobj
+editors/ghex
 editors/heme
 editors/hexcurse
 editors/hexedit
