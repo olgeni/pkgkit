@@ -305,6 +305,7 @@ lang/gprolog
 lang/itcl4
 lang/jimtcl
 lang/mono
+lang/nx
 lang/perl5.24
 lang/php71
 lang/py-hy
