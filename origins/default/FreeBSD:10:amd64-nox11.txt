@@ -560,6 +560,7 @@ security/ssss
 security/starttls
 security/stunnel
 security/sudo
+security/vault
 security/vlock
 security/vuxml
 security/xinetd
@@ -587,6 +588,7 @@ sysutils/cdls
 sysutils/cdrtools
 sysutils/clone
 sysutils/cloudabi-utils
+sysutils/consul
 sysutils/coreutils
 sysutils/cpdup
 sysutils/cpuid
@@ -644,7 +646,9 @@ sysutils/moreutils
 sysutils/most
 sysutils/multitail
 sysutils/ncdu
+sysutils/nomad
 sysutils/ohmu
+sysutils/packer
 sysutils/parallel
 sysutils/pdumpfs
 sysutils/pefs-kmod
@@ -682,6 +686,7 @@ sysutils/stress
 sysutils/symlinks
 sysutils/syslog-ng
 sysutils/sysvbanner
+sysutils/terraform
 sysutils/tlsdate
 sysutils/tmate
 sysutils/tmate-slave
