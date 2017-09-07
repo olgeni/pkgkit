@@ -352,6 +352,7 @@ lang/gcc
 lang/gforth
 lang/go
 lang/gprolog
+lang/itcl
 lang/itcl4
 lang/jimtcl
 lang/mono
