@@ -588,7 +588,6 @@ sysutils/cdargs
 sysutils/cdls
 sysutils/cdrtools
 sysutils/clone
-sysutils/cloudabi-utils
 sysutils/consul
 sysutils/coreutils
 sysutils/cpdup
