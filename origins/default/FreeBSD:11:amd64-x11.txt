@@ -755,6 +755,7 @@ sysutils/py-glances
 sysutils/py-psutil
 sysutils/py-ranger
 sysutils/py-salt
+sysutils/py-supervisor
 sysutils/pydf
 sysutils/rdate
 sysutils/rdiff-backup
