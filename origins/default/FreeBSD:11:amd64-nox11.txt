@@ -116,7 +116,6 @@ devel/bison
 devel/boost-jam
 devel/boost-libs
 devel/bpython
-devel/cargo
 devel/ccache
 devel/cdecl
 devel/cdialog
