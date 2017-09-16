@@ -545,6 +545,7 @@ security/php71-filter
 security/php71-hash
 security/php71-openssl
 security/pinentry
+security/py-acme
 security/py-certbot
 security/py-certifi
 security/py-cryptkit
