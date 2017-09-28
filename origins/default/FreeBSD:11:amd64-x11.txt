@@ -133,6 +133,7 @@ devel/cgdb
 devel/check
 devel/checkbashisms
 devel/cmake
+devel/critcl
 devel/cscope
 devel/ctags
 devel/cvs2svn
