@@ -485,6 +485,7 @@ net/py-s3cmd
 net/py-tweepy
 net/py-urllib3
 net/rabbitmq
+net/rclone
 net/redir
 net/relayd
 net/rinetd
