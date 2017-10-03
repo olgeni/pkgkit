@@ -656,6 +656,7 @@ sysutils/multitail
 sysutils/ncdu
 sysutils/nomad
 sysutils/ohmu
+sysutils/osquery
 sysutils/packer
 sysutils/parallel
 sysutils/pdumpfs
