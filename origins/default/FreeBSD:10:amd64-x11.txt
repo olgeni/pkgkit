@@ -360,6 +360,7 @@ lang/jimtcl
 lang/mono
 lang/nx
 lang/perl5.24
+lang/phantomjs
 lang/php71
 lang/py-hy
 lang/py-mx-base
