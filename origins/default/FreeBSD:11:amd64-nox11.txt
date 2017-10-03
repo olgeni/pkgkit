@@ -419,6 +419,7 @@ multimedia/mkvtoolnix
 multimedia/mp4v2
 multimedia/mpgtx
 multimedia/mplayer
+multimedia/mpv
 multimedia/mxflib
 multimedia/qt-faststart
 multimedia/rtmpdump
