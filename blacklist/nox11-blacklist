@@ -59,8 +59,10 @@ graphics/gtk-update-icon-cache
 graphics/ImageMagick
 graphics/libGL
 graphics/libGLU
+graphics/mesa-libs
 multimedia/gstreamer-plugins
 multimedia/gstreamer-plugins-core
+multimedia/libva
 print/ghostscript9-x11
 print/tex-dvipsk
 print/transfig
