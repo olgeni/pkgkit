@@ -312,6 +312,7 @@ graphics/php71-gd
 graphics/plotutils
 graphics/png
 graphics/pngquant
+graphics/pstoedit
 graphics/py-actdiag
 graphics/py-blockdiag
 graphics/py-blockdiagcontrib-cisco
