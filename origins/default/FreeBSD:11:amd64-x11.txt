@@ -812,6 +812,7 @@ sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
 sysutils/zfstools
 sysutils/zrep
+sysutils/zrepl
 textproc/align
 textproc/asciidoc
 textproc/aspell
