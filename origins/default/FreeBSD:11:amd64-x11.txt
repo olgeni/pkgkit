@@ -527,6 +527,7 @@ net/GeoIP
 net/gnatsd
 net/gnetcat
 net/go-cs
+net/google-cloud-sdk
 net/haproxy
 net/hexinject
 net/hping
