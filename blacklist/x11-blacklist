@@ -43,6 +43,7 @@ security/openssl
 textproc/openjade
 www/apache22
 x11-toolkits/libbonoboui
+x11-toolkits/swt-devel
 x11/gnome-desktop
 x11/gnome-menus
 x11/gnome-panel
