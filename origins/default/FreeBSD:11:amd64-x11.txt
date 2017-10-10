@@ -286,6 +286,7 @@ ftp/lftp
 ftp/ncftp3
 ftp/wget
 games/bsdgames
+games/bzflag
 games/powder-toy
 graphics/electrix
 graphics/exif
