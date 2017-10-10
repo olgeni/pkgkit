@@ -536,6 +536,7 @@ security/clamav
 security/dehydrated
 security/denyhosts
 security/doas
+security/easy-rsa
 security/expiretable
 security/fakeroot
 security/gnupg
