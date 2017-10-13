@@ -567,6 +567,7 @@ security/py-oauthlib
 security/py-pycrypto
 security/py-rsa
 security/scrypt
+security/ssh-vault
 security/sshpass
 security/ssss
 security/starttls
