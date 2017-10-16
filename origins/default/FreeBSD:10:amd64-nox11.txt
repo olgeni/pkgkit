@@ -84,7 +84,6 @@ databases/py-hiredis
 databases/py-pgcli
 databases/py-psycopg2
 databases/py-PyGreSQL
-databases/py-pyPgSQL
 databases/py-redis
 databases/py-south
 databases/py-sqlite3
