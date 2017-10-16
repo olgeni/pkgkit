@@ -352,6 +352,7 @@ lang/erlang-java
 lang/erlang-wx
 lang/expect
 lang/ficl
+lang/fsharp
 lang/gambit-c
 lang/gawk
 lang/gcc
