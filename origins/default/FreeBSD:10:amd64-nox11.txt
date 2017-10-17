@@ -255,6 +255,7 @@ emulators/qemu-devel
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
+ftp/atftp
 ftp/curl
 ftp/lftp
 ftp/ncftp3
