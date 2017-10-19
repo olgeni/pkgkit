@@ -189,6 +189,7 @@ devel/py-bitstring
 devel/py-dateutil
 devel/py-decorator
 devel/py-freebsd
+devel/py-gdata
 devel/py-gevent
 devel/py-gitosis
 devel/py-interface
