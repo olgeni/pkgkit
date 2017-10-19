@@ -626,6 +626,7 @@ sysutils/dvd+rw-tools
 sysutils/dvdbackup
 sysutils/e2fsprogs
 sysutils/eject
+sysutils/envconsul
 sysutils/exa
 sysutils/exfat-utils
 sysutils/flock
