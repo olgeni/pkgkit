@@ -886,6 +886,7 @@ www/csstidy
 www/elinks
 www/firefox
 www/gitea
+www/go-www
 www/googlebook_dl
 www/grafana2
 www/kannel

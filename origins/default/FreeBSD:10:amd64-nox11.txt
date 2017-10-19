@@ -787,6 +787,7 @@ www/aria2
 www/csstidy
 www/elinks
 www/gitea
+www/go-www
 www/googlebook_dl
 www/grafana2
 www/kannel
