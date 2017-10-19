@@ -106,6 +106,7 @@ databases/tdb
 databases/timescaledb
 deskutils/freemind
 deskutils/gcal
+deskutils/noti
 deskutils/taskwarrior
 deskutils/timewarrior
 deskutils/treesheets
