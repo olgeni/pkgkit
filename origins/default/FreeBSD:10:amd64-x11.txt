@@ -290,6 +290,7 @@ ftp/ncftp3
 ftp/wget
 games/bsdgames
 games/bzflag
+games/oolite
 games/powder-toy
 graphics/electrix
 graphics/exif
