@@ -318,6 +318,7 @@ graphics/netpbm
 graphics/opencv-core
 graphics/openjpeg
 graphics/php71-gd
+graphics/pixd
 graphics/plotutils
 graphics/png
 graphics/pngquant
