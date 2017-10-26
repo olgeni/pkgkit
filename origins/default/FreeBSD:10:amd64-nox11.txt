@@ -751,6 +751,7 @@ textproc/en-hunspell
 textproc/expat2
 textproc/ffe
 textproc/flex
+textproc/fzf
 textproc/gsed
 textproc/hunspell
 textproc/icdiff
