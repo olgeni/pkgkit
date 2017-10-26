@@ -97,7 +97,6 @@ databases/sqlite3
 databases/tarantool
 databases/tcl-sqlite3
 databases/tdb
-databases/timescaledb
 deskutils/gcal
 deskutils/taskwarrior
 deskutils/timewarrior
