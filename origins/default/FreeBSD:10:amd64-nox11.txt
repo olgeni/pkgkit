@@ -37,6 +37,7 @@ comms/kermit
 comms/lrzsz
 comms/mgetty+sendfax
 comms/py-serial
+comms/tio
 converters/base64
 converters/mpack
 converters/p5-JSON-PP
