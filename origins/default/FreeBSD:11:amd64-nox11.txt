@@ -142,6 +142,7 @@ devel/gitolite
 devel/gmake
 devel/go-glide
 devel/gsoap
+devel/hexd
 devel/icu
 devel/ipython
 devel/kBuild
