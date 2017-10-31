@@ -509,6 +509,7 @@ multimedia/rox-videothumbnail
 multimedia/rtmpdump
 multimedia/schroedinger
 multimedia/smpeg
+multimedia/smplayer
 multimedia/v4l_compat
 multimedia/vlc
 multimedia/x264
