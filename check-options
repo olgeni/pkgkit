@@ -27,15 +27,15 @@ shift $((${OPTIND} - 1))
 cat ${ORIGINS} | grep -v "^#" | while read _origin; do
     echo "Checking ${_origin}"
 
-    _options_file=$(make __MAKE_CONF=${CURDIR}/env/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/env/options/${PACKAGE_SET} -C /usr/ports/${_origin} -V OPTIONS_FILE 2>/dev/null)
+    _options_file=$(make __MAKE_CONF=${CURDIR}/env/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/options/${PACKAGE_SET} -C /usr/ports/${_origin} -V OPTIONS_FILE 2>/dev/null)
 
     if [ -e ${_options_file} ]; then
         _package0=$(grep _OPTIONS_READ ${_options_file} | cut -d= -f 2)
 
-        _package1=$(make __MAKE_CONF=${CURDIR}/env/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/env/options/${PACKAGE_SET} -C /usr/ports/${_origin} package-name 2>/dev/null)
+        _package1=$(make __MAKE_CONF=${CURDIR}/env/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/options/${PACKAGE_SET} -C /usr/ports/${_origin} package-name 2>/dev/null)
 
         if [ "${_package0}" != "${_package1}" ]; then
-            make __MAKE_CONF=${CURDIR}/env/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/env/options/${PACKAGE_SET} -C /usr/ports/${_origin} config
+            make __MAKE_CONF=${CURDIR}/env/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/options/${PACKAGE_SET} -C /usr/ports/${_origin} config
         fi
     fi
 done

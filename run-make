@@ -21,4 +21,4 @@ shift $((${OPTIND} - 1))
     exit 1
 }
 
-exec make __MAKE_CONF=${CURDIR}/env/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/env/options/${PACKAGE_SET} "$@"
+exec make __MAKE_CONF=${CURDIR}/${PACKAGE_SET} PORT_DBDIR=${CURDIR}/options/${PACKAGE_SET}-options "$@"
