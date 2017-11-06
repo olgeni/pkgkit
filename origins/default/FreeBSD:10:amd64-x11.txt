@@ -294,6 +294,7 @@ games/bsdgames
 games/bzflag
 games/oolite
 games/powder-toy
+games/tty-solitaire
 graphics/electrix
 graphics/exif
 graphics/frei0r

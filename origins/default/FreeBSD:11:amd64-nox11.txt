@@ -265,6 +265,7 @@ ftp/lftp
 ftp/ncftp3
 ftp/wget
 games/bsdgames
+games/tty-solitaire
 graphics/exif
 graphics/frei0r
 graphics/gd
