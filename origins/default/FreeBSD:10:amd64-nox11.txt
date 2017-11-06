@@ -684,6 +684,7 @@ sysutils/pipemeter
 sysutils/ptools
 sysutils/pv
 sysutils/pwgen
+sysutils/py-diffoscope
 sysutils/py-dirsync
 sysutils/py-glances
 sysutils/py-psutil
