@@ -758,6 +758,7 @@ textproc/expat2
 textproc/ffe
 textproc/flex
 textproc/fzf
+textproc/fzy
 textproc/gsed
 textproc/hunspell
 textproc/icdiff
