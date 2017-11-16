@@ -739,6 +739,7 @@ sysutils/zfs-stats
 sysutils/zfstools
 sysutils/zrep
 sysutils/zrepl
+sysutils/zxfer
 textproc/align
 textproc/asciidoc
 textproc/aspell
