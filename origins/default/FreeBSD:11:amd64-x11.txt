@@ -239,6 +239,7 @@ devel/tcllib
 devel/tcllibc
 devel/tclreadline
 devel/tclthread
+devel/tcltls
 devel/tig
 devel/tkcon
 devel/tmake
