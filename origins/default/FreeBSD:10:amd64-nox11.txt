@@ -394,6 +394,7 @@ misc/cpuid
 misc/cstream
 misc/delay
 misc/findutils
+misc/fortune-mod-freebsd-classic
 misc/getopt
 misc/gnu-watch
 misc/help2man

@@ -454,6 +454,7 @@ misc/cpuid
 misc/cstream
 misc/delay
 misc/findutils
+misc/fortune-mod-freebsd-classic
 misc/getopt
 misc/gnome-icon-theme
 misc/gnu-watch
