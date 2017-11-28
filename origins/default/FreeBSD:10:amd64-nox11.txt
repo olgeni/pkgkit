@@ -731,6 +731,7 @@ sysutils/ttyload
 sysutils/ufs_copy
 sysutils/usermin
 sysutils/vagrant
+sysutils/vcp
 sysutils/vm-bhyve
 sysutils/vmtouch
 sysutils/webmin
