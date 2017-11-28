@@ -143,6 +143,7 @@ devel/git-extras
 devel/gitolite
 devel/gmake
 devel/go-glide
+devel/gogs
 devel/gsoap
 devel/hexd
 devel/icu
