@@ -735,6 +735,7 @@ sysutils/eject
 sysutils/envconsul
 sysutils/exa
 sysutils/exfat-utils
+sysutils/fileprune
 sysutils/flock
 sysutils/fpart
 sysutils/fusefs-exfat
