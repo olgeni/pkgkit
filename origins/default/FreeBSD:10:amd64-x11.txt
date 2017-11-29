@@ -630,6 +630,7 @@ print/pdftk
 print/py-stapler
 science/py-scipy
 security/acme.sh
+security/acmetool
 security/aespipe
 security/autossh
 security/bcwipe
