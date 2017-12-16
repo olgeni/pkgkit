@@ -206,6 +206,7 @@ devel/py-Jinja2
 devel/py-jupyter_client
 devel/py-jupyter_console
 devel/py-kjbuckets
+devel/py-kqueue
 devel/py-libzfs
 devel/py-logilab-common
 devel/py-lxml
