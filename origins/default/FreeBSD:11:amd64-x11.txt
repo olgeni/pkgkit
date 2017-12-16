@@ -939,6 +939,7 @@ www/py-requests
 www/seamonkey
 www/squid
 www/tclhttpd
+www/tdom
 www/tidy
 www/tinyproxy
 www/uwsgi

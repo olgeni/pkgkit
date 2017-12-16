@@ -834,6 +834,7 @@ www/py-meld3
 www/py-requests
 www/squid
 www/tclhttpd
+www/tdom
 www/tidy
 www/tinyproxy
 www/uwsgi
