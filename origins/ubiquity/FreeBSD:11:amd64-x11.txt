@@ -404,7 +404,6 @@ math/djbfft
 math/fftw3
 math/fftw3-float
 math/gmp
-math/gnuplot
 math/ised
 math/lapack
 math/libqalculate
