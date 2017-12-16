@@ -853,6 +853,7 @@ sysutils/zrep
 sysutils/zrepl
 sysutils/zxfer
 textproc/align
+textproc/ansifilter
 textproc/asciidoc
 textproc/aspell
 textproc/augeas
