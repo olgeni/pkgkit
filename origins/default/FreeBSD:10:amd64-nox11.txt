@@ -278,6 +278,7 @@ graphics/gd
 graphics/giflib
 graphics/gocr
 graphics/gphoto2
+graphics/hiptext
 graphics/icoutils
 graphics/ImageMagick-nox11
 graphics/jhead

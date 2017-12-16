@@ -314,6 +314,7 @@ graphics/gimp-resynthesizer
 graphics/gocr
 graphics/gource
 graphics/gphoto2
+graphics/hiptext
 graphics/icoutils
 graphics/ImageMagick
 graphics/inkscape
