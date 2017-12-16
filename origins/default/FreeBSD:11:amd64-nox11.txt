@@ -115,6 +115,7 @@ devel/awless
 devel/awscli
 devel/binutils
 devel/bison
+devel/boost-docs
 devel/boost-jam
 devel/boost-libs
 devel/bpython
