@@ -378,6 +378,7 @@ math/djbfft
 math/fftw3
 math/fftw3-float
 math/gmp
+math/gnuplot-lite
 math/ised
 math/lapack
 math/libqalculate
