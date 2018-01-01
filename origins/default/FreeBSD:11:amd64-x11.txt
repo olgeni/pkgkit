@@ -10,6 +10,7 @@ archivers/pigz
 archivers/rar
 archivers/unrar
 archivers/zip
+astro/xearth
 audio/ardour5
 audio/audacity
 audio/aumix
