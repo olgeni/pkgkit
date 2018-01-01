@@ -979,6 +979,7 @@ x11-fonts/lfpfonts-fix
 x11-fonts/lfpfonts-var
 x11-fonts/liberation-fonts-ttf
 x11-fonts/linuxlibertine
+x11-fonts/meslo
 x11-fonts/mkbold-mkitalic
 x11-fonts/mkfontdir
 x11-fonts/mkfontscale
