@@ -865,6 +865,7 @@ textproc/aspell
 textproc/augeas
 textproc/bar
 textproc/cdiff
+textproc/diff-so-fancy
 textproc/diffstat
 textproc/docbook
 textproc/docbook-sgml
