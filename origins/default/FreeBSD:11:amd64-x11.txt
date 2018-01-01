@@ -1028,6 +1028,7 @@ x11/cool-retro-term
 x11/editres
 x11/evieext
 x11/grabc
+x11/hhpc
 x11/listres
 x11/lsw
 x11/mate
