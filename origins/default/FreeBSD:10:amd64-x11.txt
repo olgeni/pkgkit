@@ -531,6 +531,7 @@ net-im/finch
 net-im/oysttyer
 net-im/pidgin
 net-im/py-python-telegram-bot
+net-im/teamwords
 net-mgmt/bsnmp-jails
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
