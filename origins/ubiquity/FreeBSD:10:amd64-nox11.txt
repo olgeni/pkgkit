@@ -433,8 +433,7 @@ net-mgmt/nagios-certexp-plugin
 net-mgmt/nagios-check_netsnmp
 net-mgmt/nagios4
 net-mgmt/net-snmp
-net-mgmt/nrpe
-net-mgmt/nrpe-ssl
+net-mgmt/nrpe3
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
 net-mgmt/telegraf
