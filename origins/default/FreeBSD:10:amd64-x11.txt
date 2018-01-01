@@ -839,6 +839,7 @@ sysutils/ts
 sysutils/tty-clock
 sysutils/ttyload
 sysutils/ufs_copy
+sysutils/usbtop
 sysutils/usermin
 sysutils/vagrant
 sysutils/vcp
