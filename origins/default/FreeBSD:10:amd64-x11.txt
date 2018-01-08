@@ -597,7 +597,7 @@ net/redir
 net/relayd
 net/rinetd
 net/rsync
-net/samba45
+net/samba46
 net/sdl_net
 net/sendemail
 net/slurm
@@ -733,7 +733,6 @@ sysutils/disktype
 sysutils/dmidecode
 sysutils/downtimed
 sysutils/dtpstree
-sysutils/DTraceToolkit
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
 sysutils/e2fsprogs

@@ -598,7 +598,7 @@ net/redir
 net/relayd
 net/rinetd
 net/rsync
-net/samba45
+net/samba46
 net/sdl_net
 net/sendemail
 net/slurm
