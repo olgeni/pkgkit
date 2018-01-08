@@ -51,7 +51,10 @@ scan()
 {
     echo "Scanning $1"
 
-    [ -d ${PORTSDIR}/$1 ] || return 1
+    [ -d ${PORTSDIR}/$1 -a "$1" != "patch" ] || {
+        echo "Directory not found: $1"
+        return 1
+    }
 
     for _depend in `make __MAKE_CONF=${_make_conf} -VPKG_DEPENDS -VBUILD_DEPENDS -VEXTRACT_DEPENDS -VLIB_DEPENDS -VPATCH_DEPENDS -VFETCH_DEPENDS -VRUN_DEPENDS -C ${PORTSDIR}/$1`; do
         _depend=$(echo ${_depend} | sed -e "s/.*://")
