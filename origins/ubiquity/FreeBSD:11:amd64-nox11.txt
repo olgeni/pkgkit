@@ -207,7 +207,7 @@ devel/rlog
 devel/rlwrap
 devel/scons
 devel/subversion
-devel/swig13
+devel/swig30
 devel/tcllib
 devel/tcllibc
 devel/tclreadline
