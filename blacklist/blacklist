@@ -9,7 +9,6 @@ devel/libbonobo
 devel/llvm33
 devel/llvm34
 devel/llvm35
-devel/llvm39
 graphics/jpeg
 graphics/libgnomecanvas
 lang/clang33
@@ -26,12 +25,12 @@ lang/ruby19
 lang/ruby20
 lang/ruby21
 lang/ruby22
-lang/ruby24
+lang/ruby23
 lang/tcl87
 net/gtk-vnc
 net/libgweather
 net/samba44
-net/samba46
+net/samba45
 print/ghostscript9-base
 print/teTeX-texmf
 print/tex-formats

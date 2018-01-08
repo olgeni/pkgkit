@@ -1,0 +1,16 @@
+databases/postgresql95-client
+databases/postgresql95-contrib
+databases/postgresql95-docs
+databases/postgresql95-pgtcl
+databases/postgresql95-plperl
+databases/postgresql95-plpython
+databases/postgresql95-pltcl
+databases/postgresql95-server
+databases/postgresql96-client
+databases/postgresql96-contrib
+databases/postgresql96-docs
+databases/postgresql96-pgtcl
+databases/postgresql96-plperl
+databases/postgresql96-plpython
+databases/postgresql96-pltcl
+databases/postgresql96-server
