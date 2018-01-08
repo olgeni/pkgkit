@@ -834,7 +834,6 @@ textproc/php56-simplexml
 textproc/php56-xml
 textproc/py-chardet
 textproc/py-elasticsearch-curator-py
-textproc/py-elasticsearch-py
 textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-pyelasticsearch
