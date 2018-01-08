@@ -57,7 +57,6 @@ databases/mysql56-server
 databases/p5-Bucardo
 databases/pear-MDB2_Driver_pgsql
 databases/pg_activity
-databases/pg_citus
 databases/pg_partman
 databases/pg_repack
 databases/pgadmin3
@@ -121,7 +120,6 @@ devel/bison
 devel/boost-jam
 devel/boost-libs
 devel/bpython
-devel/cargo
 devel/ccache
 devel/cdecl
 devel/cdialog
