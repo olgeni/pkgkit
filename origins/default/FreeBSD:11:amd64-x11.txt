@@ -734,7 +734,6 @@ sysutils/disktype
 sysutils/dmidecode
 sysutils/downtimed
 sysutils/dtpstree
-sysutils/DTraceToolkit
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
 sysutils/e2fsprogs
