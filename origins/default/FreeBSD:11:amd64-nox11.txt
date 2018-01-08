@@ -334,7 +334,7 @@ lang/python
 lang/python-mode.el
 lang/python2
 lang/python27
-lang/ruby23
+lang/ruby24
 lang/runawk
 lang/rust
 lang/sbcl
