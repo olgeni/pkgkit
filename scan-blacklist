@@ -56,6 +56,8 @@ scan()
     for _depend in `make __MAKE_CONF=${_make_conf} -VPKG_DEPENDS -VBUILD_DEPENDS -VEXTRACT_DEPENDS -VLIB_DEPENDS -VPATCH_DEPENDS -VFETCH_DEPENDS -VRUN_DEPENDS -C ${PORTSDIR}/$1`; do
         _depend=$(echo ${_depend} | sed -e "s/.*://")
         _depend=${_depend#${PORTSDIR}/}
+        _depend=${_depend%@py27}
+        _depend=${_depend%@py36}
 
 	if [ $blacklist[(i)${_depend}] -le ${#blacklist} ]; then
             echo "Found: $1 -> ${_depend}."
