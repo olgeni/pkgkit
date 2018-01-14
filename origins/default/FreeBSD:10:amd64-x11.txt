@@ -384,6 +384,7 @@ lang/itcl
 lang/itcl4
 lang/jimtcl
 lang/mono
+lang/nim
 lang/nx
 lang/perl5.24
 lang/phantomjs
