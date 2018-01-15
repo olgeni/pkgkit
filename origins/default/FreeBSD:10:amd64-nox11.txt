@@ -132,6 +132,7 @@ devel/ctags
 devel/cvs2svn
 devel/cvsps
 devel/deheader
+devel/dep
 devel/dev86
 devel/distel
 devel/ElectricFence
