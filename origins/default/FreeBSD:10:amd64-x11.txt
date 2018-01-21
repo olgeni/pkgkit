@@ -1007,6 +1007,7 @@ x11-servers/xorg-vfbserver
 x11-themes/adwaita-icon-theme
 x11-themes/gtk-arc-themes
 x11-themes/icon-naming-utils
+x11-themes/openbox-arc-theme
 x11-themes/openbox-themes
 x11-toolkits/bwidget
 x11-toolkits/iwidgets
