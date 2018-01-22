@@ -643,6 +643,7 @@ security/acmetool
 security/aespipe
 security/autossh
 security/bcwipe
+security/binwalk
 security/ca_root_nss
 security/clamav
 security/dehydrated
