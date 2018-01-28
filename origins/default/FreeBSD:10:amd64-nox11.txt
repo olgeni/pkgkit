@@ -797,6 +797,7 @@ textproc/php71-ctype
 textproc/php71-dom
 textproc/php71-simplexml
 textproc/php71-xml
+textproc/py-autopep8
 textproc/py-chardet
 textproc/py-libxml2
 textproc/py-markdown2
