@@ -570,6 +570,7 @@ net/ifstat
 net/ifstated
 net/ipsvd
 net/isc-dhcp43-server
+net/kafka
 net/lft
 net/librdkafka
 net/miruo
