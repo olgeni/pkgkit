@@ -254,6 +254,7 @@ devel/valgrind
 devel/xorg-macros
 devel/yajl-tcl
 devel/yasm
+devel/zookeeper
 dns/adns
 dns/bind-tools
 dns/bind911
