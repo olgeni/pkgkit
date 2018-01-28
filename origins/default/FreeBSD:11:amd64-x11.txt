@@ -571,6 +571,7 @@ net/ifstated
 net/ipsvd
 net/isc-dhcp43-server
 net/lft
+net/librdkafka
 net/miruo
 net/mosh
 net/mpd5
