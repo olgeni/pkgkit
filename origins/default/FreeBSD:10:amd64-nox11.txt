@@ -816,6 +816,7 @@ www/elinks
 www/gitea
 www/go-www
 www/googlebook_dl
+www/gotty
 www/grafana2
 www/kannel
 www/kannel-sqlbox
