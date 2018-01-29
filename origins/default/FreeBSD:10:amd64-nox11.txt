@@ -724,6 +724,7 @@ sysutils/screen
 sysutils/screenie
 sysutils/sg3_utils
 sysutils/smartmontools
+sysutils/smenu
 sysutils/socklog
 sysutils/spinner
 sysutils/spiped
