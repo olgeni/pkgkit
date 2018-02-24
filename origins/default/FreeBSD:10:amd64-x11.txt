@@ -762,6 +762,7 @@ sysutils/fusefs-ntfs
 sysutils/fusefs-sshfs
 sysutils/gaffitter
 sysutils/gconf-editor
+sysutils/getssl
 sysutils/goss
 sysutils/grub2-bhyve
 sysutils/gsmartcontrol

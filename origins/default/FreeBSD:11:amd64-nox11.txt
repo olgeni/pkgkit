@@ -660,6 +660,7 @@ sysutils/fusefs-libs
 sysutils/fusefs-ntfs
 sysutils/fusefs-sshfs
 sysutils/gaffitter
+sysutils/getssl
 sysutils/goss
 sysutils/grub2-bhyve
 sysutils/hatop
