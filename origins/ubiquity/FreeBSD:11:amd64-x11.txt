@@ -804,6 +804,7 @@ textproc/elasticsearch-plugin-head
 textproc/elasticsearch2
 textproc/elasticsearch2-plugin-hq
 textproc/elasticsearch2-plugin-sql
+textproc/elasticsearch5
 textproc/en-aspell
 textproc/en-hunspell
 textproc/expat2
