@@ -819,6 +819,7 @@ textproc/jo
 textproc/jq
 textproc/kibana45
 textproc/kibana46
+textproc/kibana5
 textproc/libxml2
 textproc/libxslt
 textproc/libyaml
