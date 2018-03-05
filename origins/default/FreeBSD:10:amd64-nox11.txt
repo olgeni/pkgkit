@@ -453,6 +453,7 @@ multimedia/x264
 multimedia/xvid
 net-im/oysttyer
 net-im/py-python-telegram-bot
+net-im/slack-term
 net-mgmt/bsnmp-jails
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
