@@ -680,7 +680,6 @@ sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
 sysutils/lnav
-sysutils/lr
 sysutils/lscpu
 sysutils/lsof
 sysutils/ltrace
