@@ -132,10 +132,11 @@ devel/cscope
 devel/ctags
 devel/cvs2svn
 devel/cvsps
+devel/dash.el@nox
 devel/deheader
 devel/dep
 devel/dev86
-devel/distel
+devel/distel@nox
 devel/ElectricFence
 devel/etcd32
 devel/fossil
@@ -158,7 +159,7 @@ devel/libtool
 devel/libvirt
 devel/libzvbi
 devel/m4
-devel/magit
+devel/magit@nox
 devel/mercurial
 devel/mkcmd
 devel/msrc0
@@ -176,7 +177,7 @@ devel/pkgconf
 devel/popt
 devel/protobuf
 devel/protobuf-c
-devel/psvn
+devel/psvn@nox
 devel/py-bitarray
 devel/py-bitstring
 devel/py-dateutil
@@ -248,7 +249,7 @@ editors/bitedit
 editors/bvi
 editors/chexedit
 editors/dhex
-editors/emacs
+editors/emacs@nox
 editors/fileobj
 editors/heme
 editors/hexcurse
@@ -259,9 +260,10 @@ editors/le
 editors/micro
 editors/nano
 editors/ne
-editors/paredit-mode.el
+editors/paredit-mode.el@nox
 editors/pico-alpine
 editors/vim
+editors/with-editor@nox
 emulators/open-vm-tools
 emulators/qemu-devel
 emulators/virtualbox-ose
@@ -307,11 +309,11 @@ graphics/scr2png
 graphics/svgalib
 graphics/tiff
 graphics/webp
-lang/alchemist.el
+lang/alchemist.el@nox
 lang/clang38
 lang/cython
 lang/elixir
-lang/elixir-mode.el
+lang/elixir-mode.el@nox
 lang/erlang
 lang/expect
 lang/ficl
@@ -594,7 +596,7 @@ security/scrypt
 security/ssh-vault
 security/sshpass
 security/ssss
-security/starttls
+security/starttls@nox
 security/stunnel
 security/sudo
 security/vault
@@ -796,7 +798,7 @@ textproc/libxml2
 textproc/libxslt
 textproc/libyaml
 textproc/markdown
-textproc/markdown-mode.el
+textproc/markdown-mode.el@nox
 textproc/miller
 textproc/p5-ack
 textproc/par
