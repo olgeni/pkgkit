@@ -789,7 +789,6 @@ sysutils/lbl-hf
 sysutils/libchk
 sysutils/lnav
 sysutils/logstash
-sysutils/lr
 sysutils/lscpu
 sysutils/lsof
 sysutils/ltrace
