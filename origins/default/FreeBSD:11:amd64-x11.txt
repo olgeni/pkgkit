@@ -71,6 +71,7 @@ databases/pgespresso
 databases/pgloader
 databases/pglogical
 databases/pgmetrics
+databases/pgsanity
 databases/pgtop
 databases/pgtune
 databases/php72-mysqli
