@@ -175,6 +175,9 @@ devel/libpdel
 devel/libtool
 devel/libvirt
 devel/libzvbi
+devel/lua-stdlib
+devel/lua-stdlib-debug
+devel/lua-stdlib-normalize
 devel/m4
 devel/magit
 devel/maven33
