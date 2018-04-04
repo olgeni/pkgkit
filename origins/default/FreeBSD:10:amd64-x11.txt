@@ -282,7 +282,6 @@ editors/ghex
 editors/heme
 editors/hexcurse
 editors/hexedit
-editors/hte
 editors/joe
 editors/le
 editors/micro
