@@ -149,6 +149,7 @@ devel/git-extras
 devel/gitolite
 devel/gmake
 devel/go-glide
+devel/go-tools
 devel/gogs
 devel/gsoap
 devel/hexd
