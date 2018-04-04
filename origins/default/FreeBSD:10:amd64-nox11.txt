@@ -371,6 +371,7 @@ mail/mailfromd
 mail/mboxgrep
 mail/mutt
 mail/pfqueue
+mail/pine-pgp-filters
 mail/postfix
 mail/procmail
 mail/pyzor
