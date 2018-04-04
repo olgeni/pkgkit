@@ -262,6 +262,7 @@ devel/xorg-macros
 devel/yajl-tcl
 devel/yasm
 devel/zookeeper
+devel/ztcl
 dns/adns
 dns/bind-tools
 dns/bind911
