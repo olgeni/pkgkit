@@ -979,6 +979,7 @@ www/tinyproxy
 www/uwsgi
 www/varnish4
 www/w3m
+www/websocketd
 www/yaws
 www/youtube_dl
 x11-clocks/xalarm
