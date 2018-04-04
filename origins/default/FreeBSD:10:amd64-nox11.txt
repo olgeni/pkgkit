@@ -636,6 +636,7 @@ sysutils/cdls
 sysutils/cdrtools
 sysutils/clone
 sysutils/consul
+sysutils/consul-replicate
 sysutils/coreutils
 sysutils/cpdup
 sysutils/cpuid
