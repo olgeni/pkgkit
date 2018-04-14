@@ -379,6 +379,7 @@ lang/cython
 lang/elixir
 lang/elixir-mode.el
 lang/erlang
+lang/erlang-doc
 lang/erlang-java
 lang/erlang-wx
 lang/expect
