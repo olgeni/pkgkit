@@ -877,6 +877,7 @@ sysutils/x86info
 sysutils/xe
 sysutils/xfsprogs
 sysutils/xosview
+sysutils/yadm
 sysutils/zap
 sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
