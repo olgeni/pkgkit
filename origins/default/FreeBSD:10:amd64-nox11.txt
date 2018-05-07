@@ -854,6 +854,7 @@ www/node
 www/npm
 www/php72-opcache
 www/php72-session
+www/py-boto3
 www/py-bottle
 www/py-flask
 www/py-gandi.cli
