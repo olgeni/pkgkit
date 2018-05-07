@@ -204,7 +204,7 @@ devel/py-libzfs
 devel/py-logilab-common
 devel/py-lxml
 devel/py-mock
-devel/py-msgpack-python
+devel/py-msgpack
 devel/py-mypy
 devel/py-nose
 devel/py-ordereddict

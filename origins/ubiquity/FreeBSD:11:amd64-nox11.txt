@@ -180,7 +180,7 @@ devel/py-kjbuckets
 devel/py-logilab-common
 devel/py-lxml
 devel/py-mock
-devel/py-msgpack-python
+devel/py-msgpack
 devel/py-nose
 devel/py-ordereddict
 devel/py-pika
