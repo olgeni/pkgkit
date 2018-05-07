@@ -140,7 +140,7 @@ devel/dep
 devel/dev86
 devel/distel@nox
 devel/ElectricFence
-devel/etcd32
+devel/etcd33
 devel/fossil
 devel/gdb
 devel/gindent
