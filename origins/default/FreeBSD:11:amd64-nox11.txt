@@ -706,6 +706,7 @@ sysutils/ncdu
 sysutils/nomad
 sysutils/nq
 sysutils/ohmu
+sysutils/osquery
 sysutils/packer
 sysutils/parallel
 sysutils/pdumpfs
