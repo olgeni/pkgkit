@@ -1016,6 +1016,7 @@ x11-fonts/nerd-fonts
 x11-fonts/noto-lite
 x11-fonts/nucleus
 x11-fonts/oldschool-pc-fonts
+x11-fonts/plex-ttf
 x11-fonts/roboto-fonts-ttf
 x11-fonts/sharefonts
 x11-fonts/sourcecodepro-ttf
