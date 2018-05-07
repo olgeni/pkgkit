@@ -829,6 +829,7 @@ textproc/xmlcatmgr
 textproc/xmlcharent
 textproc/xmlstarlet
 textproc/xmlto
+textproc/xsv-rs
 textproc/zsh-syntax-highlighting
 www/apache24
 www/aria2
