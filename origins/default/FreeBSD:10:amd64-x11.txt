@@ -289,6 +289,7 @@ editors/nano
 editors/ne
 editors/paredit-mode.el
 editors/pico-alpine
+editors/tweak
 editors/vim
 emulators/dosbox
 emulators/fuse
