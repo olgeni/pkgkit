@@ -717,7 +717,6 @@ sysutils/lbl-hf
 sysutils/libchk
 sysutils/lnav
 sysutils/logstash
-sysutils/lr
 sysutils/lsof
 sysutils/ltrace
 sysutils/megacli
