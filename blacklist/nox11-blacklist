@@ -3,10 +3,10 @@ audio/gstreamer-plugins-mad
 audio/gstreamer-plugins-mp3
 devel/libnotify
 devel/m17n-lib
+graphics/ImageMagick
 graphics/freeglut
 graphics/gdk-pixbuf2
 graphics/gtk-update-icon-cache
-graphics/ImageMagick
 graphics/libGL
 graphics/libGLU
 graphics/mesa-libs
@@ -37,13 +37,13 @@ x11/libICE
 x11/libSM
 x11/libX11
 x11/libXau
-x11/libxcb
 x11/libXdmcp
 x11/libXext
 x11/libXi
-x11/libxkbcommon
 x11/libXpm
 x11/libXrender
+x11/libxcb
+x11/libxkbcommon
 x11/libxshmfence
 x11/renderproto
 x11/videoproto
