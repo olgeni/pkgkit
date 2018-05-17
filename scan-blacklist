@@ -49,21 +49,23 @@ blacklist=()
 
 scan()
 {
-    echo "Scanning $1"
+    _port="$1"
 
-    [ -d ${PORTSDIR}/$1 -a "$1" != "patch" ] || {
-        echo "Directory not found: $1"
+    _port="${_port%@*}"
+
+    echo "Scanning ${_port}"
+
+    [ -d ${PORTSDIR}/${_port} -a "${_port}" != "patch" ] || {
+        echo "Directory not found: ${_port}"
         return 1
     }
 
-    for _depend in `make __MAKE_CONF=${_make_conf} -VPKG_DEPENDS -VBUILD_DEPENDS -VEXTRACT_DEPENDS -VLIB_DEPENDS -VPATCH_DEPENDS -VFETCH_DEPENDS -VRUN_DEPENDS -C ${PORTSDIR}/$1`; do
+    for _depend in `make __MAKE_CONF=${_make_conf} -VPKG_DEPENDS -VBUILD_DEPENDS -VEXTRACT_DEPENDS -VLIB_DEPENDS -VPATCH_DEPENDS -VFETCH_DEPENDS -VRUN_DEPENDS -C ${PORTSDIR}/${_port}`; do
         _depend=$(echo ${_depend} | sed -e "s/.*://")
         _depend=${_depend#${PORTSDIR}/}
-        _depend=${_depend%@py27}
-        _depend=${_depend%@py36}
 
 	if [ $blacklist[(i)${_depend}] -le ${#blacklist} ]; then
-            echo "Found: $1 -> ${_depend}."
+            echo "Found: ${_port} -> ${_depend}."
             exit 1
 	fi
 
