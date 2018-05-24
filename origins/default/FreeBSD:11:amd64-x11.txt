@@ -1094,5 +1094,6 @@ x11/xlogo
 x11/xnee
 x11/xorg
 x11/xpra
+x11/xscope
 x11/xscreensaver
 x11/xtermcontrol
