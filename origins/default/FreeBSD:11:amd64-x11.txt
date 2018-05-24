@@ -271,6 +271,7 @@ dns/dnstop
 dns/dnsutl
 dns/maradns
 dns/py-dnspython
+editors/aee
 editors/biew
 editors/bitedit
 editors/bvi
