@@ -737,7 +737,6 @@ textproc/php56-xml
 textproc/py-chardet
 textproc/py-libxml2
 textproc/py-markdown2
-textproc/py-pyelasticsearch
 textproc/py-python-augeas
 textproc/rubygem-docdiff
 textproc/texi2html
