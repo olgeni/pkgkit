@@ -570,6 +570,8 @@ net-mgmt/tcptrack
 net-mgmt/telegraf
 net-mgmt/whatmask
 net/arping
+net/bosh-bootloader
+net/bosh-cli
 net/cloud-init
 net/czmq
 net/empty
