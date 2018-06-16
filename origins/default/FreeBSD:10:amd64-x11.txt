@@ -1047,6 +1047,8 @@ x11-themes/icon-naming-utils
 x11-themes/openbox-arc-theme
 x11-themes/openbox-themes
 x11-toolkits/bwidget
+x11-toolkits/gtk-sharp20
+x11-toolkits/gtk-sharp30
 x11-toolkits/iwidgets
 x11-toolkits/open-motif
 x11-toolkits/py-tkinter
