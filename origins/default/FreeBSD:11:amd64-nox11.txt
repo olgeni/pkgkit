@@ -114,7 +114,6 @@ devel/astyle
 devel/autoconf
 devel/autoconf-wrapper
 devel/automake
-devel/automake-wrapper
 devel/awless
 devel/awscli
 devel/binutils
