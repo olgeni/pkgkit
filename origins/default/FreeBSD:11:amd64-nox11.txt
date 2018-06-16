@@ -73,6 +73,7 @@ databases/php72-pdo_mysql
 databases/php72-pdo_pgsql
 databases/php72-pdo_sqlite
 databases/php72-pgsql
+databases/postgresql-cstore_fdw
 databases/postgresql-repmgr
 databases/postgresql10-client
 databases/postgresql10-contrib
