@@ -482,6 +482,7 @@ net-mgmt/whatmask
 net/arping
 net/bosh-bootloader
 net/bosh-cli
+net/cf
 net/cloud-init
 net/czmq
 net/empty
