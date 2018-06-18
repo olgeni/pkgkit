@@ -792,6 +792,7 @@ textproc/aspell
 textproc/augeas
 textproc/bar
 textproc/cdiff
+textproc/consul-template
 textproc/diff-so-fancy
 textproc/diffstat
 textproc/docbook
