@@ -746,6 +746,7 @@ sysutils/clone
 sysutils/conky
 sysutils/consul
 sysutils/consul-replicate
+sysutils/container-diff
 sysutils/coreutils
 sysutils/cpdup
 sysutils/cpuid
