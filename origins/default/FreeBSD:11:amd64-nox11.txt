@@ -703,6 +703,7 @@ sysutils/lscpu
 sysutils/lsof
 sysutils/ltrace
 sysutils/megacli
+sysutils/memtester
 sysutils/mkfile
 sysutils/monit
 sysutils/moreutils
