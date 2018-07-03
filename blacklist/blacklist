@@ -31,6 +31,8 @@ net/gtk-vnc
 net/libgweather
 net/samba44
 net/samba45
+net/samba46
+net/samba47
 print/ghostscript9-base
 print/teTeX-texmf
 print/tex-formats
