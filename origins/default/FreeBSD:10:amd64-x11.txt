@@ -783,6 +783,7 @@ sysutils/fusefs-sshfs
 sysutils/gaffitter
 sysutils/gconf-editor
 sysutils/getssl
+sysutils/google-compute-engine-oslogin
 sysutils/goss
 sysutils/grub2-bhyve
 sysutils/gsmartcontrol
