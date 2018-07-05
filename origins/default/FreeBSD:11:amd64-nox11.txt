@@ -874,6 +874,8 @@ www/py-boto3
 www/py-bottle
 www/py-flask
 www/py-gandi.cli
+www/py-google-cloud-core
+www/py-google-cloud-storage
 www/py-httpie
 www/py-meld3
 www/py-requests
