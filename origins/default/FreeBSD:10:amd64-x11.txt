@@ -202,6 +202,7 @@ devel/protobuf-c
 devel/psvn
 devel/py-bitarray
 devel/py-bitstring
+devel/py-crcmod
 devel/py-dateutil
 devel/py-decorator
 devel/py-freebsd
