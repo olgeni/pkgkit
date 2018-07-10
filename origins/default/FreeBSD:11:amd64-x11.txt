@@ -776,6 +776,9 @@ sysutils/envconsul
 sysutils/exa
 sysutils/exfat-utils
 sysutils/fileprune
+sysutils/firstboot-freebsd-update
+sysutils/firstboot-growfs
+sysutils/firstboot-pkgs
 sysutils/flock
 sysutils/fpart
 sysutils/fusefs-exfat
