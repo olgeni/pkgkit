@@ -810,7 +810,7 @@ sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
 sysutils/lnav
-sysutils/logstash
+sysutils/logstash6
 sysutils/lscpu
 sysutils/lsof
 sysutils/ltrace
