@@ -305,6 +305,7 @@ emulators/qemu-devel
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
+emulators/x48
 ftp/atftp
 ftp/curl
 ftp/filezilla
