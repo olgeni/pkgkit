@@ -169,6 +169,7 @@ devel/gsoap
 devel/hexd
 devel/icu
 devel/ipython
+devel/jenkins
 devel/jline
 devel/kBuild
 devel/libev
