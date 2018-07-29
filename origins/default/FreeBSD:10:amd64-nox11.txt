@@ -173,6 +173,7 @@ devel/nasm
 devel/newfile
 devel/nuitka
 devel/p5-Module-CoreList
+devel/packr
 devel/patch
 devel/pcre
 devel/pear
