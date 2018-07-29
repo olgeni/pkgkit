@@ -716,6 +716,7 @@ security/ssh-vault
 security/sshpass
 security/ssss
 security/starttls
+security/strongswan
 security/stunnel
 security/sudo
 security/vault
