@@ -609,6 +609,7 @@ security/py-oauthlib
 security/py-pycrypto
 security/py-rsa
 security/scrypt
+security/softether
 security/ssh-vault
 security/sshpass
 security/ssss
