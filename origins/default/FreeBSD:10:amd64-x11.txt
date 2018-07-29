@@ -1098,6 +1098,7 @@ x11/rgb
 x11/rofi
 x11/slop
 x11/terminator
+x11/terminology
 x11/wmctrl
 x11/xautolock
 x11/xclip
