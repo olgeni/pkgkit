@@ -897,6 +897,7 @@ sysutils/webmin
 sysutils/x86info
 sysutils/xe
 sysutils/xfsprogs
+sysutils/xjobs
 sysutils/xosview
 sysutils/yadm
 sysutils/zap

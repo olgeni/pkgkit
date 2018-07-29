@@ -787,6 +787,7 @@ sysutils/webmin
 sysutils/x86info
 sysutils/xe
 sysutils/xfsprogs
+sysutils/xjobs
 sysutils/yadm
 sysutils/zap
 sysutils/zfs-snapshot-clean
