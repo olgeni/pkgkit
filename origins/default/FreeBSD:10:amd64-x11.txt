@@ -401,7 +401,6 @@ lang/mono
 lang/nim
 lang/nx
 lang/perl5.26
-lang/phantomjs
 lang/php72
 lang/py-hy
 lang/py-mx-base
