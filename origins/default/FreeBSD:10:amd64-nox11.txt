@@ -470,6 +470,7 @@ net-mgmt/bsnmp-jails
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
 net-mgmt/collectd5
+net-mgmt/grepcidr
 net-mgmt/iftop
 net-mgmt/ipcalc
 net-mgmt/iprange
