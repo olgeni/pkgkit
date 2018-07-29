@@ -1,4 +1,5 @@
 x11/xpra
+x11/terminology
 databases/postgresql95-client
 databases/postgresql95-contrib
 databases/postgresql95-docs
