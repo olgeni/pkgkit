@@ -649,6 +649,7 @@ sysutils/cdls
 sysutils/cdrtools
 sysutils/clone
 sysutils/consul
+sysutils/consul-alerts
 sysutils/consul-replicate
 sysutils/container-diff
 sysutils/coreutils
