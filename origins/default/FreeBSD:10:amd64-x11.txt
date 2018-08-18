@@ -168,6 +168,7 @@ devel/gradle
 devel/gsoap
 devel/hexd
 devel/icu
+devel/include-what-you-use
 devel/ipython
 devel/jenkins
 devel/jline
