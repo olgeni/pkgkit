@@ -713,6 +713,7 @@ sysutils/ioping
 sysutils/ipmitool
 sysutils/jps
 sysutils/kops
+sysutils/kubectl
 sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
