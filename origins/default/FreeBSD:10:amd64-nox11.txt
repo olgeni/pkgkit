@@ -206,6 +206,7 @@ devel/py-kqueue
 devel/py-libzfs
 devel/py-logilab-common
 devel/py-lxml
+devel/py-minio
 devel/py-mock
 devel/py-msgpack
 devel/py-mypy
