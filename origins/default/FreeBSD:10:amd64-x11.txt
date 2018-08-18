@@ -1110,7 +1110,6 @@ x11-wm/windowmaker
 x11-wm/xcompmgr
 x11/cool-retro-term
 x11/editres
-x11/evieext
 x11/grabc
 x11/hhpc
 x11/listres
