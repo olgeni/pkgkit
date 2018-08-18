@@ -554,6 +554,7 @@ net/wireguard
 net/wireshark
 net/wol
 net/zsync
+net/zyre
 ports-mgmt/bsdadminscripts2
 ports-mgmt/lsknobs
 ports-mgmt/pkg
