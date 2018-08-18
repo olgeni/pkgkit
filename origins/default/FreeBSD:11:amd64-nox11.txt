@@ -422,6 +422,7 @@ misc/gnu-watch
 misc/help2man
 misc/inplace
 misc/ipbt
+misc/kbdscan
 misc/lv
 misc/mbuffer
 misc/mc

@@ -492,6 +492,7 @@ misc/help2man
 misc/img2xterm
 misc/inplace
 misc/ipbt
+misc/kbdscan
 misc/lv
 misc/mbuffer
 misc/mc
