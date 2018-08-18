@@ -859,6 +859,7 @@ sysutils/py-diffoscope
 sysutils/py-dirsync
 sysutils/py-glances
 sysutils/py-google-compute-engine
+sysutils/py-nomad
 sysutils/py-psutil
 sysutils/py-ranger
 sysutils/py-salt
