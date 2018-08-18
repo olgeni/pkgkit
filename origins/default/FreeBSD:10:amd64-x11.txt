@@ -645,6 +645,7 @@ net/ucarp
 net/uget
 net/usbredir
 net/vnstat
+net/wireguard
 net/wireshark
 net/wol
 net/x11vnc

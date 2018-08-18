@@ -548,6 +548,7 @@ net/tsocks
 net/ucarp
 net/usbredir
 net/vnstat
+net/wireguard
 net/wireshark
 net/wol
 net/zsync
