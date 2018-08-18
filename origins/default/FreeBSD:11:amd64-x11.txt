@@ -383,7 +383,6 @@ java/sqlitejdbc
 lang/abcl
 lang/alchemist.el
 lang/chez-scheme
-lang/clang38
 lang/clojure
 lang/cython
 lang/elixir
