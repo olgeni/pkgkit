@@ -906,6 +906,7 @@ www/tinyproxy
 www/uwsgi
 www/varnish4
 www/w3m
+www/websocat
 www/websocketd
 www/yaws
 www/youtube_dl
