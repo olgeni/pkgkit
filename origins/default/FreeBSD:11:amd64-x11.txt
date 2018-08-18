@@ -823,6 +823,7 @@ sysutils/iohyve
 sysutils/ioping
 sysutils/ipmitool
 sysutils/jps
+sysutils/kops
 sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
