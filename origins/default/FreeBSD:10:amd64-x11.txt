@@ -1025,6 +1025,7 @@ www/varnish4
 www/w3m
 www/websocat
 www/websocketd
+www/wuzz
 www/yaws
 www/youtube_dl
 x11-clocks/xalarm
