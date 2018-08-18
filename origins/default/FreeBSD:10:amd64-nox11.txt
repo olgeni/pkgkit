@@ -753,6 +753,7 @@ sysutils/py-ranger
 sysutils/py-salt
 sysutils/py-supervisor
 sysutils/pydf
+sysutils/rcm
 sysutils/rdate
 sysutils/rdiff-backup
 sysutils/rename
