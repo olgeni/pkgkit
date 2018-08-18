@@ -504,6 +504,7 @@ net/ipsvd
 net/isc-dhcp44-server
 net/lft
 net/librdkafka
+net/minidlna
 net/miruo
 net/mosh
 net/mpd5

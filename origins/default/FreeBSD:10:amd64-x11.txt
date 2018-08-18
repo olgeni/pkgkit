@@ -597,6 +597,7 @@ net/isc-dhcp44-server
 net/kafka
 net/lft
 net/librdkafka
+net/minidlna
 net/miruo
 net/mosh
 net/mpd5
