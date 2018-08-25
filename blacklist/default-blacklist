@@ -1,5 +1,7 @@
-x11/xpra
+lang/swift
+multimedia/asdcplib
 x11/terminology
+x11/xpra
 databases/postgresql95-client
 databases/postgresql95-contrib
 databases/postgresql95-docs
