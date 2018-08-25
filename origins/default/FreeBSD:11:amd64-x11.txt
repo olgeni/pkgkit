@@ -912,6 +912,7 @@ sysutils/vagrant
 sysutils/vcp
 sysutils/vm-bhyve
 sysutils/vmtouch
+sysutils/vzvol
 sysutils/wait_on
 sysutils/webmin
 sysutils/x86info
