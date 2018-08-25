@@ -812,6 +812,7 @@ sysutils/gsmartcontrol
 sysutils/hal
 sysutils/hal-info
 sysutils/hatop
+sysutils/helm
 sysutils/hextools
 sysutils/hfsutils
 sysutils/host-setup

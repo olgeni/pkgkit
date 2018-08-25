@@ -701,6 +701,7 @@ sysutils/google-compute-engine-oslogin
 sysutils/goss
 sysutils/grub2-bhyve
 sysutils/hatop
+sysutils/helm
 sysutils/hextools
 sysutils/hfsutils
 sysutils/host-setup
