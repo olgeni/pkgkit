@@ -678,6 +678,7 @@ sysutils/dwatch-gource
 sysutils/dwatch-pwsnoop
 sysutils/e2fsprogs
 sysutils/eject
+sysutils/eksctl
 sysutils/entr
 sysutils/envconsul
 sysutils/exa
