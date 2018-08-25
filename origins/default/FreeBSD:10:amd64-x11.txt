@@ -821,6 +821,7 @@ sysutils/iocell
 sysutils/iohyve
 sysutils/ioping
 sysutils/ipmitool
+sysutils/istio
 sysutils/jps
 sysutils/kops
 sysutils/kubectl
