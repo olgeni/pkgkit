@@ -1133,6 +1133,7 @@ x11/terminator
 x11/terminology
 x11/wmctrl
 x11/xautolock
+x11/xbanish
 x11/xclip
 x11/xcolorsel
 x11/xdm
