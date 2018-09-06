@@ -821,6 +821,7 @@ textproc/asciidoc
 textproc/aspell
 textproc/augeas
 textproc/bar
+textproc/bat
 textproc/cdiff
 textproc/consul-template
 textproc/diff-so-fancy
