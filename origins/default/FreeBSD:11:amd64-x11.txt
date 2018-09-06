@@ -637,6 +637,7 @@ net/sdl_net
 net/sendemail
 net/slurm
 net/socat
+net/sslh
 net/subnetcalc
 net/tcludp
 net/tcpshow

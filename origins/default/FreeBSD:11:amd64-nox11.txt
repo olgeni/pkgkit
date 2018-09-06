@@ -542,6 +542,7 @@ net/samba48
 net/sendemail
 net/slurm
 net/socat
+net/sslh
 net/subnetcalc
 net/tcludp
 net/tcpshow
