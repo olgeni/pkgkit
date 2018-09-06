@@ -770,6 +770,7 @@ sysutils/samefile
 sysutils/screen
 sysutils/screenie
 sysutils/sg3_utils
+sysutils/smart
 sysutils/smartmontools
 sysutils/smenu
 sysutils/snooze
