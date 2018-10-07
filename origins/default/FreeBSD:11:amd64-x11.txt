@@ -925,6 +925,7 @@ sysutils/xfsprogs
 sysutils/xjobs
 sysutils/xosview
 sysutils/yadm
+sysutils/yank
 sysutils/zap
 sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
