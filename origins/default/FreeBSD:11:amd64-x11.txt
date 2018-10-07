@@ -52,6 +52,7 @@ converters/php72-mbstring
 converters/recode
 converters/unix2dos
 databases/couchdb
+databases/couchdb2
 databases/gdbm
 databases/hiredis
 databases/influxdb
