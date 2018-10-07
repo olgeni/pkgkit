@@ -641,6 +641,7 @@ sysutils/atop
 sysutils/azure-agent
 sysutils/beadm
 sysutils/beats
+sysutils/bfs
 sysutils/bhyve-firmware
 sysutils/bsdcrashtar
 sysutils/cciss_vol_status
