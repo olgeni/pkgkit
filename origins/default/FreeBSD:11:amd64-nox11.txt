@@ -298,7 +298,7 @@ graphics/gocr
 graphics/gphoto2
 graphics/hiptext
 graphics/icoutils
-graphics/ImageMagick-nox11
+graphics/ImageMagick6
 graphics/jhead
 graphics/jpeg-turbo
 graphics/libexif

@@ -338,7 +338,7 @@ graphics/gource
 graphics/gphoto2
 graphics/hiptext
 graphics/icoutils
-graphics/ImageMagick
+graphics/ImageMagick6
 graphics/inkscape
 graphics/jhead
 graphics/jpeg-turbo
