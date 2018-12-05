@@ -15,7 +15,6 @@ audio/ardour5
 audio/audacity
 audio/aumix
 audio/cdparanoia
-audio/clementine-player
 audio/flac
 audio/id3v2
 audio/lame
