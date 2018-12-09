@@ -739,7 +739,6 @@ sysutils/ohmu
 sysutils/packer
 sysutils/parallel
 sysutils/pdumpfs
-sysutils/pefs-kmod
 sysutils/pfstat
 sysutils/pftop
 sysutils/php72-posix
