@@ -1,9 +1,9 @@
-www/chromium
 databases/tarantool
 lang/gcc6
 lang/swift
 multimedia/asdcplib
 sysutils/pefs-kmod
+www/chromium
 x11/terminology
 x11/xpra
 databases/postgresql95-client
