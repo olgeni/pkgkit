@@ -196,7 +196,6 @@ devel/py-freebsd
 devel/py-gdata
 devel/py-gevent
 devel/py-gitosis
-devel/py-interface
 devel/py-ipaddr
 devel/py-isodate
 devel/py-Jinja2
@@ -216,6 +215,7 @@ devel/py-ordereddict
 devel/py-pika
 devel/py-pip
 devel/py-protobuf
+devel/py-py_interface
 devel/py-pyasn1
 devel/py-pytz
 devel/py-setproctitle
