@@ -570,7 +570,6 @@ print/ghostscript9-agpl-base
 print/libpaper
 print/papersize-default-a4
 print/pdflib
-print/pdftk
 print/py-stapler
 science/py-scipy
 security/acme.sh

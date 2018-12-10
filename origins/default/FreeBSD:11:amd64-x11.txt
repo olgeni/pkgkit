@@ -670,7 +670,6 @@ print/libpaper
 print/papersize-default-a4
 print/pdf-tools
 print/pdflib
-print/pdftk
 print/py-stapler
 science/py-scipy
 security/acme.sh
