@@ -3,6 +3,7 @@ databases/tarantool
 lang/gcc6
 lang/swift
 multimedia/asdcplib
+sysutils/pefs-kmod
 x11/terminology
 x11/xpra
 databases/postgresql95-client
