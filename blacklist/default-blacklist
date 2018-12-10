@@ -1,5 +1,6 @@
 www/chromium
 databases/tarantool
+lang/gcc6
 lang/swift
 multimedia/asdcplib
 x11/terminology
