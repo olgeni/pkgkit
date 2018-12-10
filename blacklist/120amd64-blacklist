@@ -1,0 +1,4 @@
+benchmarks/httperf
+mail/libesmtp
+mail/spamd
+net-mgmt/collectd5
