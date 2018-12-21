@@ -404,7 +404,7 @@ lang/jimtcl
 lang/mono
 lang/nim
 lang/nx
-lang/perl5.26
+lang/perl5.28
 lang/php72
 lang/py-hy
 lang/py-mx-base
