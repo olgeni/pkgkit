@@ -1,5 +1,6 @@
 databases/tarantool
 lang/gcc6
+lang/gcc7
 lang/swift
 multimedia/asdcplib
 sysutils/pefs-kmod
