@@ -1145,7 +1145,6 @@ x11/xlogo
 x11/xman
 x11/xnee
 x11/xorg
-x11/xpra
 x11/xrestop
 x11/xscope
 x11/xscreensaver
