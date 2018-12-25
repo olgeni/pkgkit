@@ -818,6 +818,7 @@ sysutils/host-setup
 sysutils/htop
 sysutils/immortal
 sysutils/intel-pcm
+sysutils/iocage
 sysutils/iocell
 sysutils/iohyve
 sysutils/ioping
