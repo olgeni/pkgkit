@@ -648,6 +648,7 @@ net/wireguard
 net/wireshark
 net/wol
 net/x11vnc
+net/xrdp
 net/zsync
 net/zyre
 ports-mgmt/bsdadminscripts2
