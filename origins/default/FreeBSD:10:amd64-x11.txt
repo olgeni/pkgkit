@@ -546,7 +546,6 @@ multimedia/rtmpdump
 multimedia/schroedinger
 multimedia/smpeg
 multimedia/smplayer
-multimedia/syncplay
 multimedia/v4l_compat
 multimedia/vlc
 multimedia/x264
