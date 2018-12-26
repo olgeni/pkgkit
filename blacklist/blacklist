@@ -17,6 +17,7 @@ lang/clang36
 lang/gcc46
 lang/gcc47
 lang/gcc48
+lang/gcc49
 lang/perl5.26
 lang/python32
 lang/python33
