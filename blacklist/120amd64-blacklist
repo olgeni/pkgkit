@@ -2,5 +2,4 @@ benchmarks/httperf
 lang/gprolog
 mail/libesmtp
 mail/spamd
-net-mgmt/collectd5
 net/rdesktop
