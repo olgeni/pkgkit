@@ -6,6 +6,7 @@ archivers/parchive
 archivers/php72-zip
 archivers/php72-zlib
 archivers/pigz
+archivers/py-borgbackup
 archivers/rar
 archivers/unrar
 archivers/zip
