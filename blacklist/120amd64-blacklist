@@ -1,5 +1,3 @@
 benchmarks/httperf
-lang/gprolog
-mail/libesmtp
 mail/spamd
 net/rdesktop
