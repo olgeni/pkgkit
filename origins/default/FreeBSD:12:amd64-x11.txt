@@ -384,6 +384,7 @@ java/openjdk8
 java/sqlitejdbc
 lang/abcl
 lang/alchemist.el
+lang/chaiscript
 lang/chez-scheme
 lang/clojure
 lang/cython

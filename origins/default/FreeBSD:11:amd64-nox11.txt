@@ -327,6 +327,7 @@ graphics/svgalib
 graphics/tiff
 graphics/webp
 lang/alchemist.el@nox
+lang/chaiscript
 lang/cython
 lang/elixir
 lang/elixir-mode.el@nox
