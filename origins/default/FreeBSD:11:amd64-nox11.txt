@@ -499,6 +499,7 @@ net/bosh-cli
 net/cf
 net/cloud-init
 net/czmq
+net/dhcping
 net/empty
 net/GeoIP
 net/gnatsd
