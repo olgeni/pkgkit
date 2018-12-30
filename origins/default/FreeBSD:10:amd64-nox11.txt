@@ -930,4 +930,5 @@ www/websocketd
 www/wuzz
 www/yaws
 www/youtube_dl
+x11-fonts/psftools
 x11/xtermcontrol
