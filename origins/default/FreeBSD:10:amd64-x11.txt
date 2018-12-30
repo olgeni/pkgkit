@@ -970,6 +970,7 @@ textproc/it-aspell
 textproc/it-hunspell
 textproc/jo
 textproc/jq
+textproc/jshon
 textproc/libxml2
 textproc/libxslt
 textproc/libyaml
