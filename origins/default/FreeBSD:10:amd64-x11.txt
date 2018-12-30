@@ -746,6 +746,7 @@ shells/viewglob
 shells/zsh
 shells/zsh-navigation-tools
 sysutils/afio
+sysutils/android-file-transfer
 sysutils/ansible
 sysutils/aptly
 sysutils/ataidle
