@@ -120,6 +120,7 @@ devel/autoconf-wrapper
 devel/automake
 devel/awless
 devel/awscli
+devel/bingrep
 devel/binutils
 devel/bison
 devel/boost-docs
