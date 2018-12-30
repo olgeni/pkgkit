@@ -65,6 +65,7 @@ databases/pg_citus
 databases/pg_partman
 databases/pg_repack
 databases/pgadmin3
+databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
 databases/pgespresso

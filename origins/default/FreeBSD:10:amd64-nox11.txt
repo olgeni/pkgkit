@@ -60,6 +60,7 @@ databases/pg_activity
 databases/pg_citus
 databases/pg_partman
 databases/pg_repack
+databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
 databases/pgespresso
