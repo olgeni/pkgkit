@@ -558,6 +558,7 @@ net-im/pidgin
 net-im/py-python-telegram-bot
 net-im/slack-term
 net-im/teamwords
+net-mgmt/argus3
 net-mgmt/bsnmp-jails
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
