@@ -731,6 +731,7 @@ security/starttls
 security/strongswan
 security/stunnel
 security/sudo
+security/tinc
 security/vault
 security/veracrypt
 security/vlock
