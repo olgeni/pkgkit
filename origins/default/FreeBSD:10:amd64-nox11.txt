@@ -645,7 +645,6 @@ shells/zsh-navigation-tools
 sysutils/afio
 sysutils/ansible
 sysutils/aptly
-sysutils/ataidle
 sysutils/atop
 sysutils/azure-agent
 sysutils/beadm

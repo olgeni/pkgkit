@@ -750,7 +750,6 @@ sysutils/afio
 sysutils/android-file-transfer
 sysutils/ansible
 sysutils/aptly
-sysutils/ataidle
 sysutils/atop
 sysutils/azure-agent
 sysutils/beadm
