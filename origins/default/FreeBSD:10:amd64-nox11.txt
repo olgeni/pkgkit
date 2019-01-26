@@ -476,6 +476,7 @@ net-im/py-python-telegram-bot
 net-im/slack-term
 net-mgmt/argus3
 net-mgmt/argus3-clients
+net-mgmt/arpscan
 net-mgmt/bsnmp-jails
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
