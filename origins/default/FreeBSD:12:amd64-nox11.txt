@@ -527,6 +527,7 @@ net/nats-top
 net/ncp
 net/ngrep
 net/nload
+net/nsq
 net/nss_ldap
 net/omnitty
 net/openldap24-client
