@@ -667,6 +667,7 @@ sysutils/container-diff
 sysutils/coreutils
 sysutils/cpdup
 sysutils/cpuid
+sysutils/cpupdate
 sysutils/cronolog
 sysutils/daemonize
 sysutils/daemontools-encore
