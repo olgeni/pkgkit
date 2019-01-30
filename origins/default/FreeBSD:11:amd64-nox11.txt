@@ -502,7 +502,6 @@ net/cloud-init
 net/czmq
 net/dhcping
 net/empty
-net/GeoIP
 net/gnatsd
 net/gnetcat
 net/go-cs
@@ -515,6 +514,7 @@ net/ifstated
 net/ipsvd
 net/isc-dhcp44-server
 net/lft
+net/libmaxminddb
 net/librdkafka
 net/minidlna
 net/miruo
@@ -535,10 +535,10 @@ net/openldap24-server
 net/php72-ldap
 net/php72-sockets
 net/py-amqp
-net/py-GeoIP
 net/py-kombu
 net/py-libcloud
 net/py-magic-wormhole
+net/py-maxminddb
 net/py-pyzmq
 net/py-s3cmd
 net/py-tweepy
