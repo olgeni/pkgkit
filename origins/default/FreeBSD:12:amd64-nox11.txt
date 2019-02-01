@@ -160,6 +160,7 @@ devel/gsoap
 devel/hexd
 devel/icu
 devel/include-what-you-use
+devel/interactive_rebase_tool
 devel/ipython
 devel/kBuild
 devel/libev
