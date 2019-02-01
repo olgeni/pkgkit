@@ -873,12 +873,12 @@ sysutils/pipemeter
 sysutils/ptools
 sysutils/pv
 sysutils/pwgen
-sysutils/py-consul
 sysutils/py-diffoscope
 sysutils/py-dirsync
 sysutils/py-glances
 sysutils/py-google-compute-engine
 sysutils/py-psutil
+sysutils/py-python-consul
 sysutils/py-python-nomad
 sysutils/py-ranger
 sysutils/py-salt
