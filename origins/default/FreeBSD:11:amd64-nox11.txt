@@ -911,7 +911,6 @@ www/mod_xsendfile
 www/nginx
 www/node
 www/npm
-www/phalcon
 www/php72-opcache
 www/php72-session
 www/py-boto3
