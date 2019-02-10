@@ -718,6 +718,7 @@ sysutils/gaffitter
 sysutils/getssl
 sysutils/google-compute-engine-oslogin
 sysutils/goss
+sysutils/gotop
 sysutils/grub2-bhyve
 sysutils/hatop
 sysutils/helm

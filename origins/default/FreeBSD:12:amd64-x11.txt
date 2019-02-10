@@ -825,6 +825,7 @@ sysutils/gconf-editor
 sysutils/getssl
 sysutils/google-compute-engine-oslogin
 sysutils/goss
+sysutils/gotop
 sysutils/graylog
 sysutils/grub2-bhyve
 sysutils/gsmartcontrol
