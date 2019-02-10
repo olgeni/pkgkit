@@ -992,6 +992,7 @@ textproc/php72-ctype
 textproc/php72-dom
 textproc/php72-simplexml
 textproc/php72-xml
+textproc/py-asciinema
 textproc/py-autopep8
 textproc/py-chardet
 textproc/py-libxml2
