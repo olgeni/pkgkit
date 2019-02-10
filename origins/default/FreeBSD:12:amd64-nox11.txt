@@ -30,6 +30,7 @@ audio/shntool
 audio/soundtouch
 audio/sox
 audio/twolame
+audio/virtual_oss
 benchmarks/flamegraph
 benchmarks/httperf
 benchmarks/iozone
