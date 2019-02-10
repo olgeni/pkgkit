@@ -502,6 +502,7 @@ misc/kbdscan
 misc/lv
 misc/mbuffer
 misc/mc
+misc/nnn
 misc/patchutils
 misc/ptsort
 misc/py-crudini
