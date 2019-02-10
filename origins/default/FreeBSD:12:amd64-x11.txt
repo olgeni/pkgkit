@@ -986,6 +986,7 @@ textproc/libyaml
 textproc/markdown
 textproc/markdown-mode.el
 textproc/miller
+textproc/nuspell
 textproc/p5-ack
 textproc/par
 textproc/php72-ctype
