@@ -866,6 +866,7 @@ sysutils/multitail
 sysutils/ncdu
 sysutils/nomad
 sysutils/nq
+sysutils/ntfy
 sysutils/ohmu
 sysutils/packer
 sysutils/parallel
