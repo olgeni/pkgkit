@@ -10,6 +10,7 @@ archivers/py-borgbackup
 archivers/rar
 archivers/unrar
 archivers/zip
+audio/alac
 audio/aumix
 audio/cdparanoia
 audio/flac

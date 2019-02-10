@@ -12,6 +12,7 @@ archivers/rar
 archivers/unrar
 archivers/zip
 astro/xearth
+audio/alac
 audio/audacity
 audio/aumix
 audio/cdparanoia
