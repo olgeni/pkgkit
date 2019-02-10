@@ -1026,6 +1026,8 @@ www/mod_php72
 www/mod_rivet
 www/mod_wsgi4
 www/mod_xsendfile
+www/moinmoin
+www/moinmoincli
 www/nginx
 www/node
 www/npm
