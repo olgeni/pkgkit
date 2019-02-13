@@ -1139,6 +1139,7 @@ x11-toolkits/wxgtk28-common
 x11-toolkits/wxgtk28-contrib
 x11-toolkits/wxgtk28-contrib-common
 x11-wm/compton
+x11-wm/cwm
 x11-wm/fvwm2
 x11-wm/obconf
 x11-wm/obconf-qt
