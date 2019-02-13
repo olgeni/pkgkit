@@ -584,6 +584,7 @@ print/freetype2
 print/ghostscript9-agpl-base
 print/libpaper
 print/papersize-default-a4
+print/pdf-redact-tools
 print/pdflib
 print/py-stapler
 science/py-scipy

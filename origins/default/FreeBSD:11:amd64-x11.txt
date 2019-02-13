@@ -682,6 +682,7 @@ print/ghostscript9-agpl-x11
 print/gsfonts
 print/libpaper
 print/papersize-default-a4
+print/pdf-redact-tools
 print/pdf-tools
 print/pdflib
 print/py-stapler
