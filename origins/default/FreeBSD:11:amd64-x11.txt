@@ -856,6 +856,7 @@ sysutils/logstash6
 sysutils/lscpu
 sysutils/lsof
 sysutils/ltrace
+sysutils/mapdir
 sysutils/megacli
 sysutils/memtester
 sysutils/mkfile

@@ -744,6 +744,7 @@ sysutils/lnav
 sysutils/lscpu
 sysutils/lsof
 sysutils/ltrace
+sysutils/mapdir
 sysutils/megacli
 sysutils/memtester
 sysutils/mkfile
