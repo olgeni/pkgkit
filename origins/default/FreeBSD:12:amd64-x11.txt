@@ -420,6 +420,7 @@ lang/python
 lang/python-mode.el
 lang/python2
 lang/python27
+lang/python3
 lang/ruby24
 lang/runawk
 lang/rust
