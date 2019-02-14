@@ -730,6 +730,7 @@ security/py-mcrypt
 security/py-oauthlib
 security/py-pycrypto
 security/py-rsa
+security/racoon2
 security/scrypt
 security/seahorse
 security/softether
