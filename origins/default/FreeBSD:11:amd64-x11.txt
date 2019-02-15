@@ -607,6 +607,7 @@ net/ifstated
 net/ipsvd
 net/isc-dhcp44-server
 net/kafka
+net/kube-scheduler
 net/lft
 net/libmaxminddb
 net/librdkafka
