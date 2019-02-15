@@ -517,6 +517,7 @@ net/ifstat
 net/ifstated
 net/ipsvd
 net/isc-dhcp44-server
+net/kube-controller-manager
 net/kube-scheduler
 net/lft
 net/libmaxminddb
