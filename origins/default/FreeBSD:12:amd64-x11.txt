@@ -1,4 +1,5 @@
 accessibility/redshift
+accessibility/sct
 archivers/gcpio
 archivers/gtar
 archivers/lzip
