@@ -16,6 +16,7 @@ astro/xearth
 audio/alac
 audio/audacity
 audio/aumix
+audio/beep
 audio/cdparanoia
 audio/flac
 audio/id3v2

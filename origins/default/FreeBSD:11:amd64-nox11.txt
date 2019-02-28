@@ -12,6 +12,7 @@ archivers/unrar
 archivers/zip
 audio/alac
 audio/aumix
+audio/beep
 audio/cdparanoia
 audio/flac
 audio/id3v2
