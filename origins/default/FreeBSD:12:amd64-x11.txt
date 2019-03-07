@@ -422,6 +422,7 @@ lang/python
 lang/python-mode.el
 lang/python2
 lang/python3
+lang/racket
 lang/ruby24
 lang/runawk
 lang/rust
