@@ -108,6 +108,7 @@ databases/py-south
 databases/py-sqlite3
 databases/recutils
 databases/redis
+databases/redis-devel
 databases/retcl
 databases/rrdtool
 databases/slony1v2
