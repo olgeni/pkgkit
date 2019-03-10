@@ -1180,6 +1180,7 @@ x11/xcolorsel
 x11/xdm
 x11/xdotool
 x11/xeyes
+x11/xfd
 x11/xkeycaps
 x11/xload
 x11/xloadimage
