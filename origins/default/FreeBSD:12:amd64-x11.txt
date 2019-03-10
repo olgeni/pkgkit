@@ -912,6 +912,7 @@ sysutils/samefile
 sysutils/screen
 sysutils/screenie
 sysutils/sg3_utils
+sysutils/shuf
 sysutils/smart
 sysutils/smartmontools
 sysutils/smenu
