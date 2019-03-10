@@ -244,6 +244,7 @@ devel/relx
 devel/rlog
 devel/rlwrap
 devel/scons
+devel/shflags
 devel/subversion
 devel/swig30
 devel/tcllib
