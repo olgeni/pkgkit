@@ -679,6 +679,7 @@ ports-mgmt/distilator
 ports-mgmt/lsknobs
 ports-mgmt/pkg
 ports-mgmt/pkg_rmleaves
+ports-mgmt/portfmt
 ports-mgmt/portlint
 ports-mgmt/portmaster
 ports-mgmt/porttree
