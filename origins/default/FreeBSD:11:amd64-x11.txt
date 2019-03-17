@@ -1181,6 +1181,7 @@ x11/xascii
 x11/xautolock
 x11/xbanish
 x11/xclip
+x11/xcm
 x11/xcolorsel
 x11/xdm
 x11/xdotool
