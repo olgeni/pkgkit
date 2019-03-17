@@ -167,6 +167,7 @@ devel/include-what-you-use
 devel/interactive_rebase_tool
 devel/ipython
 devel/kBuild
+devel/kerl
 devel/libev
 devel/libpdel
 devel/libtool

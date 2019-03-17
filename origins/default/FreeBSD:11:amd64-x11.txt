@@ -182,6 +182,7 @@ devel/ipython
 devel/jenkins
 devel/jline
 devel/kBuild
+devel/kerl
 devel/libev
 devel/libpdel
 devel/libtool
