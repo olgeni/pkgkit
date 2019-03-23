@@ -859,6 +859,7 @@ textproc/bar
 textproc/bat
 textproc/cdiff
 textproc/consul-template
+textproc/datamash
 textproc/diff-so-fancy
 textproc/diffstat
 textproc/docbook
