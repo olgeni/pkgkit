@@ -766,6 +766,7 @@ sysutils/multitail
 sysutils/ncdu
 sysutils/nomad
 sysutils/nq
+sysutils/nsysctl
 sysutils/ntfy
 sysutils/ohmu
 sysutils/packer
