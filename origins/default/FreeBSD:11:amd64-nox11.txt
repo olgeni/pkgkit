@@ -66,7 +66,6 @@ databases/pg_repack
 databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
-databases/pgespresso
 databases/pgloader
 databases/pglogical
 databases/pgmetrics
