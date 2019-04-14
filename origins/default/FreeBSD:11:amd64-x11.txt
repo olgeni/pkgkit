@@ -987,6 +987,7 @@ textproc/en-hunspell
 textproc/expat2
 textproc/ffe
 textproc/flex
+textproc/fop
 textproc/fzf
 textproc/fzy
 textproc/gsed
