@@ -844,6 +844,7 @@ sysutils/hal-info
 sysutils/hatop
 sysutils/helm
 sysutils/hextools
+sysutils/hexyl
 sysutils/hfsutils
 sysutils/host-setup
 sysutils/htop

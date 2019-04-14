@@ -731,6 +731,7 @@ sysutils/grub2-bhyve
 sysutils/hatop
 sysutils/helm
 sysutils/hextools
+sysutils/hexyl
 sysutils/hfsutils
 sysutils/host-setup
 sysutils/htop
