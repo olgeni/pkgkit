@@ -178,8 +178,6 @@ devel/lua-stdlib-normalize
 devel/m4
 devel/magit@nox
 devel/mercurial
-devel/mkcmd
-devel/msrc0
 devel/nasm
 devel/newfile
 devel/nuitka
