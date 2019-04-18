@@ -696,6 +696,7 @@ sysutils/dfc
 sysutils/direnv
 sysutils/disktype
 sysutils/dmidecode
+sysutils/doctl
 sysutils/downtimed
 sysutils/dtpstree
 sysutils/DTraceToolkit
