@@ -1020,6 +1020,7 @@ textproc/py-chardet
 textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-python-augeas
+textproc/ripgrep
 textproc/rubygem-docdiff
 textproc/texi2html
 textproc/the_silver_searcher
