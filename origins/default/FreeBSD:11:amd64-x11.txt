@@ -424,7 +424,7 @@ lang/python-mode.el
 lang/python2
 lang/python3
 lang/racket
-lang/ruby24
+lang/ruby25
 lang/runawk
 lang/rust
 lang/sbcl
