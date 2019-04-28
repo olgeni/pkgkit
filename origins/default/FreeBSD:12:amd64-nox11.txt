@@ -565,6 +565,7 @@ net/socat
 net/sslh
 net/tcludp
 net/tcpshow
+net/termshark
 net/trafshow
 net/tsocks
 net/ucarp

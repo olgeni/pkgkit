@@ -658,6 +658,7 @@ net/socat
 net/sslh
 net/tcludp
 net/tcpshow
+net/termshark
 net/tigervnc-server
 net/tigervnc-viewer
 net/trafshow
