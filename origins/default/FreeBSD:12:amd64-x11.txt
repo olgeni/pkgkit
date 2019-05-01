@@ -386,7 +386,6 @@ java/intellij-fsnotifier
 java/intellij-pty4j
 java/java-zoneinfo
 java/javavmwrapper
-java/linux-oracle-jdk18
 java/openjdk8
 java/sqlitejdbc
 lang/abcl
