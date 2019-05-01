@@ -8,6 +8,7 @@ archivers/php72-zlib
 archivers/pigz
 archivers/py-borgbackup
 archivers/rar
+archivers/rubygem-fpm
 archivers/unrar
 archivers/zip
 audio/alac
