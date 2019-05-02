@@ -1036,6 +1036,7 @@ www/aria2
 www/chromium
 www/csstidy
 www/elinks
+www/ffsend
 www/firefox
 www/gitea
 www/go-www
