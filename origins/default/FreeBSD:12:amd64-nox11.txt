@@ -421,6 +421,7 @@ math/py-numeric
 math/py-numpy
 math/suitesparse
 misc/bestfit
+misc/bitwise
 misc/boxes
 misc/buffer
 misc/cloc

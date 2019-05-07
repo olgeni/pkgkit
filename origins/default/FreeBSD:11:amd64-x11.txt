@@ -487,6 +487,7 @@ math/qalculate
 math/suitesparse
 math/zegrapher
 misc/bestfit
+misc/bitwise
 misc/boxes
 misc/buffer
 misc/cloc
