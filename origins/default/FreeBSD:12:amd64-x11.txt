@@ -324,6 +324,7 @@ ftp/curl
 ftp/filezilla
 ftp/lftp
 ftp/ncftp3
+ftp/netdumpd
 ftp/wget
 games/bsdgames
 games/bzflag
