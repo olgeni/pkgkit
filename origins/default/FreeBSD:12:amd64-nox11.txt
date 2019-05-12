@@ -168,6 +168,7 @@ devel/interactive_rebase_tool
 devel/ipython
 devel/kBuild
 devel/kerl
+devel/lazygit
 devel/libev
 devel/libpdel
 devel/libtool

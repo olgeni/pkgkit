@@ -183,6 +183,7 @@ devel/jenkins
 devel/jline
 devel/kBuild
 devel/kerl
+devel/lazygit
 devel/libev
 devel/libpdel
 devel/libtool
