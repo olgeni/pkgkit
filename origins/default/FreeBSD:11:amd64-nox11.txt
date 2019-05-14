@@ -500,6 +500,7 @@ net-mgmt/ipcalc
 net-mgmt/iprange
 net-mgmt/libsmi
 net-mgmt/net-snmp
+net-mgmt/netdata
 net-mgmt/php72-snmp
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
