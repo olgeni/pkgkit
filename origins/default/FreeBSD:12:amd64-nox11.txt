@@ -892,6 +892,7 @@ textproc/libxslt
 textproc/libyaml
 textproc/markdown
 textproc/markdown-mode.el@nox
+textproc/markdownfmt
 textproc/miller
 textproc/nuspell
 textproc/p5-ack
