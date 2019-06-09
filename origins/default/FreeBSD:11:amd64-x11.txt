@@ -123,6 +123,7 @@ databases/usql
 deskutils/freemind
 deskutils/gcal
 deskutils/noti
+deskutils/sysctlview
 deskutils/taskwarrior
 deskutils/timewarrior
 deskutils/treesheets
