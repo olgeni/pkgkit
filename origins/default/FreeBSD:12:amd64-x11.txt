@@ -1080,6 +1080,7 @@ www/nginx
 www/node
 www/node10
 www/npm
+www/npm-node10
 www/php72-opcache
 www/php72-session
 www/py-boto3
