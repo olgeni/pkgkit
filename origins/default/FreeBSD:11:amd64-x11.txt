@@ -815,6 +815,7 @@ sysutils/detox
 sysutils/devcpu-data
 sysutils/devstat
 sysutils/dfc
+sysutils/digdag
 sysutils/direnv
 sysutils/disktype
 sysutils/dmidecode
