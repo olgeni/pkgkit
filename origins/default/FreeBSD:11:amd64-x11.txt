@@ -1078,6 +1078,7 @@ www/moinmoincli
 www/newsboat
 www/nginx
 www/node
+www/node10
 www/npm
 www/php72-opcache
 www/php72-session
