@@ -414,6 +414,7 @@ lang/gawk
 lang/gcc
 lang/gforth
 lang/go
+lang/gomacro
 lang/gprolog
 lang/itcl
 lang/itcl4
