@@ -804,6 +804,7 @@ sysutils/py-python-nomad
 sysutils/py-ranger
 sysutils/py-salt
 sysutils/py-supervisor
+sysutils/py-tmuxp
 sysutils/pydf
 sysutils/rcm
 sysutils/rdate
