@@ -663,6 +663,7 @@ shells/mksh
 shells/oksh
 shells/zsh
 shells/zsh-navigation-tools
+shells/zsh-syntax-highlighting
 sysutils/ansible
 sysutils/aptly
 sysutils/atop
@@ -916,7 +917,6 @@ textproc/xmlcharent
 textproc/xmlstarlet
 textproc/xmlto
 textproc/xsv-rs
-textproc/zsh-syntax-highlighting
 www/apache24
 www/aria2
 www/csstidy

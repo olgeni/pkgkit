@@ -769,6 +769,7 @@ shells/oksh
 shells/viewglob
 shells/zsh
 shells/zsh-navigation-tools
+shells/zsh-syntax-highlighting
 sysutils/android-file-transfer
 sysutils/ansible
 sysutils/aptly
@@ -1034,7 +1035,6 @@ textproc/xmlcharent
 textproc/xmlstarlet
 textproc/xmlto
 textproc/xsv-rs
-textproc/zsh-syntax-highlighting
 www/apache24
 www/aria2
 www/chromium
