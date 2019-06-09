@@ -73,6 +73,7 @@ databases/pgadmin3
 databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
+databases/pgFormatter
 databases/pgloader
 databases/pglogical
 databases/pgmetrics
