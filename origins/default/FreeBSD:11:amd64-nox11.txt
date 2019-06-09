@@ -558,6 +558,7 @@ net/py-magic-wormhole
 net/py-maxminddb
 net/py-pyzmq
 net/py-s3cmd
+net/py-smart_open
 net/py-tweepy
 net/py-urllib3
 net/rabbitmq
