@@ -951,6 +951,7 @@ www/mod_wsgi4
 www/mod_xsendfile
 www/moinmoin
 www/moinmoincli
+www/newsboat
 www/nginx
 www/node
 www/npm
