@@ -980,6 +980,7 @@ www/websocat
 www/websocketd
 www/wuzz
 www/yarn
+www/yarn-node10
 www/yaws
 www/youtube_dl
 x11-fonts/psftools
