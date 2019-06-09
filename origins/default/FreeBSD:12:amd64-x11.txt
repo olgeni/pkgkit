@@ -947,6 +947,7 @@ sysutils/spinner
 sysutils/spiped
 sysutils/storcli
 sysutils/stress
+sysutils/swapusage
 sysutils/symlinks
 sysutils/syslog-ng
 sysutils/sysvbanner
