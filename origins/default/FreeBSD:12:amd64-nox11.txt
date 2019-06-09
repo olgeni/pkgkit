@@ -263,6 +263,7 @@ devel/yasm
 dns/adns
 dns/bind-tools
 dns/bind911
+dns/coredns
 dns/dnsmasq
 dns/dnstop
 dns/dnsutl
