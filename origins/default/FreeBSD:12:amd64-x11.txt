@@ -762,6 +762,7 @@ security/xinetd
 shells/ammonite
 shells/bash
 shells/fd
+shells/fish
 shells/ksh93
 shells/lshell
 shells/mksh
