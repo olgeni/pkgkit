@@ -250,6 +250,7 @@ devel/py-sh
 devel/py-six
 devel/py-stevedore
 devel/py-subversion
+devel/py-tables
 devel/py-virtualenv
 devel/py-virtualenv-clone
 devel/py-virtualenvwrapper
