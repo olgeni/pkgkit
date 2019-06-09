@@ -783,6 +783,7 @@ sysutils/ansible
 sysutils/aptly
 sysutils/atop
 sysutils/azure-agent
+sysutils/barrier
 sysutils/beadm
 sysutils/beats
 sysutils/bfs
