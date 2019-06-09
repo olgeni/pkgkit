@@ -979,6 +979,7 @@ www/w3m
 www/websocat
 www/websocketd
 www/wuzz
+www/yarn
 www/yaws
 www/youtube_dl
 x11-fonts/psftools
