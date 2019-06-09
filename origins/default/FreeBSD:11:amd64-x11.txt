@@ -1204,6 +1204,7 @@ x11/nvidia-driver
 x11/nvidia-settings
 x11/rgb
 x11/rofi
+x11/rofi-calc
 x11/slop
 x11/terminator
 x11/terminology
