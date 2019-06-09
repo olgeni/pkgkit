@@ -715,6 +715,7 @@ sysutils/DTraceToolkit
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
 sysutils/dwatch-gource
+sysutils/dwatch-json
 sysutils/dwatch-pwsnoop
 sysutils/e2fsprogs
 sysutils/eject
