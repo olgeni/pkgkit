@@ -81,6 +81,7 @@ databases/php72-pdo_pgsql
 databases/php72-pdo_sqlite
 databases/php72-pgsql
 databases/postgresql-cstore_fdw
+databases/postgresql-mysql_fdw
 databases/postgresql-prefix
 databases/postgresql-repmgr
 databases/postgresql10-client
