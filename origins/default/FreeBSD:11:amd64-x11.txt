@@ -994,7 +994,6 @@ textproc/aspell
 textproc/augeas
 textproc/bar
 textproc/bat
-textproc/cdiff
 textproc/consul-template
 textproc/datamash
 textproc/diff-so-fancy
@@ -1051,6 +1050,7 @@ textproc/xmlcharent
 textproc/xmlstarlet
 textproc/xmlto
 textproc/xsv-rs
+textproc/ydiff
 www/apache24
 www/aria2
 www/chromium
