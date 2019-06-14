@@ -293,7 +293,6 @@ editors/tweak
 editors/vim
 editors/with-editor@nox
 emulators/open-vm-tools
-emulators/qemu-devel
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
