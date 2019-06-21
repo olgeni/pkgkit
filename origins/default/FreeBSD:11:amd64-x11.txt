@@ -1071,7 +1071,6 @@ www/lynx
 www/minio
 www/minio-client
 www/mod_php72
-www/mod_rivet
 www/mod_wsgi4
 www/mod_xsendfile
 www/moinmoin
