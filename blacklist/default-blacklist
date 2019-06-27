@@ -3,6 +3,14 @@ lang/swift
 multimedia/asdcplib
 sysutils/pefs-kmod
 x11/terminology
+databases/postgresql10-client
+databases/postgresql10-contrib
+databases/postgresql10-docs
+databases/postgresql10-pgtcl
+databases/postgresql10-plperl
+databases/postgresql10-plpython
+databases/postgresql10-pltcl
+databases/postgresql10-server
 databases/postgresql94-client
 databases/postgresql94-contrib
 databases/postgresql94-docs
