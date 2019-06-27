@@ -1062,8 +1062,6 @@ www/go-www
 www/googlebook_dl
 www/gotty
 www/grafana5
-www/kannel
-www/kannel-sqlbox
 www/lighttpd
 www/links
 www/lynx
