@@ -928,6 +928,7 @@ textproc/xmlstarlet
 textproc/xmlto
 textproc/xsv-rs
 textproc/ydiff
+textproc/yq
 www/apache24
 www/aria2
 www/csstidy
