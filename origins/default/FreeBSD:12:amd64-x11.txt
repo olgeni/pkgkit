@@ -670,6 +670,7 @@ net/tcpshow
 net/termshark
 net/tigervnc-server
 net/tigervnc-viewer
+net/traefik
 net/trafshow
 net/tsocks
 net/ucarp
