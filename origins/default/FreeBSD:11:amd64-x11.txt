@@ -1011,6 +1011,7 @@ textproc/flex
 textproc/fop
 textproc/fzf
 textproc/fzy
+textproc/gnugrep
 textproc/gsed
 textproc/hunspell
 textproc/icdiff
