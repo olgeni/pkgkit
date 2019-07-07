@@ -4,6 +4,8 @@ lang/swift
 multimedia/asdcplib
 sysutils/pefs-kmod
 x11/terminology
+databases/mysql56-client
+databases/mysql56-server
 databases/postgresql10-client
 databases/postgresql10-contrib
 databases/postgresql10-docs

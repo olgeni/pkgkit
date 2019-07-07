@@ -56,8 +56,8 @@ databases/gdbm
 databases/hiredis
 databases/influxdb
 databases/libdbi
-databases/mysql56-client
-databases/mysql56-server
+databases/mysql57-client
+databases/mysql57-server
 databases/p5-Bucardo
 databases/pear-MDB2_Driver_pgsql
 databases/pg_activity
