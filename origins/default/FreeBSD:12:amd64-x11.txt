@@ -755,6 +755,7 @@ security/py-rsa
 security/racoon2
 security/scrypt
 security/seahorse
+security/signify
 security/softether
 security/ssh-vault
 security/sshpass
