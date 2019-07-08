@@ -223,6 +223,7 @@ devel/py-nose
 devel/py-ordereddict
 devel/py-pika
 devel/py-pip
+devel/py-pipenv
 devel/py-protobuf
 devel/py-py_interface
 devel/py-pyasn1
