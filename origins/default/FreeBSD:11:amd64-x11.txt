@@ -730,6 +730,7 @@ security/keepassxc
 security/keybase
 security/mcrypt
 security/md5deep
+security/minisign
 security/nmap
 security/openssh-askpass
 security/openvpn
