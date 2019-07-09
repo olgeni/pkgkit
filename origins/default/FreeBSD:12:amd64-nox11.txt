@@ -648,6 +648,7 @@ security/py-certbot-dns-dnsimple
 security/py-certbot-dns-dnsmadeeasy
 security/py-certbot-dns-gehirn
 security/py-certbot-dns-google
+security/py-certbot-dns-linode
 security/py-certifi
 security/py-cryptkit
 security/py-fail2ban
