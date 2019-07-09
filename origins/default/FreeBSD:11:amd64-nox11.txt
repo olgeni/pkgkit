@@ -655,6 +655,7 @@ security/py-certbot-dns-ovh
 security/py-certbot-dns-rfc2136
 security/py-certbot-dns-route53
 security/py-certbot-dns-sakuracloud
+security/py-certbot-nginx
 security/py-certifi
 security/py-cryptkit
 security/py-fail2ban
