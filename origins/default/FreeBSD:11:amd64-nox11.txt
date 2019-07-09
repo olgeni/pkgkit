@@ -652,6 +652,7 @@ security/py-certbot-dns-linode
 security/py-certbot-dns-luadns
 security/py-certbot-dns-nsone
 security/py-certbot-dns-ovh
+security/py-certbot-dns-rfc2136
 security/py-certifi
 security/py-cryptkit
 security/py-fail2ban
