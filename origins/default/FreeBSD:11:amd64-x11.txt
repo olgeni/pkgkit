@@ -755,6 +755,7 @@ security/py-certbot-dns-google
 security/py-certbot-dns-linode
 security/py-certbot-dns-luadns
 security/py-certbot-dns-nsone
+security/py-certbot-dns-ovh
 security/py-certifi
 security/py-cryptkit
 security/py-fail2ban
