@@ -1258,5 +1258,6 @@ x11/xprop
 x11/xrestop
 x11/xscope
 x11/xscreensaver
+x11/xsm
 x11/xtermcontrol
 x11/xvattr
