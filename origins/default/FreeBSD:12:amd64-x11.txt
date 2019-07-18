@@ -1112,6 +1112,7 @@ www/py-gandi.cli
 www/py-google-cloud-core
 www/py-google-cloud-storage
 www/py-httpie
+www/py-lektor
 www/py-meld3
 www/py-requests
 www/squid
