@@ -403,6 +403,7 @@ lang/clojure
 lang/cython
 lang/elixir
 lang/elixir-mode.el
+lang/elm
 lang/erlang
 lang/erlang-doc
 lang/erlang-java
