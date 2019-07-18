@@ -162,6 +162,7 @@ devel/dep
 devel/dev86
 devel/distel
 devel/ElectricFence
+devel/elm-format
 devel/etcd33
 devel/fossil
 devel/gdb
