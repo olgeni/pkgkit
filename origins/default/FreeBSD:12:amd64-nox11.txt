@@ -358,6 +358,7 @@ lang/gomacro
 lang/gprolog
 lang/itcl
 lang/itcl4
+lang/janet
 lang/jimtcl
 lang/mono
 lang/nim
