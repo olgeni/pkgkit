@@ -340,6 +340,7 @@ graphics/tiff
 graphics/webp
 lang/alchemist.el@nox
 lang/chaiscript
+lang/crystal
 lang/cython
 lang/elixir
 lang/elixir-mode.el@nox
