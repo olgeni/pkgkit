@@ -476,6 +476,7 @@ mail/spamd
 mail/ssmtp
 mail/svnmailer
 mail/thunderbird
+math/bitwise
 math/blas
 math/calc
 math/djbfft
@@ -497,7 +498,6 @@ math/qalculate
 math/suitesparse
 math/zegrapher
 misc/bestfit
-misc/bitwise
 misc/boxes
 misc/buffer
 misc/cloc
