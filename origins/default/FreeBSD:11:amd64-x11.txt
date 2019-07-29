@@ -953,6 +953,7 @@ sysutils/rdiff-backup
 sysutils/rename
 sysutils/renameutils
 sysutils/reptyr
+sysutils/rest-server
 sysutils/restic
 sysutils/rex
 sysutils/rsyslog8
