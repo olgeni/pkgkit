@@ -747,6 +747,7 @@ sysutils/entr
 sysutils/envconsul
 sysutils/exa
 sysutils/exfat-utils
+sysutils/facter
 sysutils/fileprune
 sysutils/firstboot-freebsd-update
 sysutils/firstboot-growfs
