@@ -16,6 +16,9 @@ audio/aumix
 audio/beep
 audio/cdparanoia
 audio/flac
+audio/icecast
+audio/icecast-kh
+audio/ices
 audio/id3v2
 audio/lame
 audio/madplay
