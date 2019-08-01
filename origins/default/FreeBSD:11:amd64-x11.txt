@@ -1122,6 +1122,7 @@ www/py-httpie
 www/py-lektor
 www/py-meld3
 www/py-requests
+www/py-starlette
 www/squid
 www/tclhttpd
 www/tdom
