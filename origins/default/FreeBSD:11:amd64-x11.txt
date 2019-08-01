@@ -159,7 +159,6 @@ devel/ctags
 devel/cvs2svn
 devel/cvsps
 devel/dconf-editor
-devel/ddd
 devel/deheader
 devel/dep
 devel/dev86
