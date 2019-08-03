@@ -122,6 +122,7 @@ databases/tcl-sqlite3
 databases/tdb
 databases/timescaledb
 databases/usql
+deskutils/dfshow
 deskutils/freemind
 deskutils/gcal
 deskutils/noti
