@@ -1071,6 +1071,7 @@ textproc/py-chardet
 textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-python-augeas
+textproc/py-xmldiff
 textproc/ripgrep
 textproc/rubygem-docdiff
 textproc/texi2html
