@@ -319,6 +319,7 @@ graphics/hiptext
 graphics/icoutils
 graphics/ImageMagick6
 graphics/jhead
+graphics/jp
 graphics/jpeg-turbo
 graphics/libexif
 graphics/libgphoto2
