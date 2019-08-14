@@ -434,7 +434,7 @@ lang/kotlin
 lang/mono
 lang/nim
 lang/nx
-lang/perl5.28
+lang/perl5.30
 lang/php72
 lang/py-hy
 lang/py-mx-base
