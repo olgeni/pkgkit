@@ -428,6 +428,7 @@ lang/itcl
 lang/itcl4
 lang/janet
 lang/jimtcl
+lang/kotlin
 lang/mono
 lang/nim
 lang/nx
