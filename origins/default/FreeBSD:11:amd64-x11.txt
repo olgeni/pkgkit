@@ -261,6 +261,7 @@ devel/py-virtualenv-clone
 devel/py-virtualenvwrapper
 devel/py-xmltodict
 devel/py-yamllint
+devel/py-yattag
 devel/pylint
 devel/rclint
 devel/rebar
