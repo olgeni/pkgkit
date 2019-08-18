@@ -5,8 +5,6 @@ archivers/gtar
 archivers/lzip
 archivers/p7zip
 archivers/parchive
-archivers/php72-zip
-archivers/php72-zlib
 archivers/pigz
 archivers/py-borgbackup
 archivers/rar
@@ -54,8 +52,6 @@ comms/tio
 converters/base64
 converters/mpack
 converters/p5-JSON-PP
-converters/php72-iconv
-converters/php72-mbstring
 converters/recode
 converters/unix2dos
 databases/couchdb
@@ -82,12 +78,6 @@ databases/pgmetrics
 databases/pgsanity
 databases/pgtop
 databases/pgtune
-databases/php72-mysqli
-databases/php72-pdo
-databases/php72-pdo_mysql
-databases/php72-pdo_pgsql
-databases/php72-pdo_sqlite
-databases/php72-pgsql
 databases/postgresql-cstore_fdw
 databases/postgresql-jdbc
 databases/postgresql-prefix
@@ -210,9 +200,6 @@ devel/packr
 devel/patch
 devel/pcre
 devel/pear
-devel/php72-gettext
-devel/php72-json
-devel/php72-tokenizer
 devel/pkgconf
 devel/popt
 devel/protobuf
@@ -436,6 +423,7 @@ lang/nim
 lang/nx
 lang/perl5.30
 lang/php72
+lang/php72-extensions
 lang/py-hy
 lang/py-mx-base
 lang/python
@@ -498,7 +486,6 @@ math/lapack
 math/libqalculate
 math/mpc
 math/mpfr
-math/php72-gmp
 math/py-matplotlib
 math/py-networkx
 math/py-numeric
@@ -605,7 +592,6 @@ net-mgmt/iprange
 net-mgmt/libsmi
 net-mgmt/net-snmp
 net-mgmt/netdata
-net-mgmt/php72-snmp
 net-mgmt/riemann
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
@@ -653,8 +639,6 @@ net/nss_ldap
 net/omnitty
 net/openldap24-client
 net/openldap24-server
-net/php72-ldap
-net/php72-sockets
 net/py-amqp
 net/py-kombu
 net/py-libcloud
@@ -750,9 +734,6 @@ security/pam_google_authenticator
 security/pam_ldap
 security/pam_mkhomedir
 security/pam_ssh_agent_auth
-security/php72-filter
-security/php72-hash
-security/php72-openssl
 security/pinentry
 security/py-acme
 security/py-certbot
@@ -938,7 +919,6 @@ sysutils/parallel
 sysutils/pdumpfs
 sysutils/pfstat
 sysutils/pftop
-sysutils/php72-posix
 sysutils/pipemeter
 sysutils/ptools
 sysutils/pv
@@ -1065,10 +1045,6 @@ textproc/miller
 textproc/nuspell
 textproc/p5-ack
 textproc/par
-textproc/php72-ctype
-textproc/php72-dom
-textproc/php72-simplexml
-textproc/php72-xml
 textproc/pup
 textproc/py-asciinema
 textproc/py-autopep8
@@ -1106,7 +1082,6 @@ www/links
 www/lynx
 www/minio
 www/minio-client
-www/mod_php72
 www/mod_wsgi4
 www/mod_xsendfile
 www/moinmoin
@@ -1117,8 +1092,6 @@ www/node
 www/node10
 www/npm
 www/npm-node10
-www/php72-opcache
-www/php72-session
 www/py-boto3
 www/py-bottle
 www/py-flask
