@@ -515,6 +515,7 @@ misc/cstream
 misc/delay
 misc/findutils
 misc/fortune-mod-freebsd-classic
+misc/free42
 misc/getopt
 misc/gnome-icon-theme
 misc/gnu-watch
