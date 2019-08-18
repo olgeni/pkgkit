@@ -368,6 +368,7 @@ graphics/libexif
 graphics/libgphoto2
 graphics/liblqr-1
 graphics/libsixel
+graphics/mesa-demos
 graphics/mupdf
 graphics/netpbm
 graphics/opencv-core
