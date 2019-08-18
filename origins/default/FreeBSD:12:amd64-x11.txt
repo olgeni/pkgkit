@@ -1278,3 +1278,4 @@ x11/xscreensaver
 x11/xsm
 x11/xtermcontrol
 x11/xvattr
+x11/xvkbd
