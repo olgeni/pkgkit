@@ -130,6 +130,7 @@ deskutils/sysctlview
 deskutils/taskwarrior
 deskutils/timewarrior
 deskutils/treesheets
+deskutils/xcalendar
 devel/android-tools-adb
 devel/android-tools-fastboot
 devel/apache-ant
