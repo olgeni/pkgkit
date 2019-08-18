@@ -1266,6 +1266,7 @@ x11/xloadimage
 x11/xlockmore
 x11/xlogo
 x11/xman
+x11/xmotd
 x11/xmove
 x11/xnee
 x11/xorg
