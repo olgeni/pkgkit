@@ -872,6 +872,7 @@ sysutils/firstboot-growfs
 sysutils/firstboot-pkgs
 sysutils/flock
 sysutils/fpart
+sysutils/frand
 sysutils/freeipmi
 sysutils/fusefs-exfat
 sysutils/fusefs-ext4fuse
