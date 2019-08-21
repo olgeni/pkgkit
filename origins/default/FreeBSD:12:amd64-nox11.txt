@@ -479,6 +479,7 @@ multimedia/mxflib
 multimedia/qt-faststart
 multimedia/rtmpdump
 multimedia/schroedinger
+multimedia/termplay
 multimedia/v4l_compat
 multimedia/vlc
 multimedia/x264
