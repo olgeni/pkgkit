@@ -810,6 +810,7 @@ sysutils/cciss_vol_status
 sysutils/ccze
 sysutils/cdargs
 sysutils/cdls
+sysutils/cdrkit
 sysutils/cdrtools
 sysutils/clone
 sysutils/conky
