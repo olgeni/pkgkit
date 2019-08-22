@@ -168,6 +168,7 @@ devel/gmake
 devel/go-glide
 devel/go-tools
 devel/gogs
+devel/goswagger
 devel/gradle
 devel/gsoap
 devel/hexd
