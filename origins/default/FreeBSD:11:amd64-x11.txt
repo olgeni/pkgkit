@@ -869,6 +869,7 @@ sysutils/fusefs-s3fs
 sysutils/fusefs-sshfs
 sysutils/gaffitter
 sysutils/gconf-editor
+sysutils/genisoimage
 sysutils/getssl
 sysutils/google-compute-engine-oslogin
 sysutils/goss

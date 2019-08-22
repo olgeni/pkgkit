@@ -753,6 +753,7 @@ sysutils/fusefs-ntfs
 sysutils/fusefs-s3fs
 sysutils/fusefs-sshfs
 sysutils/gaffitter
+sysutils/genisoimage
 sysutils/getssl
 sysutils/google-compute-engine-oslogin
 sysutils/goss
