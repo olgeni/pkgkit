@@ -502,6 +502,7 @@ net-mgmt/iprange
 net-mgmt/libsmi
 net-mgmt/net-snmp
 net-mgmt/netdata
+net-mgmt/prometheus2
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
 net-mgmt/telegraf
