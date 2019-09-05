@@ -837,6 +837,9 @@ sysutils/digdag
 sysutils/direnv
 sysutils/disktype
 sysutils/dmidecode
+sysutils/docker
+sysutils/docker-compose
+sysutils/docker-machine
 sysutils/doctl
 sysutils/downtimed
 sysutils/dtpstree
