@@ -756,6 +756,7 @@ sysutils/fusefs-sshfs
 sysutils/gaffitter
 sysutils/genisoimage
 sysutils/getssl
+sysutils/go-wtf
 sysutils/google-compute-engine-oslogin
 sysutils/goss
 sysutils/gotop
