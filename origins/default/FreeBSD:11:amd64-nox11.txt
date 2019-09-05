@@ -370,7 +370,6 @@ lang/ruby25
 lang/runawk
 lang/rust
 lang/sbcl
-lang/swift
 lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
