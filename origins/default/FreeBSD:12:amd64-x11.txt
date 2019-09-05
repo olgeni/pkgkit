@@ -80,6 +80,7 @@ databases/pgtop
 databases/pgtune
 databases/postgresql-cstore_fdw
 databases/postgresql-jdbc
+databases/postgresql-plproxy
 databases/postgresql-prefix
 databases/postgresql-repmgr
 databases/postgresql11-client
