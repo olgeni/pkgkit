@@ -379,6 +379,7 @@ mail/archmbox
 mail/assp
 mail/dcc-dccd
 mail/dovecot
+mail/dovecot-fts-xapian
 mail/dovecot-pigeonhole
 mail/ez-pine-gpg
 mail/fetchmail
