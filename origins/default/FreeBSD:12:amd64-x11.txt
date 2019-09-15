@@ -895,6 +895,7 @@ sysutils/hfsutils
 sysutils/host-setup
 sysutils/htop
 sysutils/immortal
+sysutils/inotify-tools
 sysutils/intel-pcm
 sysutils/iocage
 sysutils/iocell
