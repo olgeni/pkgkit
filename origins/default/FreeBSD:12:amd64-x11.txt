@@ -1236,6 +1236,7 @@ x11/rofi-calc
 x11/slop
 x11/terminator
 x11/terminology
+x11/wallutils
 x11/wmctrl
 x11/xascii
 x11/xautolock
