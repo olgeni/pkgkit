@@ -367,7 +367,7 @@ lang/python-mode.el
 lang/python2
 lang/python3
 lang/racket-minimal
-lang/ruby25
+lang/ruby26
 lang/runawk
 lang/rust
 lang/sbcl
