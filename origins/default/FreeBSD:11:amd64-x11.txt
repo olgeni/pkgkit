@@ -1143,6 +1143,7 @@ x11-fonts/anonymous-pro
 x11-fonts/bitstream-vera
 x11-fonts/bitter
 x11-fonts/cantarell-fonts
+x11-fonts/cascadia-code
 x11-fonts/clearsans
 x11-fonts/comfortaa-ttf
 x11-fonts/consolamono-ttf
