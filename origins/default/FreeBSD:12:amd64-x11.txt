@@ -443,6 +443,7 @@ lang/sbcl
 lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
+lang/zig
 mail/alpine
 mail/archmbox
 mail/assp
