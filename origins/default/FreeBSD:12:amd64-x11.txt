@@ -939,6 +939,7 @@ sysutils/pdumpfs
 sysutils/pfstat
 sysutils/pftop
 sysutils/pipemeter
+sysutils/pot
 sysutils/ptools
 sysutils/pv
 sysutils/pwgen
