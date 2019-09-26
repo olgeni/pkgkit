@@ -434,6 +434,7 @@ lang/python
 lang/python-mode.el
 lang/python2
 lang/python3
+lang/quickjs
 lang/racket
 lang/ruby26
 lang/runawk
