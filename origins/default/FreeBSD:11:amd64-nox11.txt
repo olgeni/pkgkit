@@ -806,6 +806,7 @@ sysutils/most
 sysutils/multitail
 sysutils/ncdu
 sysutils/nomad
+sysutils/nomad-pot-driver
 sysutils/nq
 sysutils/nsysctl
 sysutils/ntfy
