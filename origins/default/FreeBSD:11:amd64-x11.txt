@@ -1128,6 +1128,7 @@ www/tclhttpd
 www/tdom
 www/tidy
 www/tinyproxy
+www/tusd
 www/uwsgi
 www/varnish4
 www/w3m
