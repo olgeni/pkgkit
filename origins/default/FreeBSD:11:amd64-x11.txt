@@ -427,6 +427,7 @@ lang/nx
 lang/perl5.30
 lang/php72
 lang/php72-extensions
+lang/purescript
 lang/py-hy
 lang/py-mx-base
 lang/python
