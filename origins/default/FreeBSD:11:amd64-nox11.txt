@@ -280,6 +280,7 @@ editors/hte
 editors/joe
 editors/le
 editors/micro
+editors/mle
 editors/nano
 editors/ne
 editors/paredit-mode.el@nox
