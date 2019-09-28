@@ -962,6 +962,7 @@ textproc/ydiff
 textproc/yq
 www/apache24
 www/aria2
+www/caddy
 www/csstidy
 www/elinks
 www/gitea

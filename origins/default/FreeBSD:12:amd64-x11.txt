@@ -1088,6 +1088,7 @@ textproc/ydiff
 textproc/yq
 www/apache24
 www/aria2
+www/caddy
 www/chromium
 www/csstidy
 www/elinks
