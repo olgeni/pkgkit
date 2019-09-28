@@ -938,6 +938,7 @@ sysutils/parallel
 sysutils/pdumpfs
 sysutils/pfstat
 sysutils/pftop
+sysutils/pies
 sysutils/pipemeter
 sysutils/pot
 sysutils/ptools
