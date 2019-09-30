@@ -823,6 +823,7 @@ sysutils/ptools
 sysutils/pv
 sysutils/pwgen
 sysutils/py-ansible-lint
+sysutils/py-azure-cli
 sysutils/py-diffoscope
 sysutils/py-dirsync
 sysutils/py-glances
