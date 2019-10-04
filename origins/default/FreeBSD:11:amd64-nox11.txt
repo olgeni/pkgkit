@@ -924,6 +924,7 @@ textproc/fzf
 textproc/fzy
 textproc/gnugrep
 textproc/gsed
+textproc/hs-pandoc
 textproc/hunspell
 textproc/icdiff
 textproc/igor
