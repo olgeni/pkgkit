@@ -915,6 +915,7 @@ sysutils/lbl-hf
 sysutils/libchk
 sysutils/lnav
 sysutils/logstash6
+sysutils/lsblk
 sysutils/lscpu
 sysutils/lsof
 sysutils/ltrace
