@@ -694,6 +694,7 @@ sysutils/ansible
 sysutils/aptly
 sysutils/atop
 sysutils/azure-agent
+sysutils/bastille
 sysutils/beadm
 sysutils/beats
 sysutils/bfs

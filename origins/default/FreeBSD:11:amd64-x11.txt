@@ -808,6 +808,7 @@ sysutils/aptly
 sysutils/atop
 sysutils/azure-agent
 sysutils/barrier
+sysutils/bastille
 sysutils/beadm
 sysutils/beats
 sysutils/bfs
