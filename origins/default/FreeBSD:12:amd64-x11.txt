@@ -971,6 +971,7 @@ sysutils/rest-server
 sysutils/restic
 sysutils/rex
 sysutils/rsyslog8
+sysutils/rubygem-fluentd
 sysutils/runit
 sysutils/samefile
 sysutils/screen
