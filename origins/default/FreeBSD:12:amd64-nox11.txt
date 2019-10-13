@@ -852,6 +852,7 @@ sysutils/rsyslog8
 sysutils/rubygem-fluentd
 sysutils/runit
 sysutils/samefile
+sysutils/sanoid
 sysutils/screen
 sysutils/screenie
 sysutils/sg3_utils
