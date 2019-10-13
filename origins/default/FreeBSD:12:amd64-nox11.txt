@@ -681,6 +681,7 @@ security/vlock
 security/vuxml
 security/xinetd
 shells/bash
+shells/elvish
 shells/fd
 shells/fish
 shells/ksh93

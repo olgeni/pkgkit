@@ -792,6 +792,7 @@ security/vuxml
 security/xinetd
 shells/ammonite
 shells/bash
+shells/elvish
 shells/fd
 shells/fish
 shells/ksh93
