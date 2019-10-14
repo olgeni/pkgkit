@@ -283,6 +283,7 @@ editors/micro
 editors/mle
 editors/nano
 editors/ne
+editors/o
 editors/paredit-mode.el@nox
 editors/pico-alpine
 editors/tweak
