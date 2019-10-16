@@ -76,6 +76,7 @@ databases/postgresql-cstore_fdw
 databases/postgresql-plproxy
 databases/postgresql-prefix
 databases/postgresql-repmgr
+databases/postgresql-rum
 databases/postgresql11-client
 databases/postgresql11-contrib
 databases/postgresql11-pgtcl
