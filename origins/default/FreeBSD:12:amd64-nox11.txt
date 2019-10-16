@@ -572,6 +572,7 @@ net/rinetd
 net/rsync
 net/samba48
 net/sendemail
+net/shelldap
 net/slurm
 net/socat
 net/sslh

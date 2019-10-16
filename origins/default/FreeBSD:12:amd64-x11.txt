@@ -670,6 +670,7 @@ net/rsync
 net/samba48
 net/sdl_net
 net/sendemail
+net/shelldap
 net/slurm
 net/socat
 net/sslh
