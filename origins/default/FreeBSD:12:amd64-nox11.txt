@@ -458,7 +458,6 @@ misc/shc
 misc/ttyrec
 misc/vifm
 misc/window
-misc/xd
 misc/ytree
 multimedia/dvbsnoop
 multimedia/ffmpeg
