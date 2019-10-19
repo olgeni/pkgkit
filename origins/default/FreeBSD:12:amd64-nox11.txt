@@ -971,6 +971,7 @@ www/aria2
 www/caddy
 www/csstidy
 www/elinks
+www/fabio
 www/gitea
 www/go-www
 www/googlebook_dl

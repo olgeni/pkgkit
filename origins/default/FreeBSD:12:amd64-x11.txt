@@ -1098,6 +1098,7 @@ www/caddy
 www/chromium
 www/csstidy
 www/elinks
+www/fabio
 www/ffsend
 www/firefox
 www/gitea
