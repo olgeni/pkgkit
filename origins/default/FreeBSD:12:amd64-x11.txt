@@ -994,6 +994,7 @@ sysutils/swapusage
 sysutils/symlinks
 sysutils/syslog-ng
 sysutils/sysvbanner
+sysutils/tai64nfrac
 sysutils/terraform
 sysutils/tlsdate
 sysutils/tmate
