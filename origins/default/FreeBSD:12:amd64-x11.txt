@@ -300,6 +300,7 @@ editors/hexcurse
 editors/hexedit
 editors/hte
 editors/joe
+editors/kakoune
 editors/le
 editors/micro
 editors/mle
