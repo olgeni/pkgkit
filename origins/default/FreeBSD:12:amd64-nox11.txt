@@ -865,6 +865,7 @@ sysutils/snooze
 sysutils/socklog
 sysutils/spinner
 sysutils/spiped
+sysutils/ssid
 sysutils/storcli
 sysutils/stress
 sysutils/swapusage
