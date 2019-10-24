@@ -822,6 +822,7 @@ sysutils/pftop
 sysutils/pies
 sysutils/pipemeter
 sysutils/pot
+sysutils/potnet
 sysutils/ptools
 sysutils/pv
 sysutils/pwgen
