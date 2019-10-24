@@ -145,7 +145,6 @@ devel/dev86
 devel/distel@nox
 devel/ElectricFence
 devel/elm-format
-devel/etcd33
 devel/etcd34
 devel/fossil
 devel/gdb
