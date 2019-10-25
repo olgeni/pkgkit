@@ -1115,6 +1115,7 @@ www/grafana5
 www/lighttpd
 www/links
 www/lynx
+www/mattermost-server
 www/minio
 www/minio-client
 www/mod_wsgi4
