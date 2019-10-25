@@ -1116,6 +1116,7 @@ www/lighttpd
 www/links
 www/lynx
 www/mattermost-server
+www/mattermost-webapp
 www/minio
 www/minio-client
 www/mod_wsgi4
