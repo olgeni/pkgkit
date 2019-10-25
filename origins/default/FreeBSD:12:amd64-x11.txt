@@ -580,6 +580,7 @@ multimedia/vlc
 multimedia/x264
 multimedia/xvid
 net-im/finch
+net-im/matterhorn
 net-im/oysttyer
 net-im/pidgin
 net-im/py-python-telegram-bot

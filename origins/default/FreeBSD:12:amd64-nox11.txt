@@ -490,6 +490,7 @@ multimedia/v4l_compat
 multimedia/vlc
 multimedia/x264
 multimedia/xvid
+net-im/matterhorn
 net-im/oysttyer
 net-im/py-python-telegram-bot
 net-im/slack-term
