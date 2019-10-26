@@ -1029,5 +1029,6 @@ www/yarn-node10
 www/yaws
 www/youtube_dl
 www/zola
+x11-fonts/monoid
 x11-fonts/psftools
 x11/xtermcontrol

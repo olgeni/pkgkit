@@ -1195,6 +1195,7 @@ x11-fonts/materialdesign-ttf
 x11-fonts/meslo
 x11-fonts/mkbold-mkitalic
 x11-fonts/mkfontscale
+x11-fonts/monoid
 x11-fonts/nerd-fonts
 x11-fonts/noto
 x11-fonts/nucleus
