@@ -774,6 +774,7 @@ sysutils/goss
 sysutils/gotop
 sysutils/grub2-bhyve
 sysutils/hatop
+sysutils/hcloud
 sysutils/helm
 sysutils/hextools
 sysutils/hexyl
