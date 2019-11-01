@@ -1256,6 +1256,7 @@ x11/listres
 x11/lsw
 x11/mate
 x11/nvidia-driver
+x11/nvidia-driver-390
 x11/nvidia-settings
 x11/rgb
 x11/rofi
