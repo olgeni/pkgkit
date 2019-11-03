@@ -615,6 +615,7 @@ net/courier-sox
 net/czmq
 net/dhcping
 net/empty
+net/endlessh
 net/freerdp
 net/gnatsd
 net/gnetcat

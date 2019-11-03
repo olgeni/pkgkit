@@ -521,6 +521,7 @@ net/courier-sox
 net/czmq
 net/dhcping
 net/empty
+net/endlessh
 net/gnatsd
 net/gnetcat
 net/go-cs
