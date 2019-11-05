@@ -807,6 +807,7 @@ shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
 sysutils/android-file-transfer
 sysutils/ansible
+sysutils/ansible-sysrc
 sysutils/aptly
 sysutils/atop
 sysutils/azure-agent

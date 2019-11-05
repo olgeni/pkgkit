@@ -694,6 +694,7 @@ shells/zsh
 shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
 sysutils/ansible
+sysutils/ansible-sysrc
 sysutils/aptly
 sysutils/atop
 sysutils/azure-agent
