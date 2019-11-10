@@ -214,6 +214,7 @@ devel/py-crcmod
 devel/py-dateutil
 devel/py-decorator
 devel/py-freebsd
+devel/py-freebsd-sysctl
 devel/py-gdata
 devel/py-gevent
 devel/py-gitosis
