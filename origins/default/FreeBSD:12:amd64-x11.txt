@@ -1254,6 +1254,7 @@ x11-wm/twm
 x11-wm/vtwm
 x11-wm/windowmaker
 x11-wm/xcompmgr
+x11-wm/xfce4
 x11/cool-retro-term
 x11/editres
 x11/grabc
