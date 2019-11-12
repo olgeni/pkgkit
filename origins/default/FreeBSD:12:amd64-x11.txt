@@ -506,6 +506,7 @@ math/zegrapher
 misc/bestfit
 misc/boxes
 misc/buffer
+misc/cheat
 misc/cloc
 misc/cpuid
 misc/cstream
