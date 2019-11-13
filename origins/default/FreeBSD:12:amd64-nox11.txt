@@ -109,6 +109,7 @@ databases/usql
 deskutils/dfshow
 deskutils/gcal
 deskutils/taskwarrior
+deskutils/terminal-image-viewer
 deskutils/timewarrior
 devel/android-tools-adb
 devel/android-tools-fastboot

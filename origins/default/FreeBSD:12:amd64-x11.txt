@@ -119,6 +119,7 @@ deskutils/gcal
 deskutils/noti
 deskutils/sysctlview
 deskutils/taskwarrior
+deskutils/terminal-image-viewer
 deskutils/timewarrior
 deskutils/treesheets
 deskutils/xcalendar
