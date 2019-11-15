@@ -1010,6 +1010,7 @@ www/npm
 www/npm-node10
 www/py-boto3
 www/py-bottle
+www/py-crossplane
 www/py-flask
 www/py-gandi.cli
 www/py-google-cloud-core
