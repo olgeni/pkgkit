@@ -522,6 +522,7 @@ net/bosh-bootloader
 net/bosh-cli
 net/cf
 net/cloud-init
+net/cloudflared
 net/courier-sox
 net/czmq
 net/dhcping
