@@ -1164,6 +1164,7 @@ www/websocketd
 www/wuzz
 www/yarn
 www/yarn-node10
+www/yarn-node12
 www/yaws
 www/youtube_dl
 www/zola
