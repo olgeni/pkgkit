@@ -48,7 +48,6 @@ converters/mpack
 converters/p5-JSON-PP
 converters/recode
 converters/unix2dos
-databases/couchdb
 databases/couchdb2
 databases/gdbm
 databases/hiredis
