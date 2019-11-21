@@ -1007,8 +1007,12 @@ www/newsboat
 www/nginx
 www/node
 www/node10
+www/node12
+www/node8
 www/npm
 www/npm-node10
+www/npm-node12
+www/npm-node8
 www/py-boto3
 www/py-bottle
 www/py-crossplane
@@ -1036,6 +1040,7 @@ www/wuzz
 www/yarn
 www/yarn-node10
 www/yarn-node12
+www/yarn-node8
 www/yaws
 www/youtube_dl
 www/zola
