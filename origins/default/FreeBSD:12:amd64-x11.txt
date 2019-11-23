@@ -727,6 +727,7 @@ security/aespipe
 security/autossh
 security/bcwipe
 security/binwalk
+security/bsmtrace
 security/ca_root_nss
 security/clamav
 security/dehydrated
