@@ -887,6 +887,7 @@ sysutils/fusefs-ext4fuse
 sysutils/fusefs-libs
 sysutils/fusefs-ntfs
 sysutils/fusefs-s3fs
+sysutils/fusefs-smbnetfs
 sysutils/fusefs-sshfs
 sysutils/gaffitter
 sysutils/gconf-editor
