@@ -1129,6 +1129,7 @@ www/gohugo
 www/googlebook_dl
 www/gotty
 www/grafana5
+www/guacamole-client
 www/lighttpd
 www/links
 www/lynx
