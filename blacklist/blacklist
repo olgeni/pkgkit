@@ -1,5 +1,7 @@
 audio/esound
 databases/evolution-data-server
+databases/tarantool
+databases/usql
 devel/doxygen
 devel/fam
 devel/gamin
@@ -8,6 +10,7 @@ devel/libbonobo
 devel/llvm33
 devel/llvm34
 devel/llvm35
+devel/llvm36
 graphics/jpeg
 graphics/libgnomecanvas
 lang/clang33
@@ -17,7 +20,10 @@ lang/clang36
 lang/gcc46
 lang/gcc47
 lang/gcc49
+lang/perl5-devel
 lang/perl5.26
+lang/perl5.28
+lang/perl5.30
 lang/python32
 lang/python33
 lang/python34
@@ -30,6 +36,7 @@ lang/ruby23
 lang/ruby24
 lang/ruby25
 lang/tcl87
+multimedia/asdcplib
 net/gtk-vnc
 net/libgweather
 net/samba44
@@ -44,6 +51,8 @@ print/texlive-base
 print/texlive-texmf
 security/cyrus-sasl2
 security/openssl
+sysutils/pefs-kmod
+sysutils/py-mitogen
 textproc/openjade
 www/apache22
 x11-toolkits/libbonoboui
@@ -52,3 +61,5 @@ x11/gnome-desktop
 x11/gnome-menus
 x11/gnome-panel
 x11/libgnome
+x11/terminology
+x11/xrestop
