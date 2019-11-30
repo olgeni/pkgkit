@@ -988,6 +988,7 @@ www/elinks
 www/fabio
 www/gitea
 www/go-www
+www/gobuffalo
 www/gohugo
 www/googlebook_dl
 www/gotty

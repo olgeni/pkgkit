@@ -1117,6 +1117,7 @@ www/ffsend
 www/firefox
 www/gitea
 www/go-www
+www/gobuffalo
 www/gohugo
 www/googlebook_dl
 www/gotty
