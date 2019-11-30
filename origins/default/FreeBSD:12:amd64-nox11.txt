@@ -503,6 +503,7 @@ net-mgmt/arpscan
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
 net-mgmt/collectd5
+net-mgmt/crmsh
 net-mgmt/grepcidr
 net-mgmt/iftop
 net-mgmt/ipcalc
