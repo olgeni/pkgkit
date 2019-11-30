@@ -531,6 +531,7 @@ net/gnatsd
 net/gnetcat
 net/go-cs
 net/google-cloud-sdk
+net/grpcurl
 net/haproxy
 net/hexinject
 net/hping
