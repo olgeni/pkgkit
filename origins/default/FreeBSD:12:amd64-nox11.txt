@@ -205,6 +205,9 @@ devel/py-isodate
 devel/py-Jinja2
 devel/py-jupyter_client
 devel/py-jupyter_console
+devel/py-jupyterlab
+devel/py-jupyterlab_launcher
+devel/py-jupyterlab_server
 devel/py-kjbuckets
 devel/py-kqueue
 devel/py-libzfs
