@@ -774,7 +774,7 @@ sysutils/fpart
 sysutils/frand
 sysutils/freeipmi
 sysutils/fusefs-exfat
-sysutils/fusefs-ext4fuse
+sysutils/fusefs-ext2
 sysutils/fusefs-libs
 sysutils/fusefs-ntfs
 sysutils/fusefs-s3fs
