@@ -1146,6 +1146,7 @@ www/gohugo
 www/googlebook_dl
 www/gotty
 www/grafana5
+www/grafana6
 www/guacamole-client
 www/lighttpd
 www/links

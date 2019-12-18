@@ -1014,6 +1014,7 @@ www/gohugo
 www/googlebook_dl
 www/gotty
 www/grafana5
+www/grafana6
 www/lighttpd
 www/links
 www/lynx
