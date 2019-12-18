@@ -919,6 +919,7 @@ sysutils/usbtop
 sysutils/usermin
 sysutils/vagrant
 sysutils/vcp
+sysutils/vector
 sysutils/vm-bhyve
 sysutils/vmtouch
 sysutils/vzvol
