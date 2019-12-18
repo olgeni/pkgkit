@@ -583,7 +583,7 @@ net/redir
 net/relayd
 net/rinetd
 net/rsync
-net/samba48
+net/samba410
 net/sendemail
 net/shelldap
 net/slurm
