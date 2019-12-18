@@ -265,7 +265,7 @@ devel/yajl-tcl
 devel/yasm
 dns/adns
 dns/bind-tools
-dns/bind911
+dns/bind914
 dns/coredns
 dns/dnsmasq
 dns/dnstop
