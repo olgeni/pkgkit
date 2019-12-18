@@ -459,6 +459,7 @@ lang/sbcl
 lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
+lang/v
 lang/zig
 mail/alpine
 mail/archmbox
