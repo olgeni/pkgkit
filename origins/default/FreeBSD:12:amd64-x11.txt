@@ -411,6 +411,7 @@ lang/abcl
 lang/alchemist.el
 lang/chaiscript
 lang/chez-scheme
+lang/cling
 lang/clojure
 lang/crystal
 lang/cython
