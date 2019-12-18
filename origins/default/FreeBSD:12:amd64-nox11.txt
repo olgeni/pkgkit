@@ -920,6 +920,7 @@ sysutils/usermin
 sysutils/vagrant
 sysutils/vcp
 sysutils/vector
+sysutils/virt-what
 sysutils/vm-bhyve
 sysutils/vmtouch
 sysutils/vzvol
