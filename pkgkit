@@ -10,6 +10,8 @@ CURDIR=$(dirname $0)
 
 : ${BSDKIT_REMOTE:=""}
 
+: ${POUDRIERE_VERBOSE:=""}
+
 DEFAULT_JOBS=$(sysctl -n kern.smp.cpus)
 
 package_blacklist()
@@ -23,12 +25,12 @@ package_build()
         sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
     fi
 
-    sudo poudriere bulk -J ${JOBS} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+    sudo poudriere bulk ${POUDRIERE_VERBOSE} -J ${JOBS} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
 }
 
 package_clean()
 {
-    sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+    sudo poudriere pkgclean -y ${POUDRIERE_VERBOSE} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
 }
 
 package_repo()
@@ -113,7 +115,7 @@ package_remote_pull()
          ${PACKAGE_LOCAL_TARGET}/
 }
 
-args=`getopt xbcesSrRCJ: $*`
+args=`getopt xbcesSrRCvJ: $*`
 
 set -- $args
 
@@ -153,6 +155,10 @@ while true; do
             ;;
         -C)
             _disable_clean=YES
+            shift
+            ;;
+        -v)
+            POUDRIERE_VERBOSE="-vv"
             shift
             ;;
         -J)
