@@ -724,6 +724,7 @@ ports-mgmt/modules2tuple
 ports-mgmt/pkg
 ports-mgmt/pkg_rmleaves
 ports-mgmt/portfmt
+ports-mgmt/portgrep
 ports-mgmt/portlint
 ports-mgmt/portmaster
 ports-mgmt/porttree
