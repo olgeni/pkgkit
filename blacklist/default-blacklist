@@ -1,13 +1,19 @@
 databases/mysql56-client
 databases/mysql56-server
-databases/postgresql10-client
+databases/pglogical
+databases/postgresql-cstore_fdw
 databases/postgresql10-contrib
 databases/postgresql10-docs
 databases/postgresql10-pgtcl
 databases/postgresql10-plperl
 databases/postgresql10-plpython
 databases/postgresql10-pltcl
-databases/postgresql10-server
+databases/postgresql11-contrib
+databases/postgresql11-docs
+databases/postgresql11-pgtcl
+databases/postgresql11-plperl
+databases/postgresql11-plpython
+databases/postgresql11-pltcl
 databases/postgresql94-client
 databases/postgresql94-contrib
 databases/postgresql94-docs
@@ -32,3 +38,4 @@ databases/postgresql96-plperl
 databases/postgresql96-plpython
 databases/postgresql96-pltcl
 databases/postgresql96-server
+databases/timescaledb

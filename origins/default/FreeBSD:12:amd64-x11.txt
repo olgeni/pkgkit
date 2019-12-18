@@ -1,3 +1,6 @@
+# databases/pglogical
+# databases/postgresql-cstore_fdw
+# databases/timescaledb
 accessibility/redshift
 accessibility/sct
 archivers/gcpio
@@ -71,24 +74,24 @@ databases/pgbarman
 databases/pgbouncer
 databases/pgFormatter
 databases/pgloader
-databases/pglogical
 databases/pgmetrics
 databases/pgsanity
 databases/pgtop
 databases/pgtune
-databases/postgresql-cstore_fdw
 databases/postgresql-jdbc
 databases/postgresql-plproxy
 databases/postgresql-prefix
 databases/postgresql-repmgr
 databases/postgresql-rum
-databases/postgresql11-client
-databases/postgresql11-contrib
-databases/postgresql11-pgtcl
-databases/postgresql11-plperl
-databases/postgresql11-plpython
-databases/postgresql11-pltcl
+databases/postgresql10-server
 databases/postgresql11-server
+databases/postgresql12-client
+databases/postgresql12-contrib
+databases/postgresql12-pgtcl
+databases/postgresql12-plperl
+databases/postgresql12-plpython
+databases/postgresql12-pltcl
+databases/postgresql12-server
 databases/pspg
 databases/py-bsddb
 databases/py-gdbm
@@ -109,7 +112,6 @@ databases/sqlite3
 databases/tarantool
 databases/tcl-sqlite3
 databases/tdb
-databases/timescaledb
 databases/usql
 deskutils/dfshow
 deskutils/freemind
