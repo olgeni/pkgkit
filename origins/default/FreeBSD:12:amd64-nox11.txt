@@ -631,6 +631,7 @@ print/papersize-default-a4
 print/pdf-redact-tools
 print/pdflib
 print/py-stapler
+print/ttfautohint
 science/py-scipy
 security/acme.sh
 security/acmetool
