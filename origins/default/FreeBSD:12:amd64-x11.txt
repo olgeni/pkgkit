@@ -955,6 +955,7 @@ sysutils/ltrace
 sysutils/mapdir
 sysutils/megacli
 sysutils/memtester
+sysutils/minipot
 sysutils/mkfile
 sysutils/monit
 sysutils/moreutils
