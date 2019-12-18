@@ -382,6 +382,7 @@ lang/python
 lang/python-mode.el
 lang/python2
 lang/python3
+lang/python38
 lang/quickjs
 lang/racket-minimal
 lang/ruby26
