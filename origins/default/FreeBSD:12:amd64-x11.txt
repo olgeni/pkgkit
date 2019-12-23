@@ -947,6 +947,7 @@ sysutils/kubectl
 sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
+sysutils/libfvde
 sysutils/lnav
 sysutils/logstash6
 sysutils/lsblk

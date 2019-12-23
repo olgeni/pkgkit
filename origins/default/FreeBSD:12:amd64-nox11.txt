@@ -823,6 +823,7 @@ sysutils/kubectl
 sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
+sysutils/libfvde
 sysutils/lnav
 sysutils/lsblk
 sysutils/lscpu
