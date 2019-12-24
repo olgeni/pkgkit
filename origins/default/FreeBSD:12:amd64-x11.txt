@@ -323,6 +323,7 @@ editors/paredit-mode.el
 editors/pico-alpine
 editors/tweak
 editors/vim
+editors/vscode
 emulators/dosbox
 emulators/fuse
 emulators/fuse-roms
