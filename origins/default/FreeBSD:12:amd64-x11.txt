@@ -42,6 +42,7 @@ audio/soundtouch
 audio/sox
 audio/twolame
 audio/virtual_oss
+audio/wavpack
 benchmarks/flamegraph
 benchmarks/httperf
 benchmarks/iozone
