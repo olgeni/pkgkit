@@ -1,7 +1,6 @@
 audio/esound
 databases/evolution-data-server
 databases/tarantool
-databases/usql
 devel/doxygen
 devel/fam
 devel/gamin
