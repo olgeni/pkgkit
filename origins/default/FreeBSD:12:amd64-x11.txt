@@ -748,6 +748,7 @@ science/py-scipy
 security/acme.sh
 security/acmetool
 security/aespipe
+security/age
 security/autossh
 security/bcwipe
 security/binwalk
