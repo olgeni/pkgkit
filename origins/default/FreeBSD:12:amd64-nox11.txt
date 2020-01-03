@@ -345,6 +345,7 @@ graphics/py-seqdiag
 graphics/py-webcolors
 graphics/scr2png
 graphics/svgalib
+graphics/tesseract
 graphics/tiff
 graphics/webp
 lang/alchemist.el@nox

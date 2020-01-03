@@ -394,6 +394,7 @@ graphics/py-webcolors
 graphics/scr2png
 graphics/sdl_image
 graphics/svgalib
+graphics/tesseract
 graphics/tiff
 graphics/webp
 graphics/xaos
