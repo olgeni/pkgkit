@@ -1191,6 +1191,7 @@ www/tidy
 www/tinyproxy
 www/tusd
 www/uwsgi
+www/uwsgitop
 www/varnish4
 www/w3m
 www/websocat
