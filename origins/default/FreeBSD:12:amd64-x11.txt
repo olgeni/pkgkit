@@ -121,6 +121,7 @@ databases/usql
 deskutils/dfshow
 deskutils/freemind
 deskutils/gcal
+deskutils/gcalcli
 deskutils/noti
 deskutils/sysctlview
 deskutils/taskwarrior
