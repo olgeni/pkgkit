@@ -770,6 +770,7 @@ security/gnutls
 security/ipsec-tools
 security/keepassxc
 security/keybase
+security/lynis
 security/mcrypt
 security/md5deep
 security/minisign
