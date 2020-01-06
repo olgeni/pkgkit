@@ -696,6 +696,7 @@ security/py-mcrypt
 security/py-oauthlib
 security/py-pycrypto
 security/py-rsa
+security/py-ssh-audit
 security/racoon2
 security/scrypt
 security/signify
