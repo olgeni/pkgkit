@@ -545,7 +545,6 @@ net/czmq
 net/dhcping
 net/empty
 net/endlessh
-net/gnatsd
 net/gnetcat
 net/go-cs
 net/google-cloud-sdk
@@ -570,6 +569,7 @@ net/mosh
 net/mpd5
 net/mtr
 net/multicat
+net/nats-server
 net/nats-streaming-server
 net/nats-top
 net/ncp
