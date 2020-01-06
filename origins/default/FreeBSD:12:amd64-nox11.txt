@@ -54,6 +54,7 @@ converters/recode
 converters/unix2dos
 databases/couchdb2
 databases/gdbm
+databases/go-pgweb
 databases/hiredis
 databases/influxdb
 databases/libdbi
