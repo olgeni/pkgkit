@@ -1175,6 +1175,7 @@ www/nginx
 www/nginx-vts-exporter
 www/node
 www/node10
+www/novnc
 www/npm
 www/npm-node10
 www/phalcon4
