@@ -264,6 +264,7 @@ devel/py-tables
 devel/py-virtualenv
 devel/py-virtualenv-clone
 devel/py-virtualenvwrapper
+devel/py-websockify
 devel/py-xmltodict
 devel/py-yamllint
 devel/py-yattag
