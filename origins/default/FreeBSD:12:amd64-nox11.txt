@@ -250,6 +250,7 @@ devel/py-websockify
 devel/py-xmltodict
 devel/py-yamllint
 devel/py-yattag
+devel/pybugz
 devel/pylint
 devel/rclint
 devel/rebar
