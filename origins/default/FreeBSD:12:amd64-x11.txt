@@ -134,6 +134,7 @@ devel/android-tools-adb
 devel/android-tools-fastboot
 devel/apache-ant
 devel/arcanist
+devel/asmjit
 devel/astyle
 devel/autoconf
 devel/autoconf-wrapper
