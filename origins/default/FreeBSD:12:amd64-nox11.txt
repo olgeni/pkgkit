@@ -952,6 +952,7 @@ sysutils/znapzend
 sysutils/zrep
 sysutils/zrepl
 sysutils/zxfer
+textproc/aha
 textproc/align
 textproc/ansifilter
 textproc/asciidoc
