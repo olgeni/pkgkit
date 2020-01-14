@@ -739,7 +739,6 @@ sysutils/beats
 sysutils/bfs
 sysutils/bhyve-firmware
 sysutils/bsdcrashtar
-sysutils/cbsd
 sysutils/cciss_vol_status
 sysutils/ccze
 sysutils/cdargs
