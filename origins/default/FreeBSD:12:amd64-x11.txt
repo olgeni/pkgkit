@@ -534,6 +534,8 @@ misc/cloc
 misc/cpuid
 misc/cstream
 misc/delay
+misc/figlet
+misc/figlet-fonts
 misc/findutils
 misc/fortune-mod-freebsd-classic
 misc/free42
