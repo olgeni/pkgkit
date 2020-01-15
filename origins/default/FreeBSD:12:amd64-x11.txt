@@ -556,6 +556,7 @@ misc/py-pexpect
 misc/rpl
 misc/seq2
 misc/shc
+misc/tdfiglet
 misc/ttyrec
 misc/unclutter
 misc/vifm
