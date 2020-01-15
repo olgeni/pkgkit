@@ -1244,6 +1244,7 @@ x11-fonts/freefonts
 x11-fonts/hack-font
 x11-fonts/inconsolata-ttf
 x11-fonts/iosevka
+x11-fonts/jetbrains-mono
 x11-fonts/jmk-x11-fonts
 x11-fonts/lfpfonts-fix
 x11-fonts/lfpfonts-var
