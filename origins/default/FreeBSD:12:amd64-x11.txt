@@ -752,6 +752,7 @@ print/papersize-default-a4
 print/pdf-redact-tools
 print/pdf-tools
 print/pdflib
+print/py-fonttools3
 print/py-stapler
 print/ttfautohint
 science/py-scipy
