@@ -42,6 +42,7 @@ benchmarks/flamegraph
 benchmarks/httperf
 benchmarks/iozone
 benchmarks/iperf
+benchmarks/vegeta
 comms/kermit
 comms/lrzsz
 comms/mgetty+sendfax
