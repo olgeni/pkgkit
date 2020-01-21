@@ -1071,6 +1071,7 @@ www/py-lektor
 www/py-meld3
 www/py-requests
 www/py-starlette
+www/py-uvicorn
 www/squid
 www/tclhttpd
 www/tdom
