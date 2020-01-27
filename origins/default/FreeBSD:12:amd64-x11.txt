@@ -1,6 +1,7 @@
 # databases/pglogical
 # databases/postgresql-cstore_fdw
 # databases/timescaledb
+# editors/vscode
 accessibility/redshift
 accessibility/sct
 archivers/gcpio
@@ -333,7 +334,6 @@ editors/paredit-mode.el
 editors/pico-alpine
 editors/tweak
 editors/vim
-editors/vscode
 emulators/dosbox
 emulators/fuse
 emulators/fuse-roms
