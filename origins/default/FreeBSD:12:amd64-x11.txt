@@ -396,7 +396,6 @@ graphics/py-actdiag
 graphics/py-blockdiag
 graphics/py-blockdiagcontrib-cisco
 graphics/py-cairo
-graphics/py-gd
 graphics/py-nwdiag
 graphics/py-seqdiag
 graphics/py-webcolors
