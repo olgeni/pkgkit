@@ -436,7 +436,6 @@ mail/smtp-cli
 mail/spamassassin
 mail/spamd
 mail/ssmtp
-mail/svnmailer
 math/bitwise
 math/blas
 math/calc
