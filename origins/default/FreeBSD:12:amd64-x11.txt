@@ -1012,6 +1012,7 @@ sysutils/py-ranger
 sysutils/py-salt
 sysutils/py-supervisor
 sysutils/py-tmuxp
+sysutils/py-upt
 sysutils/pydf
 sysutils/rcm
 sysutils/rdate
