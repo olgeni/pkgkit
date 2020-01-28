@@ -1305,7 +1305,6 @@ x11-wm/cwm
 x11-wm/fvwm2
 x11-wm/obconf
 x11-wm/obconf-qt
-x11-wm/obmenu
 x11-wm/openbox
 x11-wm/twm
 x11-wm/vtwm
