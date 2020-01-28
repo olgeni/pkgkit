@@ -1,6 +1,7 @@
 # databases/pglogical
 # databases/postgresql-cstore_fdw
 # databases/timescaledb
+# lang/sbcl
 archivers/gcpio
 archivers/gtar
 archivers/lzip
@@ -399,7 +400,6 @@ lang/racket-minimal
 lang/ruby26
 lang/runawk
 lang/rust
-lang/sbcl
 lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86

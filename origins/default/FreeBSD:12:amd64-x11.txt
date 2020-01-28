@@ -2,6 +2,7 @@
 # databases/postgresql-cstore_fdw
 # databases/timescaledb
 # editors/vscode
+# lang/sbcl
 accessibility/redshift
 accessibility/sct
 archivers/gcpio
@@ -468,7 +469,6 @@ lang/racket
 lang/ruby26
 lang/runawk
 lang/rust
-lang/sbcl
 lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
