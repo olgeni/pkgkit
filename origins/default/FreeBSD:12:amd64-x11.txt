@@ -743,6 +743,7 @@ ports-mgmt/portlint
 ports-mgmt/portmaster
 ports-mgmt/porttree
 ports-mgmt/poudriere-devel
+ports-mgmt/py-pytoport
 print/enscript-a4
 print/freetype2
 print/ghostscript9-agpl-base
