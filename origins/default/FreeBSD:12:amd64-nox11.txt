@@ -888,6 +888,7 @@ sysutils/py-salt
 sysutils/py-supervisor
 sysutils/py-tmuxp
 sysutils/py-upt
+sysutils/py-upt-pypi
 sysutils/pydf
 sysutils/rcm
 sysutils/rdate
