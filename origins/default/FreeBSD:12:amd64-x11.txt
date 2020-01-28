@@ -361,7 +361,6 @@ games/powder-toy
 games/tty-solitaire
 games/xevil
 games/xscavenger
-graphics/electrix
 graphics/exif
 graphics/frei0r
 graphics/gd
