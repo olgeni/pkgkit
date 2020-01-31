@@ -731,6 +731,7 @@ shells/ksh93
 shells/lshell
 shells/mksh
 shells/oksh
+shells/starship
 shells/zsh
 shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting

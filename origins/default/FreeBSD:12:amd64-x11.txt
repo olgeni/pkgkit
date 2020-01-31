@@ -845,6 +845,7 @@ shells/ksh93
 shells/lshell
 shells/mksh
 shells/oksh
+shells/starship
 shells/viewglob
 shells/zsh
 shells/zsh-navigation-tools
