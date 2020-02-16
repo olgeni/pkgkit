@@ -326,6 +326,7 @@ ftp/lftp
 ftp/ncftp3
 ftp/netdumpd
 ftp/wget
+games/alienwave
 games/bsdgames
 games/tty-solitaire
 graphics/exif

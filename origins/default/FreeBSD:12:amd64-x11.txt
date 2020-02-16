@@ -357,6 +357,7 @@ ftp/lftp
 ftp/ncftp3
 ftp/netdumpd
 ftp/wget
+games/alienwave
 games/bsdgames
 games/bzflag
 games/oolite
