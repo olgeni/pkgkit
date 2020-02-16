@@ -175,6 +175,7 @@ devel/goswagger
 devel/gsoap
 devel/hexd
 devel/hs-cabal-install
+devel/hs-hpack
 devel/icu
 devel/include-what-you-use
 devel/interactive_rebase_tool
