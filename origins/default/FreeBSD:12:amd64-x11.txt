@@ -362,6 +362,7 @@ games/bastet
 games/bsdgames
 games/bzflag
 games/nInvaders
+games/nsnake
 games/oolite
 games/powder-toy
 games/tty-solitaire

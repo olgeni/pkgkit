@@ -330,6 +330,7 @@ games/alienwave
 games/bastet
 games/bsdgames
 games/nInvaders
+games/nsnake
 games/tty-solitaire
 graphics/exif
 graphics/frei0r
