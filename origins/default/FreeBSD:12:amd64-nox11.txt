@@ -329,6 +329,7 @@ ftp/wget
 games/alienwave
 games/bastet
 games/bsdgames
+games/nInvaders
 games/tty-solitaire
 graphics/exif
 graphics/frei0r

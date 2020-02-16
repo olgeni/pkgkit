@@ -361,6 +361,7 @@ games/alienwave
 games/bastet
 games/bsdgames
 games/bzflag
+games/nInvaders
 games/oolite
 games/powder-toy
 games/tty-solitaire
