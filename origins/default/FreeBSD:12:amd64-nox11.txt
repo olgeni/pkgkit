@@ -65,6 +65,7 @@ databases/iowow
 databases/libdbi
 databases/mariadb104-client
 databases/mariadb104-server
+databases/mongodb36
 databases/mongodb40
 databases/mysql57-client
 databases/mysql57-server
