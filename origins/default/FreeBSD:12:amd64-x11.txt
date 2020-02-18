@@ -609,7 +609,6 @@ multimedia/mplayer-skins
 multimedia/mpv
 multimedia/mxflib
 multimedia/qt-faststart
-multimedia/rox-videothumbnail
 multimedia/rtmpdump
 multimedia/schroedinger
 multimedia/smpeg
