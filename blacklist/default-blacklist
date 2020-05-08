@@ -38,4 +38,3 @@ databases/postgresql96-plperl
 databases/postgresql96-plpython
 databases/postgresql96-pltcl
 databases/postgresql96-server
-databases/timescaledb

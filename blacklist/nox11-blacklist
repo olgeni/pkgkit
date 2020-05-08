@@ -3,7 +3,6 @@ audio/gstreamer-plugins-mad
 audio/gstreamer-plugins-mp3
 devel/libnotify
 devel/m17n-lib
-graphics/ImageMagick
 graphics/freeglut
 graphics/gdk-pixbuf2
 graphics/gtk-update-icon-cache

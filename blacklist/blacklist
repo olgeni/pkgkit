@@ -42,6 +42,9 @@ net/samba44
 net/samba45
 net/samba46
 net/samba47
+net/samba48
+net/samba49
+net/samba411
 print/ghostscript9-base
 print/teTeX-texmf
 print/tex-formats
@@ -51,7 +54,6 @@ print/texlive-texmf
 security/cyrus-sasl2
 security/openssl
 sysutils/pefs-kmod
-sysutils/py-mitogen
 textproc/openjade
 www/apache22
 x11-toolkits/libbonoboui

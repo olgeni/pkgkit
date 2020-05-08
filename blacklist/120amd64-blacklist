@@ -1,3 +1,11 @@
+textproc/bat
 benchmarks/httperf
 mail/spamd
 net/rdesktop
+www/typo3-10
+net/slurm
+sysutils/cdls
+sysutils/goss
+sysutils/mkfile
+sysutils/ptools
+sysutils/tmate-slave
