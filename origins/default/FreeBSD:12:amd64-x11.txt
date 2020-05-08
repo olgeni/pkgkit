@@ -1,9 +1,16 @@
 # databases/foundationdb
+# databases/pgloader
 # databases/pglogical
 # databases/postgresql-cstore_fdw
-# databases/timescaledb
-# editors/vscode
+# devel/valgrind
+# editors/atom
 # lang/sbcl
+# multimedia/handbrake
+# net-im/telegram-desktop
+# net/cloudflared
+# print/pdf-tools
+# sysutils/daggy
+# x11/xcm
 accessibility/redshift
 accessibility/sct
 archivers/gcpio
@@ -72,7 +79,9 @@ databases/libdbi
 databases/mariadb104-client
 databases/mariadb104-server
 databases/mongodb36
+databases/mongodb36-tools
 databases/mongodb40
+databases/mongodb40-tools
 databases/mysql57-client
 databases/mysql57-server
 databases/p5-Bucardo
@@ -87,11 +96,11 @@ databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
 databases/pgFormatter
-databases/pgloader
 databases/pgmetrics
 databases/pgsanity
 databases/pgtop
 databases/pgtune
+databases/plpgsql_check
 databases/postgresql-jdbc
 databases/postgresql-plproxy
 databases/postgresql-prefix
@@ -126,6 +135,7 @@ databases/sqlite3
 databases/tarantool
 databases/tcl-sqlite3
 databases/tdb
+databases/timescaledb
 databases/usql
 deskutils/dfshow
 deskutils/freemind
@@ -137,6 +147,7 @@ deskutils/taskwarrior
 deskutils/terminal-image-viewer
 deskutils/timewarrior
 deskutils/treesheets
+deskutils/ultralist
 deskutils/xcalendar
 devel/android-tools-adb
 devel/android-tools-fastboot
@@ -171,15 +182,18 @@ devel/cvsps
 devel/dconf-editor
 devel/deheader
 devel/dep
+devel/desed
 devel/dev86
 devel/distel
 devel/ElectricFence
 devel/elm-format
+devel/emscripten
 devel/etcd34
 devel/fossil
 devel/gdb
 devel/gindent
 devel/git
+devel/git-bug
 devel/git-delta
 devel/git-extras
 devel/gitolite
@@ -212,7 +226,6 @@ devel/lua-stdlib
 devel/lua-stdlib-debug
 devel/lua-stdlib-normalize
 devel/m4
-devel/magit
 devel/maven
 devel/mercurial
 devel/nasm
@@ -288,6 +301,7 @@ devel/rebar3
 devel/relx
 devel/rlog
 devel/rlwrap
+devel/rubygem-irb
 devel/scons
 devel/shflags
 devel/shfmt
@@ -302,14 +316,14 @@ devel/tcltls
 devel/tig
 devel/tkcon
 devel/tmake
-devel/valgrind
+devel/uthash
 devel/xorg-macros
 devel/yajl-tcl
 devel/yasm
 devel/zookeeper
 dns/adns
 dns/bind-tools
-dns/bind914
+dns/bind916
 dns/coredns
 dns/dnsmasq
 dns/dnstop
@@ -337,10 +351,11 @@ editors/mle
 editors/nano
 editors/ne
 editors/o
-editors/paredit-mode.el
 editors/pico-alpine
 editors/tweak
 editors/vim
+editors/vscode
+editors/with-editor
 emulators/dosbox
 emulators/fuse
 emulators/fuse-roms
@@ -384,6 +399,7 @@ graphics/gphoto2
 graphics/hiptext
 graphics/icoutils
 graphics/ImageMagick6
+graphics/ImageMagick7
 graphics/inkscape
 graphics/jhead
 graphics/jp
@@ -412,8 +428,10 @@ graphics/py-webcolors
 graphics/scr2png
 graphics/sdl_image
 graphics/svgalib
+graphics/sxiv
 graphics/tesseract
 graphics/tiff
+graphics/ttyplot
 graphics/webp
 graphics/xaos
 graphics/xfig
@@ -426,10 +444,11 @@ java/java-zoneinfo
 java/javavmwrapper
 java/openjdk12
 java/openjdk13
+java/openjdk14
 java/openjdk8
 java/sqlitejdbc
 lang/abcl
-lang/alchemist.el
+lang/c
 lang/chaiscript
 lang/chez-scheme
 lang/cling
@@ -437,7 +456,6 @@ lang/clojure
 lang/crystal
 lang/cython
 lang/elixir
-lang/elixir-mode.el
 lang/elm
 lang/erlang
 lang/erlang-doc
@@ -468,7 +486,6 @@ lang/purescript
 lang/py-hy
 lang/py-mx-base
 lang/python
-lang/python-mode.el
 lang/python2
 lang/python3
 lang/python38
@@ -481,6 +498,7 @@ lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
 lang/v
+lang/v8
 lang/zig
 mail/alpine
 mail/archmbox
@@ -544,6 +562,7 @@ misc/cloc
 misc/cpuid
 misc/cstream
 misc/delay
+misc/dynomite
 misc/figlet
 misc/figlet-fonts
 misc/findutils
@@ -587,7 +606,6 @@ multimedia/gstreamer-plugins-good
 multimedia/gstreamer-plugins-theora
 multimedia/gstreamer-plugins-ugly
 multimedia/gstreamer-plugins-xvid
-multimedia/handbrake
 multimedia/libass
 multimedia/libdv
 multimedia/libdvdcss
@@ -608,6 +626,7 @@ multimedia/mplayer
 multimedia/mplayer-skins
 multimedia/mpv
 multimedia/mxflib
+multimedia/py-librtmp
 multimedia/qt-faststart
 multimedia/rtmpdump
 multimedia/schroedinger
@@ -619,13 +638,15 @@ multimedia/vlc
 multimedia/x264
 multimedia/xvid
 net-im/finch
+net-im/jicofo
+net-im/jitsi-videobridge
 net-im/matterhorn
 net-im/oysttyer
 net-im/pidgin
+net-im/prosody
 net-im/py-python-telegram-bot
 net-im/slack-term
 net-im/teamwords
-net-im/telegram-desktop
 net-mgmt/argus3
 net-mgmt/argus3-clients
 net-mgmt/arpscan
@@ -638,25 +659,30 @@ net-mgmt/iftop
 net-mgmt/ipcalc
 net-mgmt/iprange
 net-mgmt/libsmi
+net-mgmt/lldpd
 net-mgmt/net-snmp
 net-mgmt/netdata
+net-mgmt/netdata-go
 net-mgmt/prometheus2
 net-mgmt/riemann
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
 net-mgmt/telegraf
 net-mgmt/whatmask
+net/addrwatch
 net/arping
 net/bosh-bootloader
 net/bosh-cli
 net/cf
 net/cloud-init
-net/cloudflared
 net/courier-sox
 net/czmq
 net/dhcping
 net/empty
 net/endlessh
+net/eternalterminal
+net/evans
+net/findomain
 net/freerdp
 net/gnetcat
 net/go-cs
@@ -702,9 +728,10 @@ net/py-magic-wormhole
 net/py-maxminddb
 net/py-pyzmq
 net/py-s3cmd
-net/py-smart_open
+net/py-smart-open
 net/py-speedtest-cli
 net/py-urllib3
+net/py-wsdd
 net/rabbitmq
 net/rclone
 net/rdesktop
@@ -716,7 +743,6 @@ net/samba410
 net/sdl_net
 net/sendemail
 net/shelldap
-net/slurm
 net/socat
 net/sslh
 net/subnetcalc
@@ -726,11 +752,13 @@ net/termshark
 net/tigervnc-server
 net/tigervnc-viewer
 net/traefik
+net/traefik2
 net/trafshow
 net/tsocks
 net/ucarp
 net/uget
 net/usbredir
+net/usockets
 net/vnstat
 net/wireguard
 net/wireshark
@@ -760,7 +788,6 @@ print/gsfonts
 print/libpaper
 print/papersize-default-a4
 print/pdf-redact-tools
-print/pdf-tools
 print/pdflib
 print/py-fonttools3
 print/py-stapler
@@ -774,6 +801,7 @@ security/autossh
 security/bcwipe
 security/binwalk
 security/bsmtrace
+security/bsmtrace3
 security/ca_root_nss
 security/clamav
 security/dehydrated
@@ -835,6 +863,8 @@ security/ssh-vault
 security/sshpass
 security/ssss
 security/starttls
+security/step-certificates
+security/step-cli
 security/strongswan
 security/stunnel
 security/sudo
@@ -874,9 +904,9 @@ sysutils/bsdcrashtar
 sysutils/cciss_vol_status
 sysutils/ccze
 sysutils/cdargs
-sysutils/cdls
 sysutils/cdrkit
 sysutils/cdrtools
+sysutils/checkrestart
 sysutils/clone
 sysutils/conky
 sysutils/consul
@@ -907,7 +937,7 @@ sysutils/docker-machine
 sysutils/doctl
 sysutils/downtimed
 sysutils/dtpstree
-sysutils/DTraceToolkit
+sysutils/dtrace-toolkit
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
 sysutils/dwatch-gource
@@ -921,6 +951,7 @@ sysutils/envconsul
 sysutils/exa
 sysutils/exfat-utils
 sysutils/facter
+sysutils/fd
 sysutils/fileprune
 sysutils/firstboot-freebsd-update
 sysutils/firstboot-growfs
@@ -929,6 +960,7 @@ sysutils/flock
 sysutils/fpart
 sysutils/frand
 sysutils/freeipmi
+sysutils/fselect
 sysutils/fusefs-exfat
 sysutils/fusefs-ext2
 sysutils/fusefs-libs
@@ -942,7 +974,6 @@ sysutils/genisoimage
 sysutils/getssl
 sysutils/go-wtf
 sysutils/google-compute-engine-oslogin
-sysutils/goss
 sysutils/gotop
 sysutils/graylog
 sysutils/grub2-bhyve
@@ -983,7 +1014,6 @@ sysutils/mapdir
 sysutils/megacli
 sysutils/memtester
 sysutils/minipot
-sysutils/mkfile
 sysutils/monit
 sysutils/moreutils
 sysutils/most
@@ -998,13 +1028,13 @@ sysutils/ohmu
 sysutils/packer
 sysutils/parallel
 sysutils/pdumpfs
+sysutils/perp
 sysutils/pfstat
 sysutils/pftop
 sysutils/pies
 sysutils/pipemeter
 sysutils/pot
 sysutils/potnet
-sysutils/ptools
 sysutils/pv
 sysutils/pwgen
 sysutils/py-ansible-lint
@@ -1034,9 +1064,12 @@ sysutils/reptyr
 sysutils/rest-server
 sysutils/restic
 sysutils/rex
+sysutils/rsfetch
 sysutils/rsyslog8
 sysutils/rubygem-fluentd
 sysutils/runit
+sysutils/s6
+sysutils/s6-rc
 sysutils/samefile
 sysutils/sanoid
 sysutils/screen
@@ -1061,7 +1094,6 @@ sysutils/tai64nfrac
 sysutils/terraform
 sysutils/tlsdate
 sysutils/tmate
-sysutils/tmate-slave
 sysutils/tmux
 sysutils/topless
 sysutils/tree
@@ -1089,6 +1121,7 @@ sysutils/xosview
 sysutils/yadm
 sysutils/yank
 sysutils/zap
+sysutils/zetaback
 sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
 sysutils/zfstools
@@ -1104,7 +1137,9 @@ textproc/aspell
 textproc/augeas
 textproc/bar
 textproc/bat
+textproc/confget
 textproc/consul-template
+textproc/csvq
 textproc/datamash
 textproc/diff-so-fancy
 textproc/diffstat
@@ -1131,11 +1166,11 @@ textproc/it-hunspell
 textproc/jo
 textproc/jq
 textproc/jshon
+textproc/jtc
 textproc/libxml2
 textproc/libxslt
 textproc/libyaml
 textproc/markdown
-textproc/markdown-mode.el
 textproc/markdownfmt
 textproc/miller
 textproc/nuspell
@@ -1152,8 +1187,10 @@ textproc/py-xmldiff
 textproc/ripgrep
 textproc/rubygem-docdiff
 textproc/texi2html
+textproc/textql
 textproc/the_silver_searcher
 textproc/tinyxml
+textproc/uni
 textproc/xmlcatmgr
 textproc/xmlcharent
 textproc/xmlstarlet
@@ -1179,6 +1216,7 @@ www/gotty
 www/grafana5
 www/grafana6
 www/guacamole-client
+www/jitsi-meet
 www/lighttpd
 www/links
 www/lynx
@@ -1195,9 +1233,11 @@ www/nginx
 www/nginx-vts-exporter
 www/node
 www/node10
+www/node12
 www/novnc
 www/npm
 www/npm-node10
+www/npm-node12
 www/phalcon4
 www/pomerium
 www/py-boto3
@@ -1213,12 +1253,14 @@ www/py-meld3
 www/py-requests
 www/py-starlette
 www/py-uvicorn
+www/slowhttptest
 www/squid
 www/tclhttpd
 www/tdom
 www/tidy
 www/tinyproxy
 www/tusd
+www/typo3-10
 www/uwsgi
 www/uwsgitop
 www/varnish4
@@ -1256,7 +1298,9 @@ x11-fonts/exo
 x11-fonts/fantasque-sans-mono
 x11-fonts/fira
 x11-fonts/firacode
+x11-fonts/fontpreview
 x11-fonts/freefonts
+x11-fonts/gnu-unifont
 x11-fonts/hack-font
 x11-fonts/inconsolata-ttf
 x11-fonts/iosevka
@@ -1266,6 +1310,7 @@ x11-fonts/lfpfonts-fix
 x11-fonts/lfpfonts-var
 x11-fonts/liberation-fonts-ttf
 x11-fonts/linuxlibertine
+x11-fonts/manrope
 x11-fonts/material-icons-ttf
 x11-fonts/materialdesign-ttf
 x11-fonts/meslo
@@ -1286,6 +1331,7 @@ x11-fonts/sharefonts
 x11-fonts/sourcecodepro-ttf
 x11-fonts/sourcesanspro-ttf
 x11-fonts/spleen
+x11-fonts/steps-mono
 x11-fonts/terminus-font
 x11-fonts/terminus-ttf
 x11-fonts/ubuntu-font
@@ -1299,8 +1345,8 @@ x11-servers/xephyr
 x11-servers/xorg-vfbserver
 x11-themes/adwaita-icon-theme
 x11-themes/icon-naming-utils
+x11-themes/numix-icon-theme
 x11-themes/openbox-arc-theme
-x11-themes/openbox-themes
 x11-toolkits/bwidget
 x11-toolkits/gtk-sharp20
 x11-toolkits/gtk-sharp30
@@ -1314,6 +1360,8 @@ x11-toolkits/wxgtk28
 x11-toolkits/wxgtk28-common
 x11-toolkits/wxgtk28-contrib
 x11-toolkits/wxgtk28-contrib-common
+x11-wm/awesome
+x11-wm/awesome-vicious
 x11-wm/compton
 x11-wm/cwm
 x11-wm/fvwm2
@@ -1348,7 +1396,6 @@ x11/xascii
 x11/xautolock
 x11/xbanish
 x11/xclip
-x11/xcm
 x11/xcolorsel
 x11/xdm
 x11/xdotool
@@ -1361,7 +1408,6 @@ x11/xlockmore
 x11/xlogo
 x11/xman
 x11/xmotd
-x11/xmove
 x11/xnee
 x11/xorg
 x11/xpra
@@ -1372,5 +1418,4 @@ x11/xscreensaver
 x11/xsm
 x11/xsnow
 x11/xtermcontrol
-x11/xvattr
 x11/xvkbd
