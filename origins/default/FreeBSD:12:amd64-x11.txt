@@ -1212,6 +1212,7 @@ www/go-www
 www/gobuffalo
 www/gohugo
 www/googlebook_dl
+www/gophernicus
 www/gotty
 www/grafana5
 www/grafana6
