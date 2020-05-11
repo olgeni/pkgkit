@@ -4,7 +4,6 @@
 # databases/postgresql-cstore_fdw
 # devel/valgrind
 # lang/sbcl
-# multimedia/handbrake
 # net/cloudflared
 archivers/gcpio
 archivers/gtar
@@ -510,6 +509,7 @@ misc/window
 misc/ytree
 multimedia/dvbsnoop
 multimedia/ffmpeg
+multimedia/handbrake
 multimedia/libass
 multimedia/libdv
 multimedia/libdvdcss
