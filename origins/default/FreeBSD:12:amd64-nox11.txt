@@ -875,6 +875,7 @@ sysutils/libfvde
 sysutils/lnav
 sysutils/lsblk
 sysutils/lscpu
+sysutils/lsd
 sysutils/lsof
 sysutils/ltrace
 sysutils/mapdir
