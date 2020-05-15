@@ -1235,6 +1235,7 @@ www/moinmoincli
 www/newsboat
 www/nginx
 www/nginx-vts-exporter
+www/nift
 www/node
 www/node10
 www/node12
