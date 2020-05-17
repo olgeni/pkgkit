@@ -1049,6 +1049,7 @@ sysutils/py-psutil
 sysutils/py-python-consul
 sysutils/py-python-nomad
 sysutils/py-ranger
+sysutils/py-rdiff-backup
 sysutils/py-salt
 sysutils/py-supervisor
 sysutils/py-tmuxp
@@ -1058,7 +1059,6 @@ sysutils/py-upt-pypi
 sysutils/pydf
 sysutils/rcm
 sysutils/rdate
-sysutils/rdiff-backup
 sysutils/rename
 sysutils/renameutils
 sysutils/reptyr
