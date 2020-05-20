@@ -985,6 +985,7 @@ sysutils/x86info
 sysutils/xe
 sysutils/xfsprogs
 sysutils/xjobs
+sysutils/xpipe
 sysutils/yadm
 sysutils/zap
 sysutils/zetaback
