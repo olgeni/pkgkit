@@ -987,6 +987,7 @@ sysutils/hextools
 sysutils/hexyl
 sysutils/hfsutils
 sysutils/host-setup
+sysutils/hostctl
 sysutils/htop
 sysutils/immortal
 sysutils/inotify-tools
