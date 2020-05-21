@@ -1159,6 +1159,7 @@ textproc/flex
 textproc/fop
 textproc/fzf
 textproc/fzy
+textproc/git-chglog
 textproc/gnugrep
 textproc/gsed
 textproc/hs-pandoc
