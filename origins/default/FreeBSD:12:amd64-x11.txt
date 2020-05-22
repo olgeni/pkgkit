@@ -100,6 +100,7 @@ databases/pgsanity
 databases/pgtop
 databases/pgtune
 databases/plpgsql_check
+databases/postgis30
 databases/postgresql-jdbc
 databases/postgresql-plproxy
 databases/postgresql-prefix
