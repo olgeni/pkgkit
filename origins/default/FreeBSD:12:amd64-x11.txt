@@ -1186,6 +1186,7 @@ textproc/pup
 textproc/py-asciinema
 textproc/py-autopep8
 textproc/py-chardet
+textproc/py-jc
 textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-python-augeas
