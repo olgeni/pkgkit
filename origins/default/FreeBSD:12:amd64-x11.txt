@@ -997,6 +997,7 @@ sysutils/iocage
 sysutils/iocell
 sysutils/iohyve
 sysutils/ioping
+sysutils/ipget
 sysutils/ipmitool
 sysutils/istio
 sysutils/jps
