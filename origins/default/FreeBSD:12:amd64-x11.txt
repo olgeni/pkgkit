@@ -411,6 +411,7 @@ graphics/libsixel
 graphics/mesa-demos
 graphics/mupdf
 graphics/netpbm
+graphics/nomacs
 graphics/opencv-core
 graphics/openjpeg
 graphics/pixd
