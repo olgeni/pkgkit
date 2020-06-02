@@ -1085,6 +1085,7 @@ www/gophernicus
 www/gotty
 www/grafana5
 www/grafana6
+www/hs-postgrest
 www/jitsi-meet
 www/lighttpd
 www/links

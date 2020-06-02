@@ -1228,6 +1228,7 @@ www/gotty
 www/grafana5
 www/grafana6
 www/guacamole-client
+www/hs-postgrest
 www/jitsi-meet
 www/lighttpd
 www/links
