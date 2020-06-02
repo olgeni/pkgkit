@@ -1,14 +1,7 @@
 # databases/foundationdb
-# databases/pgloader
-# databases/pglogical
-# databases/postgresql-cstore_fdw
 # devel/valgrind
 # editors/atom
 # lang/sbcl
-# net-im/telegram-desktop
-# net/cloudflared
-# print/pdf-tools
-# sysutils/daggy
 # x11/xcm
 accessibility/redshift
 accessibility/sct
@@ -95,12 +88,15 @@ databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
 databases/pgFormatter
+databases/pgloader
+databases/pglogical
 databases/pgmetrics
 databases/pgsanity
 databases/pgtop
 databases/pgtune
 databases/plpgsql_check
 databases/postgis30
+databases/postgresql-cstore_fdw
 databases/postgresql-jdbc
 databases/postgresql-plproxy
 databases/postgresql-prefix
@@ -649,6 +645,7 @@ net-im/prosody
 net-im/py-python-telegram-bot
 net-im/slack-term
 net-im/teamwords
+net-im/telegram-desktop
 net-mgmt/argus3
 net-mgmt/argus3-clients
 net-mgmt/arpscan
@@ -677,6 +674,7 @@ net/bosh-bootloader
 net/bosh-cli
 net/cf
 net/cloud-init
+net/cloudflared
 net/courier-sox
 net/czmq
 net/dhcping
@@ -790,6 +788,7 @@ print/gsfonts
 print/libpaper
 print/papersize-default-a4
 print/pdf-redact-tools
+print/pdf-tools
 print/pdflib
 print/py-fonttools3
 print/py-stapler
@@ -922,6 +921,7 @@ sysutils/cpupdate
 sysutils/cronolog
 sysutils/daemonize
 sysutils/daemontools-encore
+sysutils/daggy
 sysutils/dar
 sysutils/dcfldd
 sysutils/ddrescue

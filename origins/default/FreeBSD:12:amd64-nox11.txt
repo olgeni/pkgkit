@@ -1,10 +1,6 @@
 # databases/foundationdb
-# databases/pgloader
-# databases/pglogical
-# databases/postgresql-cstore_fdw
 # devel/valgrind
 # lang/sbcl
-# net/cloudflared
 archivers/gcpio
 archivers/gtar
 archivers/lzip
@@ -84,12 +80,15 @@ databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
 databases/pgFormatter
+databases/pgloader
+databases/pglogical
 databases/pgmetrics
 databases/pgsanity
 databases/pgtop
 databases/pgtune
 databases/plpgsql_check
 databases/postgis30
+databases/postgresql-cstore_fdw
 databases/postgresql-plproxy
 databases/postgresql-prefix
 databases/postgresql-repmgr
@@ -571,6 +570,7 @@ net/bosh-bootloader
 net/bosh-cli
 net/cf
 net/cloud-init
+net/cloudflared
 net/courier-sox
 net/czmq
 net/dhcping
