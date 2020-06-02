@@ -880,6 +880,7 @@ sysutils/lsblk
 sysutils/lscpu
 sysutils/lsd
 sysutils/lsof
+sysutils/lsop
 sysutils/ltrace
 sysutils/mapdir
 sysutils/megacli
