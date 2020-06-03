@@ -75,6 +75,7 @@ databases/percona57-client
 databases/percona57-server
 databases/pg_activity
 databases/pg_citus
+databases/pg_ed25519
 databases/pg_repack
 databases/pgbadger
 databases/pgbarman
