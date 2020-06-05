@@ -626,6 +626,7 @@ multimedia/mplayer
 multimedia/mplayer-skins
 multimedia/mpv
 multimedia/mxflib
+multimedia/playerctl
 multimedia/py-librtmp
 multimedia/qt-faststart
 multimedia/rtmpdump
