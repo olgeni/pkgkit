@@ -274,6 +274,7 @@ devel/py-pipx
 devel/py-protobuf
 devel/py-py_interface
 devel/py-pyasn1
+devel/py-pyinstaller
 devel/py-pyjq
 devel/py-pytz
 devel/py-qtconsole
