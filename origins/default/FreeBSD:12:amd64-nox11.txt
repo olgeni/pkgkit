@@ -545,6 +545,7 @@ multimedia/xvid
 net-im/matterhorn
 net-im/oysttyer
 net-im/prosody
+net-im/prosody-modules
 net-im/py-python-telegram-bot
 net-im/slack-term
 net-mgmt/argus3
