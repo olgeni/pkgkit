@@ -1123,6 +1123,7 @@ sysutils/vm-bhyve
 sysutils/vmtouch
 sysutils/vzvol
 sysutils/wait_on
+sysutils/watchman
 sysutils/webmin
 sysutils/x86info
 sysutils/xe
