@@ -160,7 +160,6 @@ devel/cmake
 devel/critcl
 devel/cscope
 devel/ctags
-devel/cvs2svn
 devel/cvsps
 devel/deheader
 devel/dep
