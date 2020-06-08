@@ -777,7 +777,7 @@ sysutils/atop
 sysutils/azure-agent
 sysutils/bastille
 sysutils/beadm
-sysutils/beats
+sysutils/beats7
 sysutils/bfs
 sysutils/bhyve-firmware
 sysutils/bsdcrashtar
