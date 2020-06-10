@@ -850,6 +850,7 @@ sysutils/gaffitter
 sysutils/genisoimage
 sysutils/getssl
 sysutils/go-wtf
+sysutils/goaccess
 sysutils/google-compute-engine-oslogin
 sysutils/gotop
 sysutils/grub2-bhyve

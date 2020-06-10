@@ -979,6 +979,7 @@ sysutils/gconf-editor
 sysutils/genisoimage
 sysutils/getssl
 sysutils/go-wtf
+sysutils/goaccess
 sysutils/google-compute-engine-oslogin
 sysutils/gotop
 sysutils/graylog
