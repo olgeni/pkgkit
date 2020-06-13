@@ -895,6 +895,7 @@ shells/viewglob
 shells/zsh
 shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
+sysutils/acltool
 sysutils/android-file-transfer
 sysutils/ansible
 sysutils/ansible-sysrc
