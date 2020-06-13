@@ -1,4 +1,3 @@
-# databases/foundationdb
 # devel/valgrind
 # lang/sbcl
 archivers/gcpio
@@ -55,6 +54,7 @@ converters/p5-JSON-PP
 converters/recode
 converters/unix2dos
 databases/couchdb2
+databases/foundationdb
 databases/gdbm
 databases/go-pgweb
 databases/hiredis
