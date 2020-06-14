@@ -1018,6 +1018,7 @@ sysutils/libchk
 sysutils/libfvde
 sysutils/lnav
 sysutils/logstash6
+sysutils/logstash7
 sysutils/lsblk
 sysutils/lscpu
 sysutils/lsd
