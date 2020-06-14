@@ -1048,6 +1048,7 @@ sysutils/pfstat
 sysutils/pftop
 sysutils/pies
 sysutils/pipemeter
+sysutils/pnscan
 sysutils/pot
 sysutils/potnet
 sysutils/pv
