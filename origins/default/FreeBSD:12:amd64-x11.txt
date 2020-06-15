@@ -1373,6 +1373,7 @@ x11-servers/xephyr
 x11-servers/xorg-vfbserver
 x11-themes/adwaita-icon-theme
 x11-themes/icon-naming-utils
+x11-themes/numix-gtk-theme
 x11-themes/numix-icon-theme
 x11-themes/openbox-arc-theme
 x11-toolkits/bwidget
