@@ -1206,6 +1206,7 @@ textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-python-augeas
 textproc/py-xmldiff
+textproc/qr
 textproc/redisearch
 textproc/ripgrep
 textproc/rubygem-docdiff
