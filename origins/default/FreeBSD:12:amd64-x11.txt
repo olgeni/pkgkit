@@ -1054,6 +1054,7 @@ sysutils/pot
 sysutils/potnet
 sysutils/pv
 sysutils/pwgen
+sysutils/pwol
 sysutils/py-ansible-lint
 sysutils/py-azure-cli
 sysutils/py-diffoscope
