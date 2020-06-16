@@ -341,6 +341,7 @@ ftp/ncftp3
 ftp/netdumpd
 ftp/wget
 games/alienwave
+games/ascii-invaders
 games/asciiquarium
 games/bastet
 games/bsdgames
