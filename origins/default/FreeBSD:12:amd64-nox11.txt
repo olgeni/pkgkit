@@ -843,6 +843,7 @@ sysutils/fpart
 sysutils/frand
 sysutils/freeipmi
 sysutils/fselect
+sysutils/fusefs-bindfs
 sysutils/fusefs-exfat
 sysutils/fusefs-ext2
 sysutils/fusefs-libs
