@@ -376,6 +376,7 @@ ftp/ncftp3
 ftp/netdumpd
 ftp/wget
 games/alienwave
+games/asciiquarium
 games/bastet
 games/bsdgames
 games/bzflag
