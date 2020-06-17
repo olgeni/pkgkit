@@ -381,6 +381,7 @@ games/asciiquarium
 games/bastet
 games/bsdgames
 games/bzflag
+games/cdogs-sdl
 games/nInvaders
 games/nsnake
 games/oolite
