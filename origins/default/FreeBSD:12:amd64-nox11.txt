@@ -287,7 +287,7 @@ devel/shflags
 devel/shfmt
 devel/stack
 devel/subversion
-devel/swig30
+devel/swig
 devel/tcllib
 devel/tcllibc
 devel/tclreadline
