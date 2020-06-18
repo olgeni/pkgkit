@@ -1,6 +1,7 @@
 # devel/valgrind
 # editors/atom
 # lang/sbcl
+# sysutils/daggy
 # x11/xcm
 accessibility/redshift
 accessibility/sct
@@ -932,7 +933,6 @@ sysutils/cpupdate
 sysutils/cronolog
 sysutils/daemonize
 sysutils/daemontools-encore
-sysutils/daggy
 sysutils/dar
 sysutils/dcfldd
 sysutils/ddrescue
