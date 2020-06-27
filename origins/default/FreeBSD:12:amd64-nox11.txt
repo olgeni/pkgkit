@@ -46,7 +46,7 @@ benchmarks/vegeta
 comms/kermit
 comms/lrzsz
 comms/mgetty+sendfax
-comms/py-serial
+comms/py-pyserial
 comms/tio
 converters/base64
 converters/mpack
