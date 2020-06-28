@@ -1062,6 +1062,7 @@ sysutils/pwgen
 sysutils/pwol
 sysutils/py-ansible-lint
 sysutils/py-azure-cli
+sysutils/py-bitrot
 sysutils/py-diffoscope
 sysutils/py-dirsync
 sysutils/py-glances
