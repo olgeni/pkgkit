@@ -823,6 +823,7 @@ sysutils/doctl
 sysutils/downtimed
 sysutils/dtpstree
 sysutils/dtrace-toolkit
+sysutils/dua-cli
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
 sysutils/dwatch-gource
