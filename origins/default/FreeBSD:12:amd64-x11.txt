@@ -921,6 +921,7 @@ sysutils/cdrkit
 sysutils/cdrtools
 sysutils/checkrestart
 sysutils/clone
+sysutils/conan
 sysutils/conky
 sysutils/consul
 sysutils/consul-alerts

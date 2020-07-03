@@ -794,6 +794,7 @@ sysutils/cdrkit
 sysutils/cdrtools
 sysutils/checkrestart
 sysutils/clone
+sysutils/conan
 sysutils/consul
 sysutils/consul-alerts
 sysutils/consul-replicate
