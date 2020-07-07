@@ -388,6 +388,7 @@ lang/chaiscript
 lang/cling
 lang/crystal
 lang/cython
+lang/ecl
 lang/elixir
 lang/elm
 lang/erlang

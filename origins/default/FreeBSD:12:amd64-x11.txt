@@ -461,6 +461,7 @@ lang/cling
 lang/clojure
 lang/crystal
 lang/cython
+lang/ecl
 lang/elixir
 lang/elm
 lang/erlang
