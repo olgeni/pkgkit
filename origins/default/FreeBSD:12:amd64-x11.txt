@@ -120,6 +120,7 @@ databases/pspg
 databases/py-bsddb
 databases/py-gdbm
 databases/py-hiredis
+databases/py-litecli
 databases/py-pgcli
 databases/py-psycopg2
 databases/py-PyGreSQL
