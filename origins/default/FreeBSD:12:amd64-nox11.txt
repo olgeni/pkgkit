@@ -999,6 +999,7 @@ sysutils/usermin
 sysutils/vagrant
 sysutils/vcp
 sysutils/vector
+sysutils/vimpager
 sysutils/virt-what
 sysutils/vm-bhyve
 sysutils/vmtouch
