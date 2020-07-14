@@ -936,6 +936,7 @@ sysutils/py-dirsync
 sysutils/py-focker
 sysutils/py-glances
 sysutils/py-google-compute-engine
+sysutils/py-jailconf
 sysutils/py-mitogen
 sysutils/py-psutil
 sysutils/py-python-consul
