@@ -933,6 +933,7 @@ sysutils/py-azure-cli
 sysutils/py-bitrot
 sysutils/py-diffoscope
 sysutils/py-dirsync
+sysutils/py-focker
 sysutils/py-glances
 sysutils/py-google-compute-engine
 sysutils/py-mitogen
