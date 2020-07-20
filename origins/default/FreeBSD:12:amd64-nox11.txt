@@ -299,6 +299,7 @@ devel/tmake
 devel/uthash
 devel/yajl-tcl
 devel/yasm
+devel/zydis
 dns/adns
 dns/bind-tools
 dns/bind916

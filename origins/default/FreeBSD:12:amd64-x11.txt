@@ -324,6 +324,7 @@ devel/xorg-macros
 devel/yajl-tcl
 devel/yasm
 devel/zookeeper
+devel/zydis
 dns/adns
 dns/bind-tools
 dns/bind916
