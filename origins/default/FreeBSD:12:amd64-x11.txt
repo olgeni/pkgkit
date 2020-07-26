@@ -1324,7 +1324,6 @@ x11-clocks/xclock
 x11-fm/rox-filer
 x11-fm/thunar
 x11-fm/wcmcommander
-x11-fm/xfe
 x11-fonts/3270font
 x11-fonts/anonymous-pro
 x11-fonts/bitstream-vera
