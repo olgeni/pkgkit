@@ -951,6 +951,7 @@ sysutils/py-upt
 sysutils/py-upt-freebsd
 sysutils/py-upt-pypi
 sysutils/pydf
+sysutils/quickjail
 sysutils/rcm
 sysutils/rdate
 sysutils/rename
