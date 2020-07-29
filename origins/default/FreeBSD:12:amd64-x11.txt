@@ -1220,6 +1220,7 @@ textproc/py-chardet
 textproc/py-jc
 textproc/py-libxml2
 textproc/py-markdown2
+textproc/py-ocrmypdf
 textproc/py-python-augeas
 textproc/py-xmldiff
 textproc/qr
