@@ -970,6 +970,7 @@ sysutils/exa
 sysutils/exfat-utils
 sysutils/facter
 sysutils/fd
+sysutils/fdupes
 sysutils/fileprune
 sysutils/firstboot-freebsd-update
 sysutils/firstboot-growfs
