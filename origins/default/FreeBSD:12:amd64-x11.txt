@@ -1356,6 +1356,7 @@ x11-fonts/jmk-x11-fonts
 x11-fonts/lfpfonts-fix
 x11-fonts/lfpfonts-var
 x11-fonts/liberation-fonts-ttf
+x11-fonts/libertinus
 x11-fonts/linuxlibertine
 x11-fonts/manrope
 x11-fonts/material-icons-ttf
