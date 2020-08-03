@@ -761,6 +761,7 @@ security/step-cli
 security/strongswan
 security/stunnel
 security/sudo
+security/teleport
 security/tinc
 security/vault
 security/vlock
