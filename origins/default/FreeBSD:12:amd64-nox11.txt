@@ -650,6 +650,7 @@ net/socat
 net/sslh
 net/subnetcalc
 net/tcludp
+net/tcplog_dumper
 net/tcpshow
 net/termshark
 net/traefik
