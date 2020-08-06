@@ -411,7 +411,7 @@ lang/jimtcl
 lang/mono
 lang/nim
 lang/nx
-lang/perl5.30
+lang/perl5.32
 lang/php73
 lang/php73-extensions
 lang/purescript

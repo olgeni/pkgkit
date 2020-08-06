@@ -22,6 +22,7 @@ lang/gcc49
 lang/perl5-devel
 lang/perl5.26
 lang/perl5.28
+lang/perl5.30
 lang/python32
 lang/python33
 lang/python34
