@@ -914,6 +914,7 @@ sysutils/aptly
 sysutils/atop
 sysutils/azure-agent
 sysutils/barrier
+sysutils/bashtop
 sysutils/bastille
 sysutils/beadm
 sysutils/beats7
