@@ -408,6 +408,7 @@ lang/itcl
 lang/itcl4
 lang/janet
 lang/jimtcl
+lang/lfe
 lang/mono
 lang/nim
 lang/nx
