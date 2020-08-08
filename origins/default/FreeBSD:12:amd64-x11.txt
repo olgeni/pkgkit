@@ -921,6 +921,7 @@ sysutils/beadm
 sysutils/beats7
 sysutils/bfs
 sysutils/bhyve-firmware
+sysutils/bpytop
 sysutils/bsdcrashtar
 sysutils/cciss_vol_status
 sysutils/ccze
