@@ -180,7 +180,7 @@ done
 : ${_local_pull:=""}
 : ${_remote_push:=""}
 : ${_remote_pull:=""}
-: ${_disable_clean:=""}
+: ${_disable_clean:="YES"}
 : ${JOBS:=${DEFAULT_JOBS}}
 
 for _config in "$@"; do
