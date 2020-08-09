@@ -1320,6 +1320,7 @@ www/uwsgi
 www/uwsgitop
 www/varnish4
 www/w3m
+www/webkit2-gtk3
 www/websocat
 www/websocketd
 www/wuzz
