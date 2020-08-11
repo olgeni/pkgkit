@@ -1239,6 +1239,7 @@ textproc/texi2html
 textproc/textql
 textproc/the_silver_searcher
 textproc/tinyxml
+textproc/ugrep
 textproc/uni
 textproc/xmlcatmgr
 textproc/xmlcharent
