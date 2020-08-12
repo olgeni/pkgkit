@@ -368,7 +368,7 @@ emulators/fuse-utils
 emulators/libspectrum
 emulators/linux-c7
 emulators/open-vm-tools
-emulators/qemu-devel
+emulators/qemu50
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
