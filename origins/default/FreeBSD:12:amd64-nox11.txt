@@ -591,6 +591,7 @@ net/cloudflared
 net/courier-sox
 net/czmq
 net/dhcping
+net/dpinger
 net/empty
 net/endlessh
 net/eternalterminal
