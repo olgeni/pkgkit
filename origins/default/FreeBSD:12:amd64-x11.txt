@@ -1099,6 +1099,7 @@ sysutils/py-tmuxp
 sysutils/py-upt
 sysutils/py-upt-freebsd
 sysutils/py-upt-pypi
+sysutils/py-zfs-autobackup
 sysutils/pydf
 sysutils/quickjail
 sysutils/rcm
