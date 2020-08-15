@@ -142,6 +142,7 @@ databases/tile38
 databases/timescaledb
 databases/usql
 deskutils/dfshow
+deskutils/flameshot
 deskutils/freemind
 deskutils/gcal
 deskutils/gcalcli
