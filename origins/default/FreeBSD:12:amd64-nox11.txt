@@ -416,7 +416,6 @@ lang/php73
 lang/php73-extensions
 lang/purescript
 lang/py-hy
-lang/py-mx-base
 lang/python
 lang/python2
 lang/python3
