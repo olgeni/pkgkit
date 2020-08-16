@@ -239,7 +239,6 @@ devel/py-jupyter_console
 devel/py-jupyterlab
 devel/py-jupyterlab_launcher
 devel/py-jupyterlab-server
-devel/py-kjbuckets
 devel/py-libzfs
 devel/py-logilab-common
 devel/py-lxml
