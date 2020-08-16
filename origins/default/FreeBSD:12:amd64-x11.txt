@@ -1277,6 +1277,7 @@ www/grafana5
 www/grafana6
 www/grafana7
 www/guacamole-client
+www/gwsocket
 www/hs-postgrest
 www/jitsi-meet
 www/lighttpd
