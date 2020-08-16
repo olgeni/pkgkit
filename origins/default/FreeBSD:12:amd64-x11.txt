@@ -254,7 +254,6 @@ devel/py-freebsd
 devel/py-freebsd-sysctl
 devel/py-gdata
 devel/py-gevent
-devel/py-gitosis
 devel/py-ipaddr
 devel/py-isodate
 devel/py-Jinja2
