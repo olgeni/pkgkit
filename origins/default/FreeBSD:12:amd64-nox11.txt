@@ -439,6 +439,7 @@ mail/dovecot-pigeonhole
 mail/ez-pine-gpg
 mail/fetchmail
 mail/getmail
+mail/getmail6
 mail/imapdedup
 mail/imapfilter
 mail/imapsync
