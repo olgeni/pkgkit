@@ -147,6 +147,7 @@ devel/autoconf-wrapper
 devel/automake
 devel/awless
 devel/awscli
+devel/b2
 devel/bingrep
 devel/binutils
 devel/bison
