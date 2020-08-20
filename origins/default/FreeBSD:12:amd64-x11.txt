@@ -1,6 +1,7 @@
 # databases/pgloader
 # databases/pgtune
 # databases/py-bsddb
+# devel/mercurial
 # devel/valgrind
 # editors/atom
 # lang/sbcl
@@ -232,7 +233,6 @@ devel/lua-stdlib-debug
 devel/lua-stdlib-normalize
 devel/m4
 devel/maven
-devel/mercurial
 devel/nasm
 devel/newfile
 devel/nuitka
