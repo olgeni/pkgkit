@@ -477,7 +477,6 @@ math/mpc
 math/mpfr
 math/py-matplotlib
 math/py-networkx
-math/py-numeric
 math/py-numpy
 math/suitesparse
 misc/bestfit
