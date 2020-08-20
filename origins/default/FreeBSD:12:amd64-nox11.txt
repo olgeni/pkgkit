@@ -1,4 +1,5 @@
 # databases/pgloader
+# databases/pgtune
 # devel/valgrind
 # lang/sbcl
 archivers/gcpio
@@ -89,7 +90,6 @@ databases/pglogical
 databases/pgmetrics
 databases/pgsanity
 databases/pgtop
-databases/pgtune
 databases/plpgsql_check
 databases/postgis30
 databases/postgresql-cstore_fdw
