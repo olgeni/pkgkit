@@ -1,5 +1,6 @@
 # databases/pgloader
 # databases/pgtune
+# databases/py-bsddb
 # devel/valgrind
 # editors/atom
 # lang/sbcl
@@ -117,7 +118,6 @@ databases/postgresql12-plpython
 databases/postgresql12-pltcl
 databases/postgresql12-server
 databases/pspg
-databases/py-bsddb
 databases/py-gdbm
 databases/py-hiredis
 databases/py-litecli
