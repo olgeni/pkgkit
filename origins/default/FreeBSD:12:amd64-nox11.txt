@@ -2,6 +2,7 @@
 # databases/pgtune
 # databases/py-bsddb
 # devel/mercurial
+# devel/py-gdata
 # devel/valgrind
 # lang/sbcl
 archivers/gcpio
@@ -230,7 +231,6 @@ devel/py-dateutil
 devel/py-decorator
 devel/py-freebsd
 devel/py-freebsd-sysctl
-devel/py-gdata
 devel/py-gevent
 devel/py-ipaddr
 devel/py-isodate
