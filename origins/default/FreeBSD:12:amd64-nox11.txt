@@ -5,6 +5,7 @@
 # devel/py-gdata
 # devel/valgrind
 # lang/sbcl
+# security/mcrypt
 archivers/gcpio
 archivers/gtar
 archivers/lzip
@@ -714,7 +715,6 @@ security/gnutls
 security/ipsec-tools
 security/keybase
 security/lynis
-security/mcrypt
 security/md5deep
 security/minisign
 security/nmap

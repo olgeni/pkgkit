@@ -6,6 +6,7 @@
 # devel/valgrind
 # editors/atom
 # lang/sbcl
+# security/mcrypt
 # sysutils/daggy
 # x11/xcm
 accessibility/redshift
@@ -836,7 +837,6 @@ security/ipsec-tools
 security/keepassxc
 security/keybase
 security/lynis
-security/mcrypt
 security/md5deep
 security/minisign
 security/nmap
