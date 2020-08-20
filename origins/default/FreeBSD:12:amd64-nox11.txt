@@ -1133,7 +1133,7 @@ www/mattermost-server
 www/mattermost-webapp
 www/minio
 www/minio-client
-www/mod_wsgi4
+www/mod_wsgi4@py37
 www/mod_xsendfile
 www/moinmoin
 www/moinmoincli
