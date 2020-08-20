@@ -495,7 +495,6 @@ lang/php73-extensions
 lang/purescript
 lang/py-hy
 lang/python
-lang/python2
 lang/python3
 lang/python38
 lang/quickjs
