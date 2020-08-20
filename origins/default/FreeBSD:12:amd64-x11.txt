@@ -5,6 +5,7 @@
 # devel/py-gdata
 # devel/valgrind
 # editors/atom
+# graphics/gimp-resynthesizer
 # lang/sbcl
 # security/mcrypt
 # shells/lshell
@@ -401,7 +402,6 @@ graphics/giflib
 graphics/gimp-app
 graphics/gimp-lqr-plugin
 graphics/gimp-refocus-plugin
-graphics/gimp-resynthesizer
 graphics/gocr
 graphics/gource
 graphics/gphoto2
