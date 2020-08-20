@@ -258,6 +258,7 @@ devel/py-decorator
 devel/py-freebsd
 devel/py-freebsd-sysctl
 devel/py-gevent
+devel/py-google-crc32c
 devel/py-ipaddr
 devel/py-isodate
 devel/py-Jinja2
