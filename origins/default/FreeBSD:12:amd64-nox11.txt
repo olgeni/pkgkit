@@ -6,6 +6,7 @@
 # devel/valgrind
 # lang/sbcl
 # security/mcrypt
+# shells/lshell
 archivers/gcpio
 archivers/gtar
 archivers/lzip
@@ -773,7 +774,6 @@ shells/elvish
 shells/fd
 shells/fish
 shells/ksh93
-shells/lshell
 shells/mksh
 shells/oksh
 shells/starship
