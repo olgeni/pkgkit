@@ -826,7 +826,7 @@ security/bsmtrace3
 security/ca_root_nss
 security/clamav
 security/dehydrated
-security/denyhosts
+security/denyhosts@py37
 security/doas
 security/easy-rsa
 security/expiretable
