@@ -1,3 +1,4 @@
+# databases/pgloader
 # devel/valgrind
 # lang/sbcl
 archivers/gcpio
@@ -84,7 +85,6 @@ databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
 databases/pgFormatter
-databases/pgloader
 databases/pglogical
 databases/pgmetrics
 databases/pgsanity

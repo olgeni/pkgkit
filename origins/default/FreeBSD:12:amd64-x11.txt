@@ -1,3 +1,4 @@
+# databases/pgloader
 # devel/valgrind
 # editors/atom
 # lang/sbcl
@@ -93,7 +94,6 @@ databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
 databases/pgFormatter
-databases/pgloader
 databases/pglogical
 databases/pgmetrics
 databases/pgsanity
