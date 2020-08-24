@@ -1110,6 +1110,7 @@ sysutils/rex
 sysutils/rsfetch
 sysutils/rsyslog8
 sysutils/rubygem-fluentd
+sysutils/rubygem-tmuxinator
 sysutils/rundeck3
 sysutils/runit
 sysutils/s6

@@ -972,6 +972,7 @@ sysutils/rex
 sysutils/rsfetch
 sysutils/rsyslog8
 sysutils/rubygem-fluentd
+sysutils/rubygem-tmuxinator
 sysutils/runit
 sysutils/s6
 sysutils/s6-rc
