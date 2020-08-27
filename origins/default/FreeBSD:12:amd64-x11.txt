@@ -728,6 +728,7 @@ net/librdkafka
 net/minidlna
 net/miruo
 net/mosh
+net/mosquitto
 net/mpd5
 net/mtr
 net/multicat
