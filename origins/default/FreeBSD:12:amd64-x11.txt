@@ -394,7 +394,6 @@ games/nsnake
 games/oolite
 games/powder-toy
 games/tty-solitaire
-games/xevil
 games/xscavenger
 graphics/exif
 graphics/frei0r
