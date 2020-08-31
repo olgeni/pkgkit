@@ -186,6 +186,7 @@ devel/git
 devel/git-bug
 devel/git-delta
 devel/git-extras
+devel/gitleaks
 devel/gitolite
 devel/gmake
 devel/go-glide
