@@ -589,6 +589,7 @@ net/cf
 net/cloud-init
 net/cloudflared
 net/corosync2
+net/corosync3
 net/courier-sox
 net/czmq
 net/dhcping
