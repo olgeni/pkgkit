@@ -695,6 +695,7 @@ net/bosh-cli
 net/cf
 net/cloud-init
 net/cloudflared
+net/corosync2
 net/courier-sox
 net/czmq
 net/dhcping
@@ -743,6 +744,7 @@ net/nss_ldap
 net/omnitty
 net/openldap24-client
 net/openldap24-server
+net/pacemaker2
 net/py-amqp
 net/py-kombu
 net/py-libcloud
