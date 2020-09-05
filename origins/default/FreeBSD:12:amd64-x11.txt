@@ -306,7 +306,6 @@ devel/pylint
 devel/rclint
 devel/rebar
 devel/rebar3
-devel/relx
 devel/rlog
 devel/rlwrap
 devel/rubygem-irb
