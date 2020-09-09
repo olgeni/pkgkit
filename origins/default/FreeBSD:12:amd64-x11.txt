@@ -665,6 +665,7 @@ net-im/telegram-desktop
 net-mgmt/argus3
 net-mgmt/argus3-clients
 net-mgmt/arpscan
+net-mgmt/bandwhich
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
 net-mgmt/collectd5
