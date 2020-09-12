@@ -40,13 +40,13 @@ multimedia/asdcplib
 net/corosync3
 net/gtk-vnc
 net/libgweather
+net/samba411
 net/samba44
 net/samba45
 net/samba46
 net/samba47
 net/samba48
 net/samba49
-net/samba411
 print/ghostscript9-base
 print/teTeX-texmf
 print/tex-formats
