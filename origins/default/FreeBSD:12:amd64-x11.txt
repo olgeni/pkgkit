@@ -188,6 +188,7 @@ devel/cmake
 devel/critcl
 devel/cscope
 devel/ctags
+devel/cvs
 devel/cvsps
 devel/dconf-editor
 devel/deheader
