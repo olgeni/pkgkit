@@ -1446,6 +1446,7 @@ x11-wm/windowmaker
 x11-wm/xcompmgr
 x11-wm/xfce4
 x11/albert
+x11/cde
 x11/cool-retro-term
 x11/editres
 x11/grabc
