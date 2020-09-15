@@ -1,16 +1,8 @@
-# databases/pgloader
-# databases/pgtune
-# databases/py-bsddb
 # devel/mercurial
-# devel/py-gdata
 # devel/valgrind
-# editors/atom
-# graphics/gimp-resynthesizer
 # lang/sbcl
 # security/mcrypt
 # shells/lshell
-# sysutils/daggy
-# x11/xcm
 accessibility/redshift
 accessibility/sct
 archivers/gcpio

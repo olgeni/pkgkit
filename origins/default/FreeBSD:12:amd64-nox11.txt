@@ -1,8 +1,4 @@
-# databases/pgloader
-# databases/pgtune
-# databases/py-bsddb
 # devel/mercurial
-# devel/py-gdata
 # devel/valgrind
 # lang/sbcl
 # security/mcrypt
