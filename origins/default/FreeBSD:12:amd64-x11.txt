@@ -3,6 +3,7 @@
 # lang/sbcl
 # security/mcrypt
 # shells/lshell
+# sysutils/fluent-bit
 accessibility/redshift
 accessibility/sct
 archivers/gcpio
@@ -983,7 +984,6 @@ sysutils/firstboot-freebsd-update
 sysutils/firstboot-growfs
 sysutils/firstboot-pkgs
 sysutils/flock
-sysutils/fluent-bit
 sysutils/fpart
 sysutils/frand
 sysutils/freeipmi
