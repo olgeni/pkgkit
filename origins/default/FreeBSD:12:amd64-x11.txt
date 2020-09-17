@@ -1259,6 +1259,7 @@ www/aria2
 www/caddy
 www/chromium
 www/csstidy
+www/deno
 www/elinks
 www/fabio
 www/ffsend

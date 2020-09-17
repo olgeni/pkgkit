@@ -1119,6 +1119,7 @@ www/apache24
 www/aria2
 www/caddy
 www/csstidy
+www/deno
 www/elinks
 www/fabio
 www/gitea
