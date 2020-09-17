@@ -1004,6 +1004,7 @@ sysutils/tai64nfrac
 sysutils/terraform
 sysutils/tlsdate
 sysutils/tmate
+sysutils/tmate-ssh-server
 sysutils/tmux
 sysutils/topless
 sysutils/tree
