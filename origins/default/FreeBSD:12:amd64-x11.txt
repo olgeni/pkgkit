@@ -883,6 +883,7 @@ security/ssh-vault
 security/sshpass
 security/ssss
 security/starttls
+security/stegify
 security/step-certificates
 security/step-cli
 security/strongswan

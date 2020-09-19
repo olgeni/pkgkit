@@ -763,6 +763,7 @@ security/ssh-vault
 security/sshpass
 security/ssss
 security/starttls@nox
+security/stegify
 security/step-certificates
 security/step-cli
 security/strongswan
