@@ -1024,6 +1024,7 @@ sysutils/vimpager
 sysutils/virt-what
 sysutils/vm-bhyve
 sysutils/vmtouch
+sysutils/vttest
 sysutils/vzvol
 sysutils/wait_on
 sysutils/watchman
