@@ -877,6 +877,7 @@ security/py-ssh-audit
 security/racoon2
 security/scrypt
 security/seahorse
+security/sequoia
 security/signify
 security/softether
 security/ssh-vault
