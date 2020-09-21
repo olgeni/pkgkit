@@ -1,6 +1,7 @@
 # devel/mercurial
 # devel/valgrind
 # lang/sbcl
+# net-mgmt/crmsh
 # security/mcrypt
 # shells/lshell
 # sysutils/fluent-bit
@@ -663,7 +664,6 @@ net-mgmt/bandwhich
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
 net-mgmt/collectd5
-net-mgmt/crmsh
 net-mgmt/grepcidr
 net-mgmt/iftop
 net-mgmt/ipcalc
