@@ -133,6 +133,7 @@ databases/tile38
 databases/timescaledb
 databases/usql
 deskutils/dfshow
+deskutils/dstask
 deskutils/gcal
 deskutils/gcalcli
 deskutils/taskwarrior
