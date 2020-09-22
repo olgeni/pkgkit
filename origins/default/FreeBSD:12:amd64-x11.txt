@@ -564,6 +564,7 @@ misc/boxes
 misc/buffer
 misc/cheat
 misc/cloc
+misc/concourse
 misc/cpuid
 misc/cstream
 misc/delay
