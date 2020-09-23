@@ -885,6 +885,7 @@ sysutils/grub2-bhyve
 sysutils/hatop
 sysutils/hcloud
 sysutils/helm
+sysutils/hexpeek
 sysutils/hextools
 sysutils/hexyl
 sysutils/hfsutils
