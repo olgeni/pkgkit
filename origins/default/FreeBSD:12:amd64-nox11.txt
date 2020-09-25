@@ -5,7 +5,6 @@
 # net-mgmt/crmsh
 # security/mcrypt
 # shells/lshell
-# sysutils/fluent-bit
 archivers/gcpio
 archivers/gtar
 archivers/lzip
@@ -863,6 +862,7 @@ sysutils/firstboot-freebsd-update
 sysutils/firstboot-growfs
 sysutils/firstboot-pkgs
 sysutils/flock
+sysutils/fluent-bit
 sysutils/fpart
 sysutils/frand
 sysutils/freeipmi
