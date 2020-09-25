@@ -117,6 +117,7 @@ databases/postgresql12-plperl
 databases/postgresql12-plpython
 databases/postgresql12-pltcl
 databases/postgresql12-server
+databases/postgresql13-server
 databases/pspg
 databases/py-gdbm
 databases/py-hiredis
