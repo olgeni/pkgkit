@@ -17,6 +17,7 @@ archivers/py-borgbackup
 archivers/rar
 archivers/rubygem-fpm
 archivers/unrar
+archivers/zchunk
 archivers/zip
 astro/xearth
 audio/alac
