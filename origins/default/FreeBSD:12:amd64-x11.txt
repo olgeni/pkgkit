@@ -48,6 +48,7 @@ audio/sox
 audio/twolame
 audio/virtual_oss
 audio/wavpack
+benchmarks/ali
 benchmarks/flamegraph
 benchmarks/httperf
 benchmarks/iozone
@@ -313,6 +314,7 @@ devel/shfmt
 devel/stack
 devel/subversion
 devel/swig
+devel/taskctl
 devel/tcllib
 devel/tcllibc
 devel/tclreadline
