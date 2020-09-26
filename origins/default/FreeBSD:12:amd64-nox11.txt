@@ -832,6 +832,7 @@ sysutils/devcpu-data
 sysutils/devstat
 sysutils/dfc
 sysutils/direnv
+sysutils/diskonaut
 sysutils/disktype
 sysutils/dmidecode
 sysutils/docker

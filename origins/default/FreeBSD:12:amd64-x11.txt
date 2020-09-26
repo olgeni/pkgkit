@@ -959,6 +959,7 @@ sysutils/devstat
 sysutils/dfc
 sysutils/digdag
 sysutils/direnv
+sysutils/diskonaut
 sysutils/disktype
 sysutils/dmidecode
 sysutils/docker
