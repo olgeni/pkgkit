@@ -49,6 +49,7 @@ audio/twolame
 audio/virtual_oss
 audio/wavpack
 benchmarks/ali
+benchmarks/filebench
 benchmarks/flamegraph
 benchmarks/httperf
 benchmarks/iozone
