@@ -592,6 +592,7 @@ net/cloudflared
 net/corosync2
 net/corosync3
 net/courier-sox
+net/croc
 net/czmq
 net/dhcping
 net/dpinger
