@@ -9,6 +9,7 @@
 archivers/gcpio
 archivers/gtar
 archivers/lzip
+archivers/nfpm
 archivers/p7zip
 archivers/parchive
 archivers/pigz
