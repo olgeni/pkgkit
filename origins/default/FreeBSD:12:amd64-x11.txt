@@ -976,6 +976,7 @@ sysutils/downtimed
 sysutils/dtpstree
 sysutils/dtrace-toolkit
 sysutils/dua-cli
+sysutils/duf
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
 sysutils/dwatch-gource
