@@ -667,6 +667,7 @@ net/shelldap
 net/socat
 net/sslh
 net/subnetcalc
+net/tableutil
 net/tcludp
 net/tcplog_dumper
 net/tcpshow
