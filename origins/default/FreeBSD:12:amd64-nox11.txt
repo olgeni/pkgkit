@@ -185,6 +185,7 @@ devel/elm-format
 devel/emscripten
 devel/etcd34
 devel/fossil
+devel/frink
 devel/gdb
 devel/gindent
 devel/git
