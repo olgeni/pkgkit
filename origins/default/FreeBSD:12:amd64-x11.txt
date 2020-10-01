@@ -87,6 +87,7 @@ databases/mongodb42
 databases/mongodb42-tools
 databases/mysql57-client
 databases/mysql57-server
+databases/neo4j
 databases/p5-Bucardo
 databases/pear-MDB2_Driver_pgsql
 databases/percona57-client
