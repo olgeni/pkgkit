@@ -1020,6 +1020,7 @@ sysutils/syslog-ng
 sysutils/sysvbanner
 sysutils/tai64nfrac
 sysutils/terraform
+sysutils/terraform-docs
 sysutils/terragrunt
 sysutils/tlsdate
 sysutils/tmate
