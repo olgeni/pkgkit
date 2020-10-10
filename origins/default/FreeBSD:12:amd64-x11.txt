@@ -1469,6 +1469,7 @@ x11/cool-retro-term
 x11/editres
 x11/grabc
 x11/hhpc
+x11/inputplug
 x11/lightdm
 x11/lightdm-gtk-greeter
 x11/lightdm-gtk-greeter-settings
