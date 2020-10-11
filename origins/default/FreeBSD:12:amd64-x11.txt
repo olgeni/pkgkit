@@ -844,6 +844,7 @@ security/doas
 security/easy-rsa
 security/expiretable
 security/fakeroot
+security/ffuf
 security/gnupg
 security/gnupg1
 security/gnutls
