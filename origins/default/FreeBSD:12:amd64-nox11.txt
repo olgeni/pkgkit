@@ -135,6 +135,7 @@ databases/tarantool
 databases/tcl-sqlite3
 databases/tdb
 databases/tile38
+databases/tiledb
 databases/timescaledb
 databases/usql
 deskutils/dfshow
