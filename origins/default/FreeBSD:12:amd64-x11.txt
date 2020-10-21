@@ -291,6 +291,7 @@ devel/py-py_interface
 devel/py-pyasn1
 devel/py-pyinstaller
 devel/py-pyjq
+devel/py-python-gitlab
 devel/py-pytz
 devel/py-qtconsole
 devel/py-setproctitle
