@@ -196,6 +196,7 @@ devel/git-extras
 devel/gitlab-runner
 devel/gitleaks
 devel/gitolite
+devel/glab
 devel/gmake
 devel/go-glide
 devel/go-tools
