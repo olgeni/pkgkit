@@ -147,6 +147,8 @@ databases/tile38
 databases/tiledb
 databases/timescaledb
 databases/usql
+deskutils/calendar
+deskutils/calendar-data
 deskutils/dfshow
 deskutils/dstask
 deskutils/flameshot
