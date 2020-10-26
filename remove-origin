@@ -32,4 +32,8 @@ for _file in "$@"; do
     _target=$(echo ${ORIGIN} | sed -e 's/\//\\\//g')
 
     sed -i '' -e "/^${_target}$/d" ${_file}
+
+    git add ${_file}
 done
+
+git commit -m "Remove ${ORIGIN}."

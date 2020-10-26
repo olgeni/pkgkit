@@ -36,4 +36,8 @@ for _file in "$@"; do
     cat ${_tmpfile} > ${_file}
 
     rm ${_tmpfile}
+
+    git add ${_file}
 done
+
+git commit -m "Add ${ORIGIN}."
