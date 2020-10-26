@@ -162,6 +162,7 @@ devel/b2
 devel/bingrep
 devel/binutils
 devel/bison
+devel/bit
 devel/boost-docs
 devel/boost-jam
 devel/boost-libs
