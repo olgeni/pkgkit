@@ -1167,6 +1167,7 @@ sysutils/sysvbanner
 sysutils/tai64nfrac
 sysutils/terraform
 sysutils/terraform-docs
+sysutils/terraform-switcher
 sysutils/terragrunt
 sysutils/tlsdate
 sysutils/tmate
