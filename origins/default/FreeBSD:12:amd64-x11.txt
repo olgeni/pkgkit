@@ -1055,6 +1055,7 @@ sysutils/ioping
 sysutils/ipget
 sysutils/ipmitool
 sysutils/istio
+sysutils/jail_exporter
 sysutils/jps
 sysutils/kops
 sysutils/kubectl
