@@ -78,7 +78,6 @@ databases/mongodb36
 databases/mongodb36-tools
 databases/mongodb40
 databases/mongodb40-tools
-databases/mongodb42
 databases/mongodb42-tools
 databases/mysql57-client
 databases/mysql57-server
