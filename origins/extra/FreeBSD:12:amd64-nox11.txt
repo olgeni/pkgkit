@@ -1,3 +1,4 @@
 databases/mongodb36
+databases/mongodb36-tools
 databases/mongodb40
 databases/mongodb42
