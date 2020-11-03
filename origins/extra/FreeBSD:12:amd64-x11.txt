@@ -3,4 +3,5 @@ databases/mongodb36-tools
 databases/mongodb40
 databases/mongodb40-tools
 databases/mongodb42
+databases/mongodb42-tools
 www/chromium
