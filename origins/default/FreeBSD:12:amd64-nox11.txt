@@ -76,7 +76,6 @@ databases/mariadb104-client
 databases/mariadb104-server
 databases/mongodb36
 databases/mongodb36-tools
-databases/mongodb40
 databases/mongodb40-tools
 databases/mongodb42-tools
 databases/mysql57-client
