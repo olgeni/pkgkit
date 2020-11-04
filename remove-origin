@@ -26,7 +26,11 @@ for _file in "$@"; do
     }
 done
 
+_lastfile=""
+
 for _file in "$@"; do
+    _lastfile=${_file}
+
     echo "$(basename $0): removing ${ORIGIN} from ${_file}."
 
     _target=$(echo ${ORIGIN} | sed -e 's/\//\\\//g')
@@ -36,4 +40,4 @@ for _file in "$@"; do
     git add ${_file}
 done
 
-git commit -m "Remove ${ORIGIN}."
+git commit -m "$(basename $(dirname ${_lastfile})): remove ${ORIGIN}."
