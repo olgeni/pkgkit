@@ -4,4 +4,5 @@ databases/mongodb40
 databases/mongodb40-tools
 databases/mongodb42
 databases/mongodb42-tools
+editors/vscode
 www/chromium
