@@ -366,7 +366,6 @@ editors/o
 editors/pico-alpine
 editors/tweak
 editors/vim
-editors/vscode
 editors/with-editor
 emulators/dosbox
 emulators/fuse
