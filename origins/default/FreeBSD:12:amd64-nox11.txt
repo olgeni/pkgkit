@@ -612,6 +612,7 @@ net/google-cloud-sdk
 net/grpcox
 net/grpcui
 net/grpcurl
+net/gsocket
 net/haproxy
 net/hexinject
 net/hping

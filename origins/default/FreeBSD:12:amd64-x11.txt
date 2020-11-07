@@ -716,6 +716,7 @@ net/google-cloud-sdk
 net/grpcox
 net/grpcui
 net/grpcurl
+net/gsocket
 net/guacamole-server
 net/haproxy
 net/hexinject
