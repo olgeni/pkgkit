@@ -865,6 +865,7 @@ sysutils/eject
 sysutils/eksctl
 sysutils/entr
 sysutils/envconsul
+sysutils/ethname
 sysutils/exa
 sysutils/exfat-utils
 sysutils/facter
