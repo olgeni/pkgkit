@@ -662,6 +662,7 @@ net/redir
 net/relayd
 net/rinetd
 net/rsync
+net/samba411
 net/sendemail
 net/shelldap
 net/socat
