@@ -522,6 +522,7 @@ misc/ttyrec
 misc/vifm
 misc/window
 misc/ytree
+multimedia/Bento4
 multimedia/dvbsnoop
 multimedia/ffmpeg
 multimedia/handbrake
