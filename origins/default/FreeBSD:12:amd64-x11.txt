@@ -1434,6 +1434,7 @@ x11-fonts/xlsfonts
 x11-servers/xephyr
 x11-servers/xorg-vfbserver
 x11-themes/adwaita-icon-theme
+x11-themes/flat-remix-icon-themes
 x11-themes/greybird-theme
 x11-themes/icon-naming-utils
 x11-themes/mate-icon-theme-faenza
