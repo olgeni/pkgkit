@@ -418,6 +418,7 @@ lang/janet
 lang/jimtcl
 lang/lfe
 lang/mono
+lang/nim
 lang/nx
 lang/perl5.32
 lang/php73
