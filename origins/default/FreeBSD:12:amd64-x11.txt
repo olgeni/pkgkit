@@ -1473,6 +1473,7 @@ x11/albert
 x11/cde
 x11/cool-retro-term
 x11/editres
+x11/evtest
 x11/grabc
 x11/hhpc
 x11/inputplug
