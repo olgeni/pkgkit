@@ -227,6 +227,7 @@ devel/packr
 devel/patch
 devel/pcre
 devel/pear
+devel/php-composer
 devel/pkgconf
 devel/popt
 devel/protobuf
