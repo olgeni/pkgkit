@@ -1498,6 +1498,7 @@ x11/xautolock
 x11/xbanish
 x11/xclip
 x11/xdm
+x11/xdo
 x11/xdotool
 x11/xeyes
 x11/xfd
