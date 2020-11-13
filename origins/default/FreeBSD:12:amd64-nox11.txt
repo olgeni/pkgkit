@@ -1147,6 +1147,7 @@ www/annie
 www/apache24
 www/aria2
 www/caddy
+www/chisel
 www/csstidy
 www/deno
 www/elinks
