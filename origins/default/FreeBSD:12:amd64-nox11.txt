@@ -766,7 +766,6 @@ security/py-certbot-dns-sakuracloud
 security/py-certbot-nginx
 security/py-certifi
 security/py-fail2ban
-security/py-mcrypt
 security/py-oauthlib
 security/py-pycrypto
 security/py-rsa
