@@ -1020,6 +1020,7 @@ sysutils/gaffitter
 sysutils/gconf-editor
 sysutils/genisoimage
 sysutils/getssl
+sysutils/gitwatch
 sysutils/go-wtf
 sysutils/goaccess
 sysutils/google-compute-engine-oslogin

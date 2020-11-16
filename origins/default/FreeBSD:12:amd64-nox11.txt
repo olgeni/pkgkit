@@ -893,6 +893,7 @@ sysutils/fusefs-sshfs
 sysutils/gaffitter
 sysutils/genisoimage
 sysutils/getssl
+sysutils/gitwatch
 sysutils/go-wtf
 sysutils/goaccess
 sysutils/google-compute-engine-oslogin
