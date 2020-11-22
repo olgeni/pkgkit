@@ -1440,6 +1440,7 @@ x11-themes/flat-remix-icon-themes
 x11-themes/greybird-theme
 x11-themes/icon-naming-utils
 x11-themes/mate-icon-theme-faenza
+x11-themes/nordic-theme
 x11-themes/numix-gtk-theme
 x11-themes/numix-icon-theme
 x11-themes/openbox-arc-theme
