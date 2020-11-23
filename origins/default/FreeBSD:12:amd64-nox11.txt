@@ -363,6 +363,7 @@ graphics/exif
 graphics/frei0r
 graphics/gd
 graphics/giflib
+graphics/gifski
 graphics/gocr
 graphics/gphoto2
 graphics/hiptext
