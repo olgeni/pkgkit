@@ -487,6 +487,7 @@ lang/gforth
 lang/gnu-cobol
 lang/go
 lang/gomacro
+lang/gprolog
 lang/itcl
 lang/itcl4
 lang/janet
