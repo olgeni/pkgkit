@@ -434,7 +434,7 @@ lang/python3
 lang/python38
 lang/quickjs
 lang/racket-minimal
-lang/ruby26
+lang/ruby27
 lang/runawk
 lang/rust
 lang/tcl-manual
