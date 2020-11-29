@@ -609,6 +609,7 @@ misc/ttyrec
 misc/unclutter
 misc/vifm
 misc/window
+misc/xd-rust
 misc/ytree
 multimedia/Bento4
 multimedia/dvbsnoop
