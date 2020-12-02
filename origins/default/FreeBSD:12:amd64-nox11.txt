@@ -1082,6 +1082,7 @@ textproc/aspell
 textproc/augeas
 textproc/bar
 textproc/bat
+textproc/cast2gif
 textproc/confget
 textproc/consul-template
 textproc/csvq
