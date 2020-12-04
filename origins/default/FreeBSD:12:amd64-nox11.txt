@@ -1172,6 +1172,7 @@ www/hs-postgrest
 www/jitsi-meet
 www/lighttpd
 www/links
+www/lychee
 www/lynx
 www/mattermost-server
 www/mattermost-webapp
