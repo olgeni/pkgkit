@@ -776,7 +776,7 @@ net/redir
 net/relayd
 net/rinetd
 net/rsync
-net/samba411
+net/samba412
 net/sdl_net
 net/sendemail
 net/shelldap
