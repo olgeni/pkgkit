@@ -939,6 +939,7 @@ sysutils/lsof
 sysutils/lsop
 sysutils/ltrace
 sysutils/mapdir
+sysutils/mcfly
 sysutils/megacli
 sysutils/memtester
 sysutils/minipot
