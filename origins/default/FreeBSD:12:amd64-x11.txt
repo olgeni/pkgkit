@@ -512,6 +512,7 @@ lang/racket
 lang/ruby27
 lang/runawk
 lang/rust
+lang/tauthon
 lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
