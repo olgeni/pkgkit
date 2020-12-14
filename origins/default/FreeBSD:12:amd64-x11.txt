@@ -427,7 +427,6 @@ graphics/mesa-demos
 graphics/mupdf
 graphics/netpbm
 graphics/nomacs
-graphics/opencv
 graphics/openjpeg
 graphics/pixd
 graphics/plotutils
