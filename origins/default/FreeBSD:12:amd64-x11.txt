@@ -1249,6 +1249,7 @@ textproc/it-aspell
 textproc/it-hunspell
 textproc/jo
 textproc/jq
+textproc/jql
 textproc/jshon
 textproc/jtc
 textproc/libxml2
