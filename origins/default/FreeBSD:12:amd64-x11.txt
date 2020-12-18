@@ -149,6 +149,7 @@ deskutils/freemind
 deskutils/gcal
 deskutils/gcalcli
 deskutils/noti
+deskutils/sowon
 deskutils/sysctlview
 deskutils/taskwarrior
 deskutils/terminal-image-viewer
