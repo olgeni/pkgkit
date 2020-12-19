@@ -1453,6 +1453,7 @@ x11-themes/mate-icon-theme-faenza
 x11-themes/nordic-theme
 x11-themes/numix-gtk-theme
 x11-themes/numix-icon-theme
+x11-themes/numix-icon-theme-circle
 x11-themes/openbox-arc-theme
 x11-toolkits/bwidget
 x11-toolkits/gtk-sharp20
