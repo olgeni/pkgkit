@@ -230,6 +230,7 @@ devel/patch
 devel/pcre
 devel/pear
 devel/php-composer
+devel/php-composer2
 devel/pkgconf
 devel/popt
 devel/protobuf
