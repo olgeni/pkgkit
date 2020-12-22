@@ -1512,6 +1512,7 @@ x11/terminator
 x11/terminology
 x11/wallutils
 x11/wmctrl
+x11/wmfocus
 x11/xascii
 x11/xautolock
 x11/xbanish
