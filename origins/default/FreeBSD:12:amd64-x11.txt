@@ -1522,6 +1522,7 @@ x11/xdm
 x11/xdo
 x11/xdotool
 x11/xeyes
+x11/xfce4-goodies
 x11/xfce4-screensaver
 x11/xfd
 x11/xkeycaps
