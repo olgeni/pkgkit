@@ -308,6 +308,7 @@ devel/tclthread
 devel/tcltls
 devel/tig
 devel/tmake
+devel/universal-ctags
 devel/uthash
 devel/yajl-tcl
 devel/yasm

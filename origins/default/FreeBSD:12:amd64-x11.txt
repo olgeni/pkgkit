@@ -332,6 +332,7 @@ devel/tcltls
 devel/tig
 devel/tkcon
 devel/tmake
+devel/universal-ctags
 devel/uthash
 devel/xorg-macros
 devel/yajl-tcl
