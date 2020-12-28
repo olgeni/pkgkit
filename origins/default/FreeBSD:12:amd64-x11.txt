@@ -1304,6 +1304,7 @@ www/elinks
 www/fabio
 www/ffsend
 www/firefox
+www/flexget
 www/gitea
 www/go-www
 www/gobuffalo

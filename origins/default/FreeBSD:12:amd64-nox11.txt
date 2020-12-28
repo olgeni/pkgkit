@@ -1163,6 +1163,7 @@ www/csstidy
 www/deno
 www/elinks
 www/fabio
+www/flexget
 www/gitea
 www/go-www
 www/gobuffalo
