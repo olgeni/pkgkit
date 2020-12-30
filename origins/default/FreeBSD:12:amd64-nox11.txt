@@ -615,6 +615,7 @@ net/endlessh
 net/eternalterminal
 net/evans
 net/findomain
+net/gitup
 net/gnetcat
 net/go-cs
 net/google-cloud-sdk

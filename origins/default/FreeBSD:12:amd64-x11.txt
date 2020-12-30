@@ -720,6 +720,7 @@ net/eternalterminal
 net/evans
 net/findomain
 net/freerdp
+net/gitup
 net/gnetcat
 net/go-cs
 net/google-cloud-sdk
