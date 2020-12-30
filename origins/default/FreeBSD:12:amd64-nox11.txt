@@ -93,7 +93,6 @@ databases/pgmetrics
 databases/pgsanity
 databases/pgtop
 databases/plpgsql_check
-databases/postgis30
 databases/postgis31
 databases/postgresql-cstore_fdw
 databases/postgresql-plproxy
