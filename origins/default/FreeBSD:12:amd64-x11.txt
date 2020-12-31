@@ -1,7 +1,6 @@
 # databases/postgresql13-server
 # devel/mercurial
 # devel/valgrind
-# lang/sbcl
 # misc/concourse
 # net-mgmt/crmsh
 # security/mcrypt
@@ -515,6 +514,7 @@ lang/racket
 lang/ruby27
 lang/runawk
 lang/rust
+lang/sbcl
 lang/tauthon
 lang/tcl-manual
 lang/tcl-wrapper
