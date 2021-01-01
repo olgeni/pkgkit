@@ -605,6 +605,7 @@ net/bosh-cli
 net/cf
 net/cloud-init
 net/cloudflared
+net/cloudquery
 net/corosync2
 net/corosync3
 net/courier-sox
