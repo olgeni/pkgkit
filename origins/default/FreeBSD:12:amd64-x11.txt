@@ -638,6 +638,7 @@ multimedia/libmpeg2
 multimedia/libtheora
 multimedia/libv4l
 multimedia/libvpx
+multimedia/livego
 multimedia/mediainfo
 multimedia/mencoder
 multimedia/mjpegtools
