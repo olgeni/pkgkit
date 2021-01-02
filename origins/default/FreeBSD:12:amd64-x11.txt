@@ -1189,6 +1189,7 @@ sysutils/ttyd
 sysutils/ttyload
 sysutils/ufs_copy
 sysutils/usbtop
+sysutils/uschedule
 sysutils/usermin
 sysutils/vagrant
 sysutils/vcp
