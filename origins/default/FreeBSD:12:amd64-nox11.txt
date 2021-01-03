@@ -726,6 +726,7 @@ security/acme.sh
 security/acmetool
 security/aespipe
 security/age
+security/assh
 security/autossh
 security/bcwipe
 security/binwalk
