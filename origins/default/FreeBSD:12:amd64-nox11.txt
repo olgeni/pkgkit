@@ -362,6 +362,7 @@ games/bsdgames
 games/nInvaders
 games/nsnake
 games/tty-solitaire
+graphics/cbonsai
 graphics/exif
 graphics/frei0r
 graphics/gd

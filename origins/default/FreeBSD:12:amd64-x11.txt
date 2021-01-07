@@ -403,6 +403,7 @@ games/oolite
 games/powder-toy
 games/tty-solitaire
 games/xscavenger
+graphics/cbonsai
 graphics/exif
 graphics/frei0r
 graphics/gd
