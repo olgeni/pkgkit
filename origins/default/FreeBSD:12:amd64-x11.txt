@@ -1038,6 +1038,7 @@ sysutils/gitwatch
 sysutils/glow
 sysutils/go-wtf
 sysutils/goaccess
+sysutils/gomi
 sysutils/google-compute-engine-oslogin
 sysutils/gotop
 sysutils/graylog
