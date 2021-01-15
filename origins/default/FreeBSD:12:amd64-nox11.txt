@@ -223,6 +223,7 @@ devel/myrepos
 devel/nasm
 devel/newfile
 devel/nuitka
+devel/objconv
 devel/p5-Module-CoreList
 devel/packr
 devel/patch
