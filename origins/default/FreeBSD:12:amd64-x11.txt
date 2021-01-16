@@ -9,6 +9,7 @@ accessibility/redshift
 accessibility/sct
 archivers/gcpio
 archivers/gtar
+archivers/innoextract
 archivers/lzip
 archivers/nfpm
 archivers/p7zip
