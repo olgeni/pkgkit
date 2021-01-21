@@ -1401,6 +1401,7 @@ x11-fonts/3270font
 x11-fonts/agave
 x11-fonts/amigafonts
 x11-fonts/anonymous-pro
+x11-fonts/bdf2sfd
 x11-fonts/bitstream-vera
 x11-fonts/bitter
 x11-fonts/cantarell-fonts
