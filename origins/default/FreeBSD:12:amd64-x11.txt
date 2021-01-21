@@ -1411,6 +1411,7 @@ x11-fonts/crosextrafonts-caladea-ttf
 x11-fonts/crosextrafonts-carlito-ttf
 x11-fonts/dejavu
 x11-fonts/droid-fonts-ttf
+x11-fonts/dseg
 x11-fonts/exo
 x11-fonts/fantasque-sans-mono
 x11-fonts/fira
