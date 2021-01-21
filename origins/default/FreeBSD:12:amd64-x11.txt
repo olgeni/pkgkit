@@ -1059,6 +1059,7 @@ sysutils/hfsutils
 sysutils/host-setup
 sysutils/hostctl
 sysutils/htop
+sysutils/hw-probe
 sysutils/immortal
 sysutils/inotify-tools
 sysutils/intel-pcm
