@@ -392,6 +392,7 @@ ftp/filezilla
 ftp/lftp
 ftp/ncftp3
 ftp/netdumpd
+ftp/tftp-hpa
 ftp/wget
 games/alienwave
 games/ascii-invaders
