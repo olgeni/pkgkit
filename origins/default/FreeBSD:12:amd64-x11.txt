@@ -209,6 +209,7 @@ devel/git-bug
 devel/git-delta
 devel/git-extras
 devel/gitlab-runner
+devel/gitlab-shell
 devel/gitleaks
 devel/gitolite
 devel/glab
