@@ -389,6 +389,7 @@ emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
 emulators/x48
 ftp/bbftp-client
+ftp/bbftp-server
 ftp/curl
 ftp/filezilla
 ftp/lftp
