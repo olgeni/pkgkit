@@ -353,6 +353,7 @@ emulators/open-vm-tools
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
+ftp/bbftp-client
 ftp/curl
 ftp/lftp
 ftp/ncftp3
