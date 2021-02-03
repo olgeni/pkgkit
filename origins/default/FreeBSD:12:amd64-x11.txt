@@ -910,6 +910,7 @@ security/py-pycrypto
 security/py-rsa
 security/py-ssh-audit
 security/racoon2
+security/rnp
 security/rustscan
 security/scrypt
 security/seahorse
