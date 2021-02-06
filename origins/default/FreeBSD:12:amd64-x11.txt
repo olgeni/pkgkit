@@ -628,6 +628,7 @@ multimedia/Bento4
 multimedia/dvbsnoop
 multimedia/ffmpeg
 multimedia/gstreamer1
+multimedia/gstreamer1-libav
 multimedia/handbrake
 multimedia/libass
 multimedia/libdv
