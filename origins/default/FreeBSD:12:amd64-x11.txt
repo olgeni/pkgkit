@@ -630,6 +630,7 @@ multimedia/ffmpeg
 multimedia/gstreamer1
 multimedia/gstreamer1-libav
 multimedia/gstreamer1-plugins
+multimedia/gstreamer1-plugins-bad
 multimedia/handbrake
 multimedia/libass
 multimedia/libdv
