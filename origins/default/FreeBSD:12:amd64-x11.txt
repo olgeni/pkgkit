@@ -627,7 +627,6 @@ misc/ytree
 multimedia/Bento4
 multimedia/dvbsnoop
 multimedia/ffmpeg
-multimedia/gstreamer-plugins-theora
 multimedia/gstreamer-plugins-ugly
 multimedia/handbrake
 multimedia/libass
