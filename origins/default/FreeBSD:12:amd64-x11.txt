@@ -627,7 +627,6 @@ misc/ytree
 multimedia/Bento4
 multimedia/dvbsnoop
 multimedia/ffmpeg
-multimedia/gstreamer-plugins-bad
 multimedia/gstreamer-plugins-core
 multimedia/gstreamer-plugins-dts
 multimedia/gstreamer-plugins-dvd
