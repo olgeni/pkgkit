@@ -1568,5 +1568,6 @@ x11/xscreensaver
 x11/xsm
 x11/xsnow
 x11/xssstate
+x11/xterm
 x11/xtermcontrol
 x11/xvkbd
