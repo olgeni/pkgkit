@@ -636,6 +636,7 @@ multimedia/gstreamer1-plugins-dts
 multimedia/gstreamer1-plugins-dvdread
 multimedia/gstreamer1-plugins-good
 multimedia/gstreamer1-plugins-theora
+multimedia/gstreamer1-plugins-ugly
 multimedia/handbrake
 multimedia/libass
 multimedia/libdv
