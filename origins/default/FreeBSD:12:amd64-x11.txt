@@ -1052,8 +1052,6 @@ sysutils/gotop
 sysutils/graylog
 sysutils/grub2-bhyve
 sysutils/gsmartcontrol
-sysutils/hal
-sysutils/hal-info
 sysutils/hatop
 sysutils/hcloud
 sysutils/helm
