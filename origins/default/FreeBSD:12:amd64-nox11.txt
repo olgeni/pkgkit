@@ -389,6 +389,7 @@ graphics/libgphoto2
 graphics/liblqr-1
 graphics/libsixel
 graphics/netpbm
+graphics/opencv
 graphics/openjpeg
 graphics/pixd
 graphics/png
