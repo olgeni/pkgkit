@@ -1520,6 +1520,7 @@ x11/cool-retro-term
 x11/editres
 x11/evtest
 x11/grabc
+x11/gromit-mpx
 x11/hhpc
 x11/inputplug
 x11/lightdm
