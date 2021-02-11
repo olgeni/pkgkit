@@ -1539,6 +1539,7 @@ x11/slop
 x11/terminator
 x11/terminology
 x11/wallutils
+x11/wezterm
 x11/wmctrl
 x11/wmfocus
 x11/xascii
