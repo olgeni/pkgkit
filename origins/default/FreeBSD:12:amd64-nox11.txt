@@ -453,7 +453,6 @@ lang/tcl-manual
 lang/tcl-wrapper
 lang/tcl86
 lang/v
-lang/v8
 lang/zig
 mail/alpine
 mail/archmbox
