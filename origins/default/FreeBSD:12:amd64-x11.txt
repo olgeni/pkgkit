@@ -840,6 +840,7 @@ print/ghostscript9-agpl-base
 print/ghostscript9-agpl-x11
 print/gsfonts
 print/libpaper
+print/libraqm
 print/papersize-default-a4
 print/pdf-redact-tools
 print/pdf-tools
