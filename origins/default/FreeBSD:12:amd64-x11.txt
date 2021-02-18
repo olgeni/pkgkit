@@ -1488,6 +1488,7 @@ x11-themes/numix-icon-theme
 x11-themes/numix-icon-theme-circle
 x11-themes/openbox-arc-theme
 x11-themes/plata-theme
+x11-themes/pop-gtk-themes
 x11-toolkits/bwidget
 x11-toolkits/gtk-sharp20
 x11-toolkits/gtk-sharp30
