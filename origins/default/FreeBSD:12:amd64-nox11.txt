@@ -89,6 +89,7 @@ databases/pgbadger
 databases/pgbarman
 databases/pgbouncer
 databases/pgFormatter
+databases/pgloader3
 databases/pglogical
 databases/pgmetrics
 databases/pgsanity
