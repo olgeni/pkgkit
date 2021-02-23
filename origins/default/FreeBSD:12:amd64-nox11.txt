@@ -64,6 +64,7 @@ converters/p5-JSON-PP
 converters/recode
 converters/unix2dos
 databases/arrow
+databases/cockroach
 databases/couchdb2
 databases/foundationdb
 databases/gdbm
