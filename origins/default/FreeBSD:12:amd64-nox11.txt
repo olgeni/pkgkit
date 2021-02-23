@@ -72,6 +72,7 @@ databases/hiredis
 databases/influxdb
 databases/iowow
 databases/libdbi
+databases/litestream
 databases/mariadb104-client
 databases/mariadb104-server
 databases/mdbtools
