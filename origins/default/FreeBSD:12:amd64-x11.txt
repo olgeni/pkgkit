@@ -1215,6 +1215,7 @@ sysutils/vcp
 sysutils/vector
 sysutils/vimpager
 sysutils/virt-what
+sysutils/vivid
 sysutils/vm-bhyve
 sysutils/vmtouch
 sysutils/vttest
