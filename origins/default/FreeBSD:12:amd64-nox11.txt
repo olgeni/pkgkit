@@ -603,6 +603,7 @@ net-mgmt/net-snmp
 net-mgmt/netdata
 net-mgmt/netdata-go
 net-mgmt/prometheus2
+net-mgmt/py-gstat_exporter
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
 net-mgmt/telegraf
