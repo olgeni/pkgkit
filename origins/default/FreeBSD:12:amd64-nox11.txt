@@ -51,6 +51,7 @@ benchmarks/flamegraph
 benchmarks/httperf
 benchmarks/iozone
 benchmarks/iperf
+benchmarks/iperf3
 benchmarks/py-locust
 benchmarks/vegeta
 comms/kermit
