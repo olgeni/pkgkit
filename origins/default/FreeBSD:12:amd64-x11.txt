@@ -952,6 +952,7 @@ shells/fd
 shells/fish
 shells/ksh93
 shells/mksh
+shells/modernish
 shells/oksh
 shells/starship
 shells/viewglob
