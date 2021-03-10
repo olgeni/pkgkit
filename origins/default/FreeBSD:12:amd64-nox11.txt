@@ -613,6 +613,7 @@ net-mgmt/zabbix5-agent
 net-mgmt/zabbix5-frontend
 net-mgmt/zabbix5-proxy
 net-mgmt/zabbix5-server
+net-p2p/openethereum
 net/addrwatch
 net/arping
 net/bosh-bootloader
