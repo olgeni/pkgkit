@@ -127,6 +127,7 @@ databases/py-gdbm
 databases/py-hiredis
 databases/py-litecli
 databases/py-pgcli
+databases/py-pgmigrate
 databases/py-psycopg2
 databases/py-PyGreSQL
 databases/py-redis
