@@ -772,6 +772,7 @@ security/keybase
 security/lynis
 security/md5deep
 security/minisign
+security/ngrok
 security/nmap
 security/openvpn
 security/pam_google_authenticator

@@ -891,6 +891,7 @@ security/keybase
 security/lynis
 security/md5deep
 security/minisign
+security/ngrok
 security/nmap
 security/openssh-askpass
 security/openvpn
