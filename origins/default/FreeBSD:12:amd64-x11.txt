@@ -1130,6 +1130,7 @@ sysutils/p5-App-ZFSCurses
 sysutils/packer
 sysutils/parallel
 sysutils/pdumpfs
+sysutils/pefs-kmod
 sysutils/perp
 sysutils/pfstat
 sysutils/pftop
