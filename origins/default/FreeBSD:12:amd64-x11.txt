@@ -390,6 +390,7 @@ emulators/fuse-utils
 emulators/libspectrum
 emulators/linux-c7
 emulators/open-vm-tools
+emulators/qemu-guest-agent
 emulators/qemu50
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
