@@ -744,6 +744,7 @@ net/eternalterminal
 net/evans
 net/findomain
 net/freerdp
+net/frp
 net/gitup
 net/gnetcat
 net/go-cs
