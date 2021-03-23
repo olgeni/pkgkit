@@ -857,6 +857,7 @@ sysutils/bhyve-firmware
 sysutils/bpytop
 sysutils/bsdcrashtar
 sysutils/bsdstats
+sysutils/bvm
 sysutils/cciss_vol_status
 sysutils/ccze
 sysutils/cdargs
