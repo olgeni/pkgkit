@@ -1394,7 +1394,6 @@ www/py-google-cloud-storage
 www/py-httpie
 www/py-lektor
 www/py-requests
-www/py-starlette
 www/py-uvicorn
 www/slowhttptest
 www/squid
