@@ -361,6 +361,7 @@ emulators/qemu-guest-agent
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
+finance/tickrs
 ftp/bbftp-client
 ftp/bbftp-server
 ftp/curl

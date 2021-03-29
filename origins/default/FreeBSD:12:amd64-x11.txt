@@ -397,6 +397,7 @@ emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
 emulators/x48
+finance/tickrs
 ftp/bbftp-client
 ftp/bbftp-server
 ftp/curl
