@@ -380,6 +380,7 @@ editors/nano
 editors/ne
 editors/o
 editors/pico-alpine
+editors/poke
 editors/tweak
 editors/vim
 editors/with-editor
