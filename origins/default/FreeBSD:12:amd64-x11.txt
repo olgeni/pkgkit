@@ -1328,6 +1328,7 @@ textproc/the_silver_searcher
 textproc/tinyxml
 textproc/ugrep
 textproc/uni
+textproc/up
 textproc/xmlcatmgr
 textproc/xmlcharent
 textproc/xmlstarlet

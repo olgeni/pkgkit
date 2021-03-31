@@ -1190,6 +1190,7 @@ textproc/textql
 textproc/the_silver_searcher
 textproc/ugrep
 textproc/uni
+textproc/up
 textproc/xmlcatmgr
 textproc/xmlcharent
 textproc/xmlstarlet
