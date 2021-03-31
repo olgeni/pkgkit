@@ -215,6 +215,7 @@ devel/git
 devel/git-bug
 devel/git-delta
 devel/git-extras
+devel/gitinspector
 devel/gitlab-runner
 devel/gitlab-shell
 devel/gitleaks
