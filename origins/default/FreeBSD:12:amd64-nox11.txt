@@ -139,6 +139,7 @@ databases/tile38
 databases/tiledb
 databases/timescaledb
 databases/usql
+databases/webdis
 databases/xls2txt
 deskutils/dfshow
 deskutils/dstask
