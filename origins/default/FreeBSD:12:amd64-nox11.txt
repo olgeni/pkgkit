@@ -66,6 +66,7 @@ converters/recode
 converters/unix2dos
 databases/arrow
 databases/cockroach
+databases/couchdb3
 databases/foundationdb
 databases/gdbm
 databases/go-pgweb
