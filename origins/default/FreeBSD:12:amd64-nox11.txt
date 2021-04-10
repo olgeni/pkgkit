@@ -616,6 +616,7 @@ net-mgmt/py-gstat_exporter
 net-mgmt/tcpreplay
 net-mgmt/tcptrack
 net-mgmt/telegraf
+net-mgmt/victoria-metrics
 net-mgmt/whatmask
 net-mgmt/zabbix5-agent
 net-mgmt/zabbix5-frontend
