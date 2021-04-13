@@ -760,6 +760,7 @@ security/acme.sh
 security/acmetool
 security/aespipe
 security/age
+security/apg
 security/assh
 security/autossh
 security/bcwipe
