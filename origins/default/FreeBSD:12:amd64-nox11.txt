@@ -1287,7 +1287,6 @@ www/yarn-node10
 www/yarn-node12
 www/yaws
 www/youtube_dl
-www/youtube_dlc
 www/yt-dlp
 www/zola
 x11/libxcvt
