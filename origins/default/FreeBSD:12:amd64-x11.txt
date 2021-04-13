@@ -151,6 +151,7 @@ databases/timescaledb
 databases/usql
 databases/webdis
 databases/xls2txt
+deskutils/calendar-data
 deskutils/dfshow
 deskutils/dstask
 deskutils/flameshot
