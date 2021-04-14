@@ -719,7 +719,6 @@ net/tcplog_dumper
 net/tcpshow
 net/termshark
 net/traefik
-net/traefik2
 net/trafshow
 net/tsocks
 net/turnserver

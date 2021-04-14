@@ -831,7 +831,6 @@ net/termshark
 net/tigervnc-server
 net/tigervnc-viewer
 net/traefik
-net/traefik2
 net/trafshow
 net/tsocks
 net/turnserver
