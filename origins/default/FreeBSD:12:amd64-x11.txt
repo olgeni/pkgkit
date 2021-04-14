@@ -796,6 +796,7 @@ net/omnitty
 net/openldap24-client
 net/openldap24-server
 net/pacemaker2
+net/pxe-pdhcp
 net/py-amqp
 net/py-kombu
 net/py-libcloud
