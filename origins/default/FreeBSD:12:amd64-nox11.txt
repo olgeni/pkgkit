@@ -855,6 +855,7 @@ shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
 sysutils/acltool
 sysutils/ansible
+sysutils/ansible-sshjail
 sysutils/ansible-sysrc
 sysutils/aptly
 sysutils/atop

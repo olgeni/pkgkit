@@ -980,6 +980,7 @@ shells/zsh-syntax-highlighting
 sysutils/acltool
 sysutils/android-file-transfer
 sysutils/ansible
+sysutils/ansible-sshjail
 sysutils/ansible-sysrc
 sysutils/aptly
 sysutils/atop
