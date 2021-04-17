@@ -12,6 +12,7 @@ archivers/lzip
 archivers/nfpm
 archivers/p7zip
 archivers/parchive
+archivers/pbzip2
 archivers/pigz
 archivers/pixz
 archivers/py-borgbackup
