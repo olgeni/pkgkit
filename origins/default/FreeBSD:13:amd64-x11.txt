@@ -15,6 +15,7 @@ archivers/nfpm
 archivers/p7zip
 archivers/parchive
 archivers/pigz
+archivers/pixz
 archivers/py-borgbackup
 archivers/rar
 archivers/rubygem-fpm
