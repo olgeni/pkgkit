@@ -1061,6 +1061,7 @@ sysutils/reptyr
 sysutils/rest-server
 sysutils/restic
 sysutils/rex
+sysutils/rset
 sysutils/rsfetch
 sysutils/rsyslog8
 sysutils/rubygem-fluentd
