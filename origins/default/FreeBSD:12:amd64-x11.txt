@@ -636,6 +636,7 @@ misc/rpl
 misc/seq2
 misc/shc
 misc/tdfiglet
+misc/termatrix
 misc/ttyrec
 misc/unclutter
 misc/vifm

@@ -551,6 +551,7 @@ misc/rpl
 misc/seq2
 misc/shc
 misc/tdfiglet
+misc/termatrix
 misc/ttyrec
 misc/vifm
 misc/window
