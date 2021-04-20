@@ -1094,6 +1094,7 @@ sysutils/gsmartcontrol
 sysutils/hatop
 sysutils/hcloud
 sysutils/helm
+sysutils/herbe
 sysutils/hexpeek
 sysutils/hextools
 sysutils/hexyl
