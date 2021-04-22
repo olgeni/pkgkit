@@ -362,6 +362,7 @@ dns/coredns
 dns/dnsmasq
 dns/dnstop
 dns/dnsutl
+dns/doggo
 dns/maradns
 dns/py-dnspython
 editors/aee
