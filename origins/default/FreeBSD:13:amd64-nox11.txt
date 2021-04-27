@@ -1263,6 +1263,7 @@ www/npm-node10
 www/npm-node12
 www/oauth2-proxy
 www/oneshot
+www/owncast
 www/phalcon4
 www/pomerium
 www/py-boto3
