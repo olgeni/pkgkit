@@ -1268,6 +1268,7 @@ sysutils/xpipe
 sysutils/yadm
 sysutils/yank
 sysutils/zap
+sysutils/zellij
 sysutils/zetaback
 sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
