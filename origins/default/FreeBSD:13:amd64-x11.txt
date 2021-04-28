@@ -1306,6 +1306,7 @@ textproc/fzf
 textproc/fzy
 textproc/git-chglog
 textproc/gnugrep
+textproc/go-md2man
 textproc/gsed
 textproc/hs-pandoc
 textproc/hunspell
