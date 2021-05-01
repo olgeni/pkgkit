@@ -530,8 +530,8 @@ lang/mono
 lang/nim
 lang/nx
 lang/perl5.32
-lang/php73
-lang/php73-extensions
+lang/php74
+lang/php74-extensions
 lang/purescript
 lang/py-hy
 lang/python
