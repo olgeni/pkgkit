@@ -1538,6 +1538,7 @@ x11-themes/numix-icon-theme-circle
 x11-themes/openbox-arc-theme
 x11-themes/plata-theme
 x11-themes/pop-gtk-themes
+x11-themes/pop-icon-theme
 x11-themes/qogir-icon-themes
 x11-themes/yaru-icon-theme
 x11-toolkits/bwidget
