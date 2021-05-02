@@ -776,7 +776,7 @@ security/ca_root_nss
 security/cfssl
 security/clamav
 security/dehydrated
-security/denyhosts@py37
+security/denyhosts@py38
 security/doas
 security/easy-rsa
 security/expiretable
@@ -1250,7 +1250,7 @@ www/mattermost-server
 www/mattermost-webapp
 www/minio
 www/minio-client
-www/mod_wsgi4@py37
+www/mod_wsgi4@py38
 www/mod_xsendfile
 www/moinmoin
 www/moinmoincli
