@@ -1525,6 +1525,7 @@ x11-servers/xorg-vfbserver
 x11-themes/adwaita-icon-theme
 x11-themes/ant-dracula-theme
 x11-themes/canta-gtk-themes
+x11-themes/canta-icon-theme
 x11-themes/flat-remix-gtk-themes
 x11-themes/flat-remix-icon-themes
 x11-themes/greybird-theme
