@@ -1205,6 +1205,7 @@ sysutils/rubygem-fluentd
 sysutils/rubygem-tmuxinator
 sysutils/rundeck3
 sysutils/runit
+sysutils/runj
 sysutils/s6
 sysutils/s6-rc
 sysutils/samefile
