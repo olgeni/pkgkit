@@ -758,6 +758,7 @@ net/evans
 net/findomain
 net/freerdp
 net/frp
+net/gemserv
 net/gitup
 net/gnetcat
 net/go-cs

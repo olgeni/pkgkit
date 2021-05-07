@@ -652,6 +652,7 @@ net/eternalterminal
 net/evans
 net/findomain
 net/frp
+net/gemserv
 net/gitup
 net/gnetcat
 net/go-cs
