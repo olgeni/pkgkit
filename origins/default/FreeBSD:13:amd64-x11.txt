@@ -1009,6 +1009,7 @@ sysutils/cdargs
 sysutils/cdrkit
 sysutils/cdrtools
 sysutils/checkrestart
+sysutils/chezmoi
 sysutils/clone
 sysutils/conan
 sysutils/conky
