@@ -696,7 +696,6 @@ net-im/jicofo
 net-im/jitsi-videobridge
 net-im/matterhorn
 net-im/oysttyer
-net-im/pidgin
 net-im/prosody
 net-im/prosody-modules
 net-im/py-python-telegram-bot
