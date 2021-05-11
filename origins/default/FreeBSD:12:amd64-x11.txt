@@ -692,7 +692,6 @@ multimedia/v4l_compat
 multimedia/vlc
 multimedia/x264
 multimedia/xvid
-net-im/finch
 net-im/jicofo
 net-im/jitsi-videobridge
 net-im/matterhorn
