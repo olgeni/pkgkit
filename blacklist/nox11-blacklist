@@ -1,6 +1,7 @@
 accessibility/atk
 audio/gstreamer-plugins-mad
 audio/gstreamer-plugins-mp3
+audio/pulseaudio
 devel/libnotify
 devel/m17n-lib
 graphics/freeglut
