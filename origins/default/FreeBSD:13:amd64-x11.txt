@@ -1425,6 +1425,7 @@ www/py-httpie
 www/py-lektor
 www/py-requests
 www/py-uvicorn
+www/pydio-cells
 www/slowhttptest
 www/squid
 www/tclhttpd
