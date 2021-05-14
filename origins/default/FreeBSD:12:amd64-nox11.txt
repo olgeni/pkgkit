@@ -60,6 +60,7 @@ comms/kermit
 comms/lrzsz
 comms/mgetty+sendfax
 comms/py-pyserial
+comms/syncterm
 comms/tio
 converters/base64
 converters/mpack
