@@ -1352,6 +1352,7 @@ textproc/tinyxml
 textproc/ugrep
 textproc/uni
 textproc/up
+textproc/xlnt
 textproc/xmlcatmgr
 textproc/xmlcharent
 textproc/xmlstarlet
