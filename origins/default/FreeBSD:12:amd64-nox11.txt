@@ -719,6 +719,7 @@ net/shelldap
 net/socat
 net/sslh
 net/subnetcalc
+net/syncthing
 net/tableutil
 net/tcludp
 net/tcplog_dumper
