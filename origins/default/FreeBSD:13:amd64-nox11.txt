@@ -45,6 +45,7 @@ audio/shntool
 audio/soundtouch
 audio/sox
 audio/twolame
+audio/vban
 audio/virtual_oss
 audio/wavpack
 benchmarks/ali
