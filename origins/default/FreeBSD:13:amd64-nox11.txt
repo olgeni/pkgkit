@@ -1291,6 +1291,7 @@ www/py-uvicorn
 www/pydio-cells
 www/slowhttptest
 www/squid
+www/srt
 www/tclhttpd
 www/tdom
 www/tidy
