@@ -1451,6 +1451,7 @@ www/wuzz
 www/yarn
 www/yarn-node10
 www/yarn-node12
+www/yarn-node14
 www/yaws
 www/youtube_dl
 www/yt-dlp
