@@ -1348,6 +1348,7 @@ textproc/qr
 textproc/redisearch
 textproc/ripgrep
 textproc/rubygem-docdiff
+textproc/slowcat
 textproc/texi2html
 textproc/textql
 textproc/the_silver_searcher
