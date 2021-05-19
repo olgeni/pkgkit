@@ -895,6 +895,7 @@ sysutils/consul
 sysutils/consul-alerts
 sysutils/consul-replicate
 sysutils/container-diff
+sysutils/containerd
 sysutils/coreutils
 sysutils/cpdup
 sysutils/cpuid
