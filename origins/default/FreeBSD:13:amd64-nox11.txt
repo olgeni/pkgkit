@@ -627,10 +627,10 @@ net-mgmt/telegraf
 net-mgmt/victoria-metrics
 net-mgmt/vmutils
 net-mgmt/whatmask
-net-mgmt/zabbix5-agent
-net-mgmt/zabbix5-frontend
-net-mgmt/zabbix5-proxy
-net-mgmt/zabbix5-server
+net-mgmt/zabbix54-agent
+net-mgmt/zabbix54-frontend
+net-mgmt/zabbix54-proxy
+net-mgmt/zabbix54-server
 net-p2p/openethereum
 net/addrwatch
 net/arping
