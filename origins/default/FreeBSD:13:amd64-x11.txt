@@ -1605,6 +1605,7 @@ x11/rofi
 x11/rofi-calc
 x11/showmethekey
 x11/slop
+x11/srandrd
 x11/terminator
 x11/terminology
 x11/wallutils
