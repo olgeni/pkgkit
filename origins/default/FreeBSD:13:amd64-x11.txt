@@ -912,6 +912,7 @@ security/md5deep
 security/minisign
 security/ngrok
 security/nmap
+security/openconnect-freebsd-daemon
 security/openssh-askpass
 security/openvpn
 security/pam_google_authenticator
