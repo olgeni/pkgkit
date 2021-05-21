@@ -1590,6 +1590,7 @@ x11/grabc
 x11/gromit-mpx
 x11/hhpc
 x11/inputplug
+x11/kitty
 x11/libxcvt
 x11/lightdm
 x11/lightdm-gtk-greeter
