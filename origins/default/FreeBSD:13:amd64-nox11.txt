@@ -791,6 +791,7 @@ security/gnupg1
 security/gnutls
 security/ipsec-tools
 security/keybase
+security/libreswan
 security/lynis
 security/md5deep
 security/minisign
