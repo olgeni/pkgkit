@@ -383,6 +383,7 @@ games/ascii-invaders
 games/asciiquarium
 games/bastet
 games/bsdgames
+games/nbsdgames
 games/nInvaders
 games/nsnake
 games/tty-solitaire

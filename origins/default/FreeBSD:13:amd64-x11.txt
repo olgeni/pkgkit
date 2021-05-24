@@ -422,6 +422,7 @@ games/bastet
 games/bsdgames
 games/bzflag
 games/cdogs-sdl
+games/nbsdgames
 games/nInvaders
 games/nsnake
 games/oolite
