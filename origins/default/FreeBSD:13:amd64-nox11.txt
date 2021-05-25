@@ -882,6 +882,7 @@ sysutils/beats7
 sysutils/bfs
 sysutils/bhyve-firmware
 sysutils/bpytop
+sysutils/brename
 sysutils/bsdcrashtar
 sysutils/bsdstats
 sysutils/bvm
