@@ -1409,6 +1409,7 @@ www/moinmoin
 www/moinmoincli
 www/newsboat
 www/nginx
+www/nginx-full
 www/nginx-vts-exporter
 www/nift
 www/node
