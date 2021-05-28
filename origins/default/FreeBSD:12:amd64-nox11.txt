@@ -1316,6 +1316,7 @@ www/w3m
 www/websocat
 www/websocketd
 www/wuzz
+www/xh
 www/yarn
 www/yarn-node10
 www/yarn-node12
