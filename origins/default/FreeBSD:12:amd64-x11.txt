@@ -915,6 +915,7 @@ security/minisign
 security/ngrok
 security/nmap
 security/openconnect-freebsd-daemon
+security/openiked-portable
 security/openssh-askpass
 security/openvpn
 security/pam_google_authenticator
