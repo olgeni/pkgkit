@@ -286,7 +286,6 @@ devel/py-google-crc32c
 devel/py-ipaddr
 devel/py-isodate
 devel/py-Jinja2
-devel/py-jupyter_client
 devel/py-jupyter_console
 devel/py-jupyterlab
 devel/py-jupyterlab_launcher
