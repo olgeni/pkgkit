@@ -388,6 +388,7 @@ games/bsdgames
 games/nbsdgames
 games/nInvaders
 games/nsnake
+games/robotfindskitten
 games/tty-solitaire
 graphics/cbonsai
 graphics/exif

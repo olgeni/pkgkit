@@ -429,6 +429,7 @@ games/nInvaders
 games/nsnake
 games/oolite
 games/powder-toy
+games/robotfindskitten
 games/tty-solitaire
 games/xscavenger
 graphics/cbonsai
