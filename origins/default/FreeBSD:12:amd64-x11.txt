@@ -353,6 +353,7 @@ devel/tmake
 devel/universal-ctags
 devel/uthash
 devel/xorg-macros
+devel/yaegi
 devel/yajl-tcl
 devel/yasm
 devel/zookeeper
