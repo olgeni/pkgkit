@@ -597,6 +597,7 @@ multimedia/termplay
 multimedia/ustreamer
 multimedia/v4l_compat
 multimedia/vlc
+multimedia/webcamd
 multimedia/x264
 multimedia/xvid
 net-im/matterhorn
