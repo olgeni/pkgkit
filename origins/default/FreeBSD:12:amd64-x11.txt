@@ -909,6 +909,7 @@ security/ffuf
 security/gnupg
 security/gnupg1
 security/gnutls
+security/gpg-tui
 security/ipsec-tools
 security/keepassxc
 security/keybase
