@@ -1115,6 +1115,7 @@ sysutils/terraform
 sysutils/terraform-docs
 sysutils/terraform-switcher
 sysutils/terragrunt
+sysutils/tflint
 sysutils/tlsdate
 sysutils/tmate
 sysutils/tmate-ssh-server
