@@ -642,6 +642,7 @@ misc/py-pexpect
 misc/rpl
 misc/seq2
 misc/shc
+misc/slides
 misc/tdfiglet
 misc/termatrix
 misc/ttyrec
