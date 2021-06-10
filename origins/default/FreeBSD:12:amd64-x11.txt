@@ -392,6 +392,7 @@ editors/ne
 editors/o
 editors/pico-alpine
 editors/poke
+editors/rehex
 editors/tweak
 editors/vim
 editors/with-editor
