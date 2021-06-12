@@ -417,6 +417,7 @@ ftp/filezilla
 ftp/lftp
 ftp/ncftp3
 ftp/netdumpd
+ftp/sftpgo
 ftp/tftp-hpa
 ftp/wget
 games/alienwave
