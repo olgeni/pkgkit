@@ -969,6 +969,7 @@ sysutils/fusefs-s3fs
 sysutils/fusefs-smbnetfs
 sysutils/fusefs-sshfs
 sysutils/gaffitter
+sysutils/gdu
 sysutils/genisoimage
 sysutils/getssl
 sysutils/gitwatch

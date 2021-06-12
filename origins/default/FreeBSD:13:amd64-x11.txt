@@ -1097,6 +1097,7 @@ sysutils/fusefs-smbnetfs
 sysutils/fusefs-sshfs
 sysutils/gaffitter
 sysutils/gconf-editor
+sysutils/gdu
 sysutils/genisoimage
 sysutils/getssl
 sysutils/gitwatch
