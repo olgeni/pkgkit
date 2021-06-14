@@ -318,6 +318,7 @@ devel/stack
 devel/subversion
 devel/swig
 devel/taskctl
+devel/tclcheck
 devel/tcllib
 devel/tcllibc
 devel/tclreadline
