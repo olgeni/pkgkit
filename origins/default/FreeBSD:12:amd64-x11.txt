@@ -368,6 +368,7 @@ dns/dnstop
 dns/dnsutl
 dns/doggo
 dns/maradns
+dns/py-dns-crawler
 dns/py-dnspython
 editors/aee
 editors/biew
