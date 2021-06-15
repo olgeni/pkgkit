@@ -613,6 +613,7 @@ net-mgmt/argus3
 net-mgmt/argus3-clients
 net-mgmt/arpscan
 net-mgmt/bandwhich
+net-mgmt/bind_exporter
 net-mgmt/bosun
 net-mgmt/bsnmp-regex
 net-mgmt/bsnmp-ucd
