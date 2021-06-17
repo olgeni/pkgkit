@@ -1262,7 +1262,6 @@ www/gohugo
 www/googlebook_dl
 www/gophernicus
 www/gotty
-www/grafana7
 www/grafana8
 www/gurl
 www/gwsocket
