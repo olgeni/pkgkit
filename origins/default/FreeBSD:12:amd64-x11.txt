@@ -1585,6 +1585,7 @@ x11-toolkits/wxgtk28
 x11-toolkits/wxgtk28-common
 x11-toolkits/wxgtk28-contrib
 x11-toolkits/wxgtk28-contrib-common
+x11-toolkits/wxgtk31
 x11-wm/awesome
 x11-wm/awesome-vicious
 x11-wm/compton
