@@ -1581,7 +1581,6 @@ x11-toolkits/py-tkinter
 x11-toolkits/tk-wrapper
 x11-toolkits/tk86
 x11-toolkits/unique
-x11-toolkits/wxgtk28-common
 x11-toolkits/wxgtk28-contrib
 x11-toolkits/wxgtk28-contrib-common
 x11-toolkits/wxgtk31
