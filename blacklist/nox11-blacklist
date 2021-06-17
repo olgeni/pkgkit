@@ -25,6 +25,7 @@ x11-fonts/libXft
 x11-toolkits/qt5-gui
 x11-toolkits/qt5-quick
 x11-toolkits/wxgtk30
+x11-toolkits/wxgtk31
 x11/compositeproto
 x11/damageproto
 x11/dri2proto
