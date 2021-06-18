@@ -615,6 +615,7 @@ misc/bestfit
 misc/boxes
 misc/buffer
 misc/cheat
+misc/clifm
 misc/cloc
 misc/cpuid
 misc/cstream
