@@ -626,6 +626,7 @@ net-mgmt/grepcidr
 net-mgmt/iftop
 net-mgmt/ipcalc
 net-mgmt/iprange
+net-mgmt/jnettop
 net-mgmt/libsmi
 net-mgmt/lldpd
 net-mgmt/net-snmp
