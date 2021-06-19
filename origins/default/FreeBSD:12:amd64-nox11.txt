@@ -377,6 +377,7 @@ finance/tickrs
 ftp/bbftp-client
 ftp/bbftp-server
 ftp/curl
+ftp/freebsd-ftpd
 ftp/lftp
 ftp/ncftp3
 ftp/netdumpd
