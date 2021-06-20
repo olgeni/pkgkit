@@ -1160,6 +1160,7 @@ sysutils/mcfly
 sysutils/megacli
 sysutils/memtester
 sysutils/minipot
+sysutils/mog
 sysutils/monit
 sysutils/moreutils
 sysutils/most
