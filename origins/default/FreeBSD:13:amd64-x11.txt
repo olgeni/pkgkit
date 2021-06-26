@@ -247,6 +247,7 @@ devel/kBuild
 devel/kerl
 devel/lazygit
 devel/libev
+devel/libmodi
 devel/libpdel
 devel/libtool
 devel/libvirt
