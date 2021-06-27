@@ -1473,7 +1473,6 @@ www/websocketd
 www/wuzz
 www/xh
 www/yarn
-www/yarn-node10
 www/yarn-node14
 www/yaws
 www/youtube_dl
