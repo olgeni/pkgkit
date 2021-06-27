@@ -1431,7 +1431,6 @@ www/nginx-full
 www/nginx-vts-exporter
 www/nift
 www/node
-www/node10
 www/node14
 www/novnc
 www/npm
