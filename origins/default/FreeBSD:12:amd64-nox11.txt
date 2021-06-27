@@ -1293,7 +1293,6 @@ www/node10
 www/node14
 www/novnc
 www/npm
-www/npm-node10
 www/npm-node14
 www/oauth2-proxy
 www/oneshot
