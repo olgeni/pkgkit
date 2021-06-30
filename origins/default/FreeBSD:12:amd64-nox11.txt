@@ -809,6 +809,7 @@ security/libreswan
 security/lynis
 security/md5deep
 security/minisign
+security/nebula
 security/ngrok
 security/nmap
 security/openconnect-freebsd-daemon
