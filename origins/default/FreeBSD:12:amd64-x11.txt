@@ -1631,6 +1631,7 @@ x11/wallutils
 x11/wezterm
 x11/wmctrl
 x11/wmfocus
+x11/x-on-resize
 x11/xascii
 x11/xautolock
 x11/xbanish
