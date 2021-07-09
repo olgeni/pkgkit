@@ -668,6 +668,7 @@ net/endlessh
 net/eternalterminal
 net/evans
 net/findomain
+net/freebsd-telnetd
 net/frp
 net/gemserv
 net/gitup

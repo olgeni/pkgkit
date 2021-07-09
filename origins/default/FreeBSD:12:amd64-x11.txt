@@ -770,6 +770,7 @@ net/endlessh
 net/eternalterminal
 net/evans
 net/findomain
+net/freebsd-telnetd
 net/freerdp
 net/frp
 net/gemserv
