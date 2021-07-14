@@ -913,6 +913,7 @@ security/certmgr
 security/cfssl
 security/clamav
 security/crowdsec
+security/crowdsec-firewall-bouncer
 security/dehydrated
 security/denyhosts@py38
 security/doas
