@@ -793,6 +793,7 @@ security/binwalk
 security/bsmtrace
 security/bsmtrace3
 security/ca_root_nss
+security/certmgr
 security/cfssl
 security/clamav
 security/dehydrated
