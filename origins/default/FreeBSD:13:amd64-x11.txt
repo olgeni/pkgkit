@@ -912,6 +912,7 @@ security/ca_root_nss
 security/certmgr
 security/cfssl
 security/clamav
+security/crowdsec
 security/dehydrated
 security/denyhosts@py38
 security/doas
