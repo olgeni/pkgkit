@@ -793,6 +793,7 @@ net/isc-dhcp44-server
 net/jose
 net/kafka
 net/keycloak
+net/krill
 net/kube-controller-manager
 net/kube-scheduler
 net/lft

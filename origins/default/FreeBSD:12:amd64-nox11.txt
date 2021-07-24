@@ -687,6 +687,7 @@ net/ifstated
 net/ipsvd
 net/isc-dhcp44-server
 net/jose
+net/krill
 net/kube-controller-manager
 net/kube-scheduler
 net/lft
