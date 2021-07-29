@@ -809,7 +809,6 @@ security/ffuf
 security/gnupg
 security/gnupg1
 security/gnutls
-security/gpg-tui
 security/ipsec-tools
 security/keybase
 security/libreswan
