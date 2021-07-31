@@ -1311,6 +1311,7 @@ sysutils/zfstools
 sysutils/znapzend
 sysutils/zrep
 sysutils/zrepl
+sysutils/ztop
 sysutils/zxfer
 textproc/aha
 textproc/align
