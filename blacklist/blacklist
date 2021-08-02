@@ -57,7 +57,6 @@ print/tex-formats
 print/tex-jadetex
 print/texlive-base
 print/texlive-texmf
-security/cyrus-sasl2
 security/openssl
 textproc/openjade
 www/apache22
