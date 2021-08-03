@@ -1054,6 +1054,7 @@ sysutils/cpupdate
 sysutils/cronolog
 sysutils/daemonize
 sysutils/daemontools-encore
+sysutils/damager
 sysutils/dar
 sysutils/dcfldd
 sysutils/ddrescue
