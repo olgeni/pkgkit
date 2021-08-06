@@ -845,6 +845,7 @@ net/sdl_net
 net/sendemail
 net/shelldap
 net/socat
+net/socketpipe
 net/sslh
 net/subnetcalc
 net/syncthing

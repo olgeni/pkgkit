@@ -737,6 +737,7 @@ net/samba413
 net/sendemail
 net/shelldap
 net/socat
+net/socketpipe
 net/sslh
 net/subnetcalc
 net/syncthing
