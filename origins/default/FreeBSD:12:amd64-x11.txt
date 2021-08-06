@@ -838,6 +838,7 @@ net/read_bbrlog
 net/redir
 net/relayd
 net/rinetd
+net/rospo
 net/rsync
 net/samba413
 net/sdl_net
