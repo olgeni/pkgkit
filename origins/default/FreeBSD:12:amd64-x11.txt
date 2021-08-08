@@ -856,6 +856,7 @@ net/tcpshow
 net/termshark
 net/tigervnc-server
 net/tigervnc-viewer
+net/torsocks
 net/traefik
 net/trafshow
 net/tsocks

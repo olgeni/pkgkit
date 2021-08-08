@@ -746,6 +746,7 @@ net/tcludp
 net/tcplog_dumper
 net/tcpshow
 net/termshark
+net/torsocks
 net/traefik
 net/trafshow
 net/tsocks
