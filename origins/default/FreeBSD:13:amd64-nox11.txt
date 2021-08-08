@@ -872,6 +872,7 @@ security/stunnel
 security/sudo
 security/teleport
 security/tinc
+security/tor
 security/vault
 security/vlock
 security/vuxml
