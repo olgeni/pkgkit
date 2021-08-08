@@ -1448,6 +1448,7 @@ www/npm
 www/npm-node14
 www/oauth2-proxy
 www/oneshot
+www/onionshare
 www/owncast
 www/phalcon4
 www/pomerium
