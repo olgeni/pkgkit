@@ -1282,6 +1282,7 @@ www/grafana8
 www/gurl
 www/gwsocket
 www/hs-postgrest
+www/janus
 www/jitsi-meet
 www/lighttpd
 www/links
