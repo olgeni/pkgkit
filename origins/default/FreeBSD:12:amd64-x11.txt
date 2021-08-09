@@ -438,6 +438,7 @@ games/oolite
 games/powder-toy
 games/robotfindskitten
 games/tty-solitaire
+games/vt100-art-and-animations
 games/xscavenger
 graphics/cbonsai
 graphics/exif
