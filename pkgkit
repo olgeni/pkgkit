@@ -21,7 +21,7 @@ package_blacklist()
 
 package_build()
 {
-    if [ -z "${_disable_clean}" ]; then
+    if [ -n "${_enable_clean}" ]; then
         sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
     fi
 
@@ -154,7 +154,7 @@ while true; do
             shift
             ;;
         -C)
-            _disable_clean=YES
+            _enable_clean=YES
             shift
             ;;
         -v)
@@ -180,7 +180,7 @@ done
 : ${_local_pull:=""}
 : ${_remote_push:=""}
 : ${_remote_pull:=""}
-: ${_disable_clean:=""}
+: ${_enable_clean:=""}
 : ${JOBS:=${DEFAULT_JOBS}}
 
 for _config in "$@"; do
