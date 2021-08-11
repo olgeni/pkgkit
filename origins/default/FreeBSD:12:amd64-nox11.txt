@@ -2,6 +2,7 @@
 # devel/mercurial
 # devel/valgrind
 # misc/concourse
+# multimedia/mkvtoolnix
 # net-mgmt/crmsh
 # security/mcrypt
 # shells/lshell
@@ -591,7 +592,6 @@ multimedia/mencoder
 multimedia/mjpegtools
 multimedia/mkclean
 multimedia/mkvalidator
-multimedia/mkvtoolnix
 multimedia/mp4v2
 multimedia/mpgtx
 multimedia/mplayer
