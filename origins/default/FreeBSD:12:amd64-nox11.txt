@@ -131,6 +131,7 @@ databases/py-redis
 databases/py-south
 databases/recutils
 databases/redis
+databases/redisjson
 databases/retcl
 databases/rrdtool
 databases/slony1v2
