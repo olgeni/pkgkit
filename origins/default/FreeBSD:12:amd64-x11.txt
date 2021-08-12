@@ -512,6 +512,7 @@ lang/c
 lang/chaiscript
 lang/chez-scheme
 lang/cling
+lang/clisp
 lang/clojure
 lang/crystal
 lang/cython

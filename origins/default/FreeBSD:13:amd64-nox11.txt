@@ -439,6 +439,7 @@ graphics/webp
 lang/c
 lang/chaiscript
 lang/cling
+lang/clisp
 lang/crystal
 lang/cython
 lang/ecl
