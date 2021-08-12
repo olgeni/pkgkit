@@ -1024,6 +1024,7 @@ sysutils/ipget
 sysutils/ipmitool
 sysutils/istio
 sysutils/jail_exporter
+sysutils/jailme
 sysutils/jps
 sysutils/kops
 sysutils/kubectl
