@@ -1631,7 +1631,6 @@ x11/libxcvt
 x11/lightdm
 x11/lightdm-gtk-greeter
 x11/lightdm-gtk-greeter-settings
-x11/lightdm-slick-greeter
 x11/listres
 x11/lsw
 x11/mate
