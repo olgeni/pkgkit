@@ -98,6 +98,7 @@ databases/pg_citus
 databases/pg_ed25519
 databases/pg_hashids
 databases/pg_repack
+databases/pg_stat_kcache
 databases/pgadmin3
 databases/pgbackrest
 databases/pgbadger
