@@ -12,8 +12,6 @@ CURDIR=$(dirname $0)
 
 : ${POUDRIERE_VERBOSE:=""}
 
-DEFAULT_JOBS=$(sysctl -n kern.smp.cpus)
-
 package_blacklist()
 {
     ${CURDIR}/scan-blacklist -z ${PACKAGE_SET} -b ${BUILD_EXCLUDE_ROOT}/${PACKAGE_SET}-blacklist -f ${PACKAGE_ORIGIN}
@@ -25,7 +23,7 @@ package_build()
         sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
     fi
 
-    sudo poudriere bulk ${POUDRIERE_VERBOSE} -J ${JOBS} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+    sudo poudriere bulk ${POUDRIERE_VERBOSE} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
 }
 
 package_clean()
@@ -161,10 +159,6 @@ while true; do
             POUDRIERE_VERBOSE="-vv"
             shift
             ;;
-        -J)
-            JOBS=$2
-            shift; shift
-            ;;
         --)
             shift
             break
@@ -181,7 +175,6 @@ done
 : ${_remote_push:=""}
 : ${_remote_pull:=""}
 : ${_enable_clean:=""}
-: ${JOBS:=${DEFAULT_JOBS}}
 
 for _config in "$@"; do
     # reset
@@ -210,10 +203,6 @@ for _config in "$@"; do
     else
         PACKAGE_REMOTE_TARGET=""
     fi
-
-    # if [ ! -e ${PKG_TXZ} ]; then
-    #     sudo poudriere bulk -J ${JOBS} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} ports-mgmt/pkg
-    # fi
 
     if [ -n "${_perform_blacklist}" ]; then
         package_blacklist
