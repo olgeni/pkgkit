@@ -970,6 +970,7 @@ sysutils/entr
 sysutils/envconsul
 sysutils/exa
 sysutils/exfat-utils
+sysutils/f2
 sysutils/facter
 sysutils/fd
 sysutils/fdupes
