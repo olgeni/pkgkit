@@ -417,6 +417,7 @@ emulators/x48
 finance/tickrs
 ftp/bbftp-client
 ftp/bbftp-server
+ftp/bsdftpd-ssl
 ftp/curl
 ftp/filezilla
 ftp/freebsd-ftpd

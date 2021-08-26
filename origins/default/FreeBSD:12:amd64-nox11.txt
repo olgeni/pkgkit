@@ -381,6 +381,7 @@ emulators/virtualbox-ose-kmod
 finance/tickrs
 ftp/bbftp-client
 ftp/bbftp-server
+ftp/bsdftpd-ssl
 ftp/curl
 ftp/freebsd-ftpd
 ftp/lftp
