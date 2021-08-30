@@ -934,6 +934,7 @@ security/gnupg
 security/gnupg1
 security/gnutls
 security/gpg-tui
+security/hashcat
 security/ipsec-tools
 security/keepassxc
 security/keybase

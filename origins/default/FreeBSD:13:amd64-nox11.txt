@@ -817,6 +817,7 @@ security/ffuf
 security/gnupg
 security/gnupg1
 security/gnutls
+security/hashcat
 security/ipsec-tools
 security/keybase
 security/libreswan
