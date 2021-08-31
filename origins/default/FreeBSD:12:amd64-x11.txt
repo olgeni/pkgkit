@@ -933,6 +933,7 @@ security/ffuf
 security/gnupg
 security/gnupg1
 security/gnutls
+security/gopass
 security/gpg-tui
 security/hashcat
 security/ipsec-tools
