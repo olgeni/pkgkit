@@ -371,7 +371,7 @@ editors/o
 editors/pico-alpine
 editors/poke
 editors/tweak
-editors/vim
+editors/vim@console
 editors/with-editor@nox
 emulators/open-vm-tools
 emulators/qemu-guest-agent

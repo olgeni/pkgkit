@@ -399,7 +399,7 @@ editors/pico-alpine
 editors/poke
 editors/rehex
 editors/tweak
-editors/vim
+editors/vim@gtk3
 editors/with-editor
 emulators/dosbox
 emulators/fuse
