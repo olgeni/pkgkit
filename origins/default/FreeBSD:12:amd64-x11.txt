@@ -263,6 +263,7 @@ devel/mdb
 devel/myrepos
 devel/nasm
 devel/newfile
+devel/notcurses
 devel/nuitka
 devel/objconv
 devel/p5-Module-CoreList
