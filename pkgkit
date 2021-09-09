@@ -44,6 +44,7 @@ package_local_push()
          --delete           \
          --inplace          \
          --max-delete=1000  \
+	 --exclude=logs     \
          ${PACKAGE_SOURCE}/ \
          ${PACKAGE_LOCAL_TARGET}/
 }
@@ -73,6 +74,7 @@ package_local_pull()
          --delete                 \
          --inplace                \
          --max-delete=1000        \
+	 --exclude=logs           \
          ${PACKAGE_LOCAL_TARGET}/ \
          ${PACKAGE_SOURCE}/
 }
