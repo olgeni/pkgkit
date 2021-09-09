@@ -619,6 +619,7 @@ math/py-matplotlib
 math/py-networkx
 math/py-numpy
 math/qalculate
+math/R
 math/suitesparse
 math/zegrapher
 misc/bestfit

@@ -538,6 +538,7 @@ math/mpfr
 math/py-matplotlib
 math/py-networkx
 math/py-numpy
+math/R
 math/suitesparse
 misc/bestfit
 misc/boxes
