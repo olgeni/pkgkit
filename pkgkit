@@ -115,7 +115,7 @@ package_remote_pull()
          ${PACKAGE_LOCAL_TARGET}/
 }
 
-args=`getopt xbcesSrRCvJ: $*`
+args=`getopt xbcesSrRCv $*`
 
 set -- $args
 
