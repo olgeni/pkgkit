@@ -385,6 +385,7 @@ editors/dhex
 editors/emacs
 editors/fileobj
 editors/ghex
+editors/helix
 editors/heme
 editors/hexcurse
 editors/hexedit

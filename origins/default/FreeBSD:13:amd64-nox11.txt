@@ -358,6 +358,7 @@ editors/chexedit
 editors/dhex
 editors/emacs@nox
 editors/fileobj
+editors/helix
 editors/heme
 editors/hexcurse
 editors/hexedit
