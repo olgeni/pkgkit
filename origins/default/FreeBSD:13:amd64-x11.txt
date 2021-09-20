@@ -232,6 +232,7 @@ devel/gmake
 devel/go-glide
 devel/go-tools
 devel/gogs
+devel/goreleaser
 devel/goswagger
 devel/gradle
 devel/gsoap

@@ -214,6 +214,7 @@ devel/gmake
 devel/go-glide
 devel/go-tools
 devel/gogs
+devel/goreleaser
 devel/goswagger
 devel/gsoap
 devel/hexd
