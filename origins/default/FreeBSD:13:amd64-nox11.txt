@@ -53,6 +53,7 @@ benchmarks/ali
 benchmarks/filebench
 benchmarks/flamegraph
 benchmarks/httperf
+benchmarks/iorate
 benchmarks/iozone
 benchmarks/iperf
 benchmarks/iperf3
