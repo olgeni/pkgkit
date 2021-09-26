@@ -437,6 +437,7 @@ graphics/py-blockdiagcontrib-cisco
 graphics/py-nwdiag
 graphics/py-seqdiag
 graphics/py-webcolors
+graphics/rlottie
 graphics/scr2png
 graphics/svgalib
 graphics/tesseract
