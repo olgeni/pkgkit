@@ -285,6 +285,7 @@ devel/py-msgpack
 devel/py-mypy
 devel/py-nose
 devel/py-ordereddict
+devel/py-pdm
 devel/py-pika
 devel/py-pip
 devel/py-pipdeptree
