@@ -944,6 +944,7 @@ sysutils/container-diff
 sysutils/containerd
 sysutils/coreutils
 sysutils/cpdup
+sysutils/cpufetch
 sysutils/cpuid
 sysutils/cpupdate
 sysutils/cronolog
