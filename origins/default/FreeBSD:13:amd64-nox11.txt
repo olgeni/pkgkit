@@ -1101,6 +1101,7 @@ sysutils/py-glances
 sysutils/py-google-compute-engine
 sysutils/py-jailconf
 sysutils/py-mitogen
+sysutils/py-prometheus-zfs
 sysutils/py-psutil
 sysutils/py-python-consul
 sysutils/py-python-nomad
