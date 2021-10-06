@@ -1018,6 +1018,7 @@ sysutils/gomi
 sysutils/google-compute-engine-oslogin
 sysutils/gotop
 sysutils/grub2-bhyve
+sysutils/gstat-rs
 sysutils/hatop
 sysutils/hcloud
 sysutils/helm

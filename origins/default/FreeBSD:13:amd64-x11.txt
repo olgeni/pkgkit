@@ -1149,6 +1149,7 @@ sysutils/gotop
 sysutils/graylog
 sysutils/grub2-bhyve
 sysutils/gsmartcontrol
+sysutils/gstat-rs
 sysutils/hatop
 sysutils/hcloud
 sysutils/helm
