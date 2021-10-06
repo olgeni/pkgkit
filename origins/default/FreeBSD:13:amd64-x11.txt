@@ -29,6 +29,7 @@ audio/audacity
 audio/aumix
 audio/beep
 audio/cdparanoia
+audio/dsbmixer
 audio/flac
 audio/icecast
 audio/icecast-kh
