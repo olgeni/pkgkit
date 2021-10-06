@@ -1096,6 +1096,7 @@ sysutils/docker-compose
 sysutils/docker-machine
 sysutils/doctl
 sysutils/downtimed
+sysutils/dsbwrtsysctl
 sysutils/dtpstree
 sysutils/dtrace-toolkit
 sysutils/dua-cli
