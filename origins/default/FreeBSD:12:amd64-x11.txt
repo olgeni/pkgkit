@@ -37,6 +37,7 @@ audio/id3v2
 audio/lame
 audio/libaudiofile
 audio/madplay
+audio/mixertui
 audio/mp3gain
 audio/mp3splt
 audio/mp3val
