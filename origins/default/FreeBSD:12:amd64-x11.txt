@@ -1376,6 +1376,7 @@ textproc/gnugrep
 textproc/go-md2man
 textproc/gsed
 textproc/hs-pandoc
+textproc/htmlq
 textproc/hunspell
 textproc/icdiff
 textproc/igor
