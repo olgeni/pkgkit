@@ -1346,6 +1346,7 @@ sysutils/ztop
 sysutils/zxfer
 textproc/aha
 textproc/align
+textproc/angle-grinder
 textproc/ansifilter
 textproc/asciidoc
 textproc/aspell
