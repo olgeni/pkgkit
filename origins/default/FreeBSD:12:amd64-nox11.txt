@@ -581,6 +581,7 @@ misc/shc
 misc/slides
 misc/tdfiglet
 misc/termatrix
+misc/timetrace
 misc/ttyrec
 misc/vifm
 misc/window

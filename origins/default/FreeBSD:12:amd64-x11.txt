@@ -668,6 +668,7 @@ misc/shc
 misc/slides
 misc/tdfiglet
 misc/termatrix
+misc/timetrace
 misc/ttyrec
 misc/unclutter
 misc/vifm
