@@ -752,6 +752,7 @@ net-mgmt/lldpd
 net-mgmt/net-snmp
 net-mgmt/netdata
 net-mgmt/netdata-go
+net-mgmt/php-fpm_exporter
 net-mgmt/prometheus2
 net-mgmt/py-gstat_exporter
 net-mgmt/riemann
