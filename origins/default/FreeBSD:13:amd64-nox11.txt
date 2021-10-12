@@ -204,6 +204,7 @@ devel/gdb
 devel/gindent
 devel/git
 devel/git-bug
+devel/git-cvs
 devel/git-delta
 devel/git-extras
 devel/gitinspector
