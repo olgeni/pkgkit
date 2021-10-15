@@ -147,6 +147,7 @@ databases/tdb
 databases/tile38
 databases/tiledb
 databases/timescaledb
+databases/timescaledb-backup
 databases/timescaledb-tune
 databases/usql
 databases/webdis
