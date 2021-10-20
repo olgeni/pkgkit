@@ -1301,6 +1301,7 @@ www/apache24
 www/aria2
 www/caddy
 www/chisel
+www/civetweb
 www/csstidy
 www/deno
 www/elinks
