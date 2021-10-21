@@ -240,6 +240,7 @@ devel/glab
 devel/gmake
 devel/go-glide
 devel/go-tools
+devel/gocritic
 devel/gogs
 devel/goreleaser
 devel/goswagger
