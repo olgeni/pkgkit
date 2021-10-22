@@ -408,6 +408,7 @@ games/ascii-invaders
 games/asciiquarium
 games/bastet
 games/bsdgames
+games/cavezofphear
 games/nbsdgames
 games/nInvaders
 games/nsnake
