@@ -669,6 +669,7 @@ misc/mbuffer
 misc/mc
 misc/nnn
 misc/patchutils
+misc/pdmenu
 misc/ptsort
 misc/py-crudini
 misc/py-pexpect
