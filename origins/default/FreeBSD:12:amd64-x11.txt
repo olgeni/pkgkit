@@ -1067,6 +1067,7 @@ sysutils/bpytop
 sysutils/brename
 sysutils/bsdcrashtar
 sysutils/bsdstats
+sysutils/bulk_extractor
 sysutils/bvm
 sysutils/cciss_vol_status
 sysutils/ccze
