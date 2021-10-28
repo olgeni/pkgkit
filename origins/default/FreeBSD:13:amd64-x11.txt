@@ -451,7 +451,6 @@ games/bzflag
 games/cavezofphear
 games/cdogs-sdl
 games/nbsdgames
-games/nInvaders
 games/nsnake
 games/oolite
 games/powder-toy
