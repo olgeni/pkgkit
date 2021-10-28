@@ -905,6 +905,7 @@ security/tinc
 security/tor
 security/vault
 security/vlock
+security/vpnc
 security/vuxml
 security/xinetd
 shells/bash

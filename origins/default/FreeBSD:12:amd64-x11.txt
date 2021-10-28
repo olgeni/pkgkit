@@ -1029,6 +1029,7 @@ security/tor
 security/vault
 security/veracrypt
 security/vlock
+security/vpnc
 security/vuxml
 security/xinetd
 shells/ammonite
