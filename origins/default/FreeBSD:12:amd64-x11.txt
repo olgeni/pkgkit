@@ -1155,7 +1155,6 @@ sysutils/gconf-editor
 sysutils/gdu
 sysutils/genisoimage
 sysutils/getssl
-sysutils/gitwatch
 sysutils/glow
 sysutils/go-wtf
 sysutils/goaccess
