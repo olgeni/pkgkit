@@ -1191,7 +1191,6 @@ sysutils/usbtop
 sysutils/uschedule
 sysutils/usermin
 sysutils/vagrant
-sysutils/vcp
 sysutils/vector
 sysutils/vimpager
 sysutils/virt-what
