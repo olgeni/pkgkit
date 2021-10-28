@@ -863,7 +863,6 @@ net/py-wsdd
 net/rabbitmq
 net/rclone
 net/rdesktop
-net/read_bbrlog
 net/redir
 net/relayd
 net/rinetd

@@ -753,7 +753,6 @@ net/py-urllib3
 net/py-wsdd
 net/rabbitmq
 net/rclone
-net/read_bbrlog
 net/redir
 net/relayd
 net/rinetd
