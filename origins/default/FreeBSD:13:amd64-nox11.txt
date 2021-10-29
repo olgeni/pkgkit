@@ -1347,7 +1347,6 @@ www/npm-node14
 www/oauth2-proxy
 www/oneshot
 www/owncast
-www/phalcon4
 www/pomerium
 www/py-boto3
 www/py-bottle

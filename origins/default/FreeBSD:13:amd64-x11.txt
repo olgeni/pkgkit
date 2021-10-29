@@ -1491,7 +1491,6 @@ www/oauth2-proxy
 www/oneshot
 www/onionshare
 www/owncast
-www/phalcon4
 www/pomerium
 www/py-boto3
 www/py-bottle
