@@ -1010,6 +1010,7 @@ sysutils/fluent-bit
 sysutils/fpart
 sysutils/frand
 sysutils/freeipmi
+sysutils/fsc
 sysutils/fselect
 sysutils/fusefs-bindfs
 sysutils/fusefs-exfat
