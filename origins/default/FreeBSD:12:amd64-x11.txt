@@ -1433,6 +1433,7 @@ textproc/tinyxml
 textproc/ugrep
 textproc/uni
 textproc/up
+textproc/vgrep
 textproc/xlnt
 textproc/xmlcatmgr
 textproc/xmlcharent
