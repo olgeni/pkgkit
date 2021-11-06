@@ -1,6 +1,5 @@
 databases/mysql56-client
 databases/mysql56-server
-databases/postgresql-cstore_fdw
 databases/postgresql10-contrib
 databases/postgresql10-docs
 databases/postgresql10-pgtcl
