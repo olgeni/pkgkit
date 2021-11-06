@@ -1215,6 +1215,7 @@ sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
 sysutils/zfstools
 sysutils/znapzend
+sysutils/zpool-iostat-viz
 sysutils/zrep
 sysutils/zrepl
 sysutils/ztop
