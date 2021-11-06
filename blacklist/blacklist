@@ -39,7 +39,6 @@ lang/ruby25
 lang/ruby26
 lang/tcl87
 multimedia/asdcplib
-net/corosync3
 net/gtk-vnc
 net/libgweather
 net/samba410
