@@ -970,6 +970,7 @@ sysutils/dcfldd
 sysutils/ddrescue
 sysutils/detox
 sysutils/devcpu-data
+sysutils/devcpu-data-amd
 sysutils/devcpu-data-intel
 sysutils/devstat
 sysutils/dfc
