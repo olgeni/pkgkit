@@ -1339,6 +1339,7 @@ www/mattermost-server
 www/mattermost-webapp
 www/minio
 www/minio-client
+www/mod_evasive
 www/mod_qos
 www/mod_wsgi4@py38
 www/mod_xsendfile
