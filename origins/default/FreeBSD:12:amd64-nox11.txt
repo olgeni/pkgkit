@@ -459,6 +459,7 @@ lang/clisp
 lang/crystal
 lang/cython
 lang/ecl
+lang/eisl
 lang/elixir
 lang/elm
 lang/erlang
