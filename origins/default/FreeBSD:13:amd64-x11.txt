@@ -1497,6 +1497,7 @@ www/node14
 www/novnc
 www/npm
 www/npm-node14
+www/npm-node16
 www/npm-node17
 www/oauth2-proxy
 www/oneshot
