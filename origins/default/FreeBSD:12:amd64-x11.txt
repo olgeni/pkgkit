@@ -458,7 +458,6 @@ games/robotfindskitten
 games/tty-solitaire
 games/vt100-art-and-animations
 games/xscavenger
-graphics/cbonsai
 graphics/exif
 graphics/frei0r
 graphics/gd

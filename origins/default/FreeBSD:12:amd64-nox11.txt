@@ -414,7 +414,6 @@ games/nsnake
 games/robotfindskitten
 games/tty-solitaire
 games/vt100-art-and-animations
-graphics/cbonsai
 graphics/exif
 graphics/frei0r
 graphics/gd
