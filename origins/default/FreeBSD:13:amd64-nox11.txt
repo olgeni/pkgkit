@@ -388,7 +388,6 @@ editors/vim@console
 editors/with-editor@nox
 emulators/open-vm-tools
 emulators/qemu-guest-agent
-emulators/qemu5
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
