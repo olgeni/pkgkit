@@ -1531,6 +1531,7 @@ www/w3m
 www/webkit2-gtk3
 www/websocat
 www/websocketd
+www/wget2
 www/wuzz
 www/xh
 www/yarn

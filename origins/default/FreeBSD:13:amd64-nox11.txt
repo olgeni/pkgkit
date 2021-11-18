@@ -1388,6 +1388,7 @@ www/varnish4
 www/w3m
 www/websocat
 www/websocketd
+www/wget2
 www/wuzz
 www/xh
 www/yarn
