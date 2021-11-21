@@ -1389,6 +1389,7 @@ www/websocat
 www/websocketd
 www/wget2
 www/wuzz
+www/xcaddy
 www/xh
 www/yarn
 www/yarn-node14
