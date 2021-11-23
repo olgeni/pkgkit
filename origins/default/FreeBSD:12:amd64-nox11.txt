@@ -793,6 +793,7 @@ ports-mgmt/lsknobs
 ports-mgmt/modules2tuple
 ports-mgmt/pkg
 ports-mgmt/pkg_rmleaves
+ports-mgmt/portconfig
 ports-mgmt/portfmt
 ports-mgmt/portgrep
 ports-mgmt/portlint
