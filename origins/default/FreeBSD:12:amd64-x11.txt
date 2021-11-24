@@ -972,6 +972,7 @@ security/minisign
 security/nebula
 security/ngrok
 security/nmap
+security/openconnect
 security/openconnect-freebsd-daemon
 security/openiked-portable
 security/openssh-askpass
