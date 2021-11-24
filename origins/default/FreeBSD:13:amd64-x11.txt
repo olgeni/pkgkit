@@ -975,6 +975,7 @@ security/ngrok
 security/nmap
 security/openconnect
 security/openconnect-freebsd-daemon
+security/openconnect-gui
 security/openiked-portable
 security/openssh-askpass
 security/openvpn
