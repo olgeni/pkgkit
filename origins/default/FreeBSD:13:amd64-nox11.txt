@@ -424,6 +424,7 @@ graphics/giflib
 graphics/gifski
 graphics/gocr
 graphics/gphoto2
+graphics/GraphicsMagick
 graphics/hiptext
 graphics/icoutils
 graphics/ImageMagick6
