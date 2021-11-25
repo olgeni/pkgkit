@@ -452,6 +452,7 @@ graphics/svgalib
 graphics/tesseract
 graphics/tiff
 graphics/ttyplot
+graphics/vips
 graphics/webp
 lang/c
 lang/chaiscript

@@ -508,6 +508,7 @@ graphics/sxiv
 graphics/tesseract
 graphics/tiff
 graphics/ttyplot
+graphics/vips
 graphics/webp
 graphics/xaos
 graphics/xfig
