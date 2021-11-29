@@ -1113,6 +1113,7 @@ sysutils/pipemeter
 sysutils/pnscan
 sysutils/pot
 sysutils/potnet
+sysutils/procenv
 sysutils/pstree
 sysutils/pv
 sysutils/pwgen
