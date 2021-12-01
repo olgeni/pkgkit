@@ -1261,6 +1261,7 @@ textproc/fzy
 textproc/git-chglog
 textproc/gnugrep
 textproc/go-md2man
+textproc/gojq
 textproc/gsed
 textproc/hs-pandoc
 textproc/htmlq
