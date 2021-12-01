@@ -914,6 +914,7 @@ security/vlock
 security/vpnc
 security/vuxml
 security/xinetd
+security/zaproxy
 shells/bash
 shells/elvish
 shells/fd

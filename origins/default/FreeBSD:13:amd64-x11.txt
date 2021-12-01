@@ -1038,6 +1038,7 @@ security/vlock
 security/vpnc
 security/vuxml
 security/xinetd
+security/zaproxy
 shells/ammonite
 shells/bash
 shells/elvish
