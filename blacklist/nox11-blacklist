@@ -22,6 +22,7 @@ x11-fonts/fontcacheproto
 x11-fonts/fontsproto
 x11-fonts/libXfont
 x11-fonts/libXft
+x11-toolkits/gtk20
 x11-toolkits/qt5-gui
 x11-toolkits/qt5-quick
 x11-toolkits/wxgtk30
