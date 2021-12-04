@@ -1340,6 +1340,7 @@ sysutils/uschedule
 sysutils/usermin
 sysutils/vagrant
 sysutils/vector
+sysutils/viddy
 sysutils/vimpager
 sysutils/virt-what
 sysutils/vivid
