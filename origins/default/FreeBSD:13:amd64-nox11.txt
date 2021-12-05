@@ -1408,5 +1408,6 @@ www/yaws
 www/youtube_dl
 www/yt-dlp
 www/zola
+x11/bemenu
 x11/libxcvt
 x11/xtermcontrol

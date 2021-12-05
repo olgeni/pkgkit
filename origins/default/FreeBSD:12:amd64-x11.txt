@@ -1680,6 +1680,7 @@ x11-wm/xcompmgr
 x11-wm/xfce4
 x11/admiral
 x11/albert
+x11/bemenu
 x11/cde
 x11/cool-retro-term
 x11/editres
