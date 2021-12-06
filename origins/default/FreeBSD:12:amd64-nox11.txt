@@ -1099,6 +1099,7 @@ sysutils/nsysctl
 sysutils/ntfy
 sysutils/ohmu
 sysutils/opa
+sysutils/open
 sysutils/p5-App-ZFSCurses
 sysutils/packer
 sysutils/parallel
