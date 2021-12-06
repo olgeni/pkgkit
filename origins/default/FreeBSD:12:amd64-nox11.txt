@@ -787,6 +787,7 @@ net/vnstat
 net/wireguard
 net/wireshark
 net/wol
+net/zerotier
 net/zsync
 net/zyre
 ports-mgmt/bsdadminscripts2
