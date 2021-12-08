@@ -333,6 +333,7 @@ devel/rubygem-irb
 devel/scons
 devel/shflags
 devel/shfmt
+devel/soft-serve
 devel/stack
 devel/subversion
 devel/swig
