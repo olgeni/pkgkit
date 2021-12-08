@@ -223,6 +223,7 @@ devel/go-glide
 devel/go-tools
 devel/gocritic
 devel/gogs
+devel/gopls
 devel/goreleaser
 devel/goswagger
 devel/gsoap
