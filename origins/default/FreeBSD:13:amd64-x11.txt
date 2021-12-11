@@ -7,6 +7,7 @@
 # shells/lshell
 accessibility/redshift
 accessibility/sct
+archivers/7-zip
 archivers/gcpio
 archivers/gtar
 archivers/innoextract
