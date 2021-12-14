@@ -432,6 +432,7 @@ emulators/qemu5
 emulators/virtualbox-ose
 emulators/virtualbox-ose-additions
 emulators/virtualbox-ose-kmod
+emulators/vt100
 emulators/x48
 finance/tickrs
 ftp/bbftp-client
