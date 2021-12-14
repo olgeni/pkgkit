@@ -815,7 +815,6 @@ print/ghostscript9-agpl-base
 print/libpaper
 print/libraqm
 print/papersize-default-a4
-print/pdf-redact-tools
 print/pdflib
 print/py-fonttools3
 print/ttfautohint
