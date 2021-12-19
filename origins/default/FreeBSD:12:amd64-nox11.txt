@@ -109,7 +109,6 @@ databases/pgmetrics
 databases/pgsanity
 databases/pgtop
 databases/plpgsql_check
-databases/postgis31
 databases/postgis32
 databases/postgresql-cstore_fdw
 databases/postgresql-plproxy
