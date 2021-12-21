@@ -460,6 +460,7 @@ games/nsnake
 games/oolite
 games/powder-toy
 games/robotfindskitten
+games/tmatrix
 games/tty-solitaire
 games/vt100-art-and-animations
 games/xscavenger

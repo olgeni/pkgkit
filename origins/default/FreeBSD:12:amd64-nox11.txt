@@ -417,6 +417,7 @@ games/cavezofphear
 games/nbsdgames
 games/nsnake
 games/robotfindskitten
+games/tmatrix
 games/tty-solitaire
 games/vt100-art-and-animations
 graphics/exif
