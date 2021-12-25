@@ -577,6 +577,7 @@ misc/figlet
 misc/figlet-fonts
 misc/findutils
 misc/fortune-mod-freebsd-classic
+misc/fq
 misc/getopt
 misc/gnu-watch
 misc/help2man
