@@ -1,4 +1,11 @@
-sysutils/gitwatch
+databases/pgloader3
+devel/py-frictionless
+graphics/hiptext
+net-mgmt/riemann
+security/crowdsec
+security/crowdsec-firewall-bouncer
+www/phalcon4
+
 audio/esound
 databases/evolution-data-server
 devel/doxygen
@@ -57,6 +64,7 @@ print/tex-jadetex
 print/texlive-base
 print/texlive-texmf
 security/openssl
+sysutils/gitwatch
 textproc/openjade
 www/apache22
 x11-toolkits/libbonoboui
