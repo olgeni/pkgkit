@@ -1681,6 +1681,7 @@ x11-wm/nscde
 x11-wm/obconf
 x11-wm/obconf-qt
 x11-wm/openbox
+x11-wm/sawfish
 x11-wm/twm
 x11-wm/vtwm
 x11-wm/windowmaker
