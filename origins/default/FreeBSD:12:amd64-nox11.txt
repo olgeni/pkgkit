@@ -1286,6 +1286,7 @@ textproc/libxslt
 textproc/libyaml
 textproc/markdown
 textproc/markdownfmt
+textproc/mergestat
 textproc/miller
 textproc/nuspell
 textproc/p5-ack
