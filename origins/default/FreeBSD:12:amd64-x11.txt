@@ -1714,6 +1714,7 @@ x11/nvidia-settings
 x11/rgb
 x11/rofi
 x11/rofi-calc
+x11/sddm
 x11/showmethekey
 x11/slick-greeter
 x11/slop
