@@ -4,7 +4,6 @@ graphics/hiptext
 net-mgmt/riemann
 security/crowdsec
 security/crowdsec-firewall-bouncer
-www/phalcon4
 
 audio/esound
 databases/evolution-data-server
@@ -67,6 +66,7 @@ security/openssl
 sysutils/gitwatch
 textproc/openjade
 www/apache22
+www/phalcon4
 x11-toolkits/libbonoboui
 x11-toolkits/swt-devel
 x11/gnome-desktop
