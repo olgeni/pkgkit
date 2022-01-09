@@ -1301,6 +1301,7 @@ textproc/py-docx2txt
 textproc/py-jc
 textproc/py-libxml2
 textproc/py-markdown2
+textproc/py-mkdocs
 textproc/py-ocrmypdf
 textproc/py-python-augeas
 textproc/py-xmldiff
