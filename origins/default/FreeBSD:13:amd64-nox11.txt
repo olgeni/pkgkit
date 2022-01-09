@@ -1302,6 +1302,7 @@ textproc/py-jc
 textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-mkdocs
+textproc/py-mkdocs-material
 textproc/py-mkdocs-nature
 textproc/py-ocrmypdf
 textproc/py-python-augeas
