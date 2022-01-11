@@ -853,6 +853,7 @@ net/ngrep
 net/nload
 net/nsq
 net/nss_ldap
+net/oha
 net/omnitty
 net/openldap24-client
 net/openldap24-server
