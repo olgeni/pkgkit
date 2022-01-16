@@ -232,6 +232,7 @@ devel/hexd
 devel/hs-cabal-install
 devel/hs-hpack
 devel/hs-ShellCheck
+devel/ice
 devel/icu
 devel/include-what-you-use
 devel/interactive_rebase_tool
