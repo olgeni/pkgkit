@@ -425,6 +425,7 @@ games/vt100-art-and-animations
 graphics/cbonsai
 graphics/exif
 graphics/frei0r
+graphics/fusefs-gphotofs
 graphics/gd
 graphics/giflib
 graphics/gifski
