@@ -1637,6 +1637,7 @@ x11-fonts/sourceserifpro-ttf
 x11-fonts/spleen
 x11-fonts/steps-mono
 x11-fonts/stix-fonts
+x11-fonts/sudo-font
 x11-fonts/terminus-font
 x11-fonts/terminus-ttf
 x11-fonts/ubuntu-font
