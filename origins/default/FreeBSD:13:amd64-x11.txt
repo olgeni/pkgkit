@@ -1348,6 +1348,7 @@ sysutils/tty-clock
 sysutils/ttyd
 sysutils/ttyload
 sysutils/ufs_copy
+sysutils/unetbootin
 sysutils/usbtop
 sysutils/uschedule
 sysutils/usermin
