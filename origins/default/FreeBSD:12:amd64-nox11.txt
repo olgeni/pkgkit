@@ -68,6 +68,7 @@ comms/py-pyserial
 comms/syncterm
 comms/tio
 converters/base64
+converters/dumpasn1
 converters/mpack
 converters/p5-JSON-PP
 converters/recode
