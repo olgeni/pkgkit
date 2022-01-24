@@ -832,6 +832,7 @@ security/acme.sh
 security/acmetool
 security/aespipe
 security/age
+security/aide
 security/apg
 security/assh
 security/autossh
