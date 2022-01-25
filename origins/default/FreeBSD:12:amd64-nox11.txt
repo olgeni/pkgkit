@@ -823,6 +823,7 @@ print/libpaper
 print/libraqm
 print/papersize-default-a4
 print/pdflib
+print/py-fonttools
 print/ttfautohint
 science/py-scipy
 security/2fa
