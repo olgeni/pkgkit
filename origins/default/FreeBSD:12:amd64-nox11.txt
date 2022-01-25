@@ -1139,6 +1139,7 @@ sysutils/py-dirsync
 sysutils/py-focker
 sysutils/py-glances
 sysutils/py-google-compute-engine
+sysutils/py-ioztat
 sysutils/py-jailconf
 sysutils/py-mitogen
 sysutils/py-prometheus-zfs
