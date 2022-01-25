@@ -943,7 +943,6 @@ print/papersize-default-a4
 print/pdf-redact-tools
 print/pdf-tools
 print/pdflib
-print/py-fonttools3
 print/ttfautohint
 science/py-scipy
 security/2fa
