@@ -917,6 +917,7 @@ security/step-cli
 security/strongswan
 security/stunnel
 security/sudo
+security/tailscale
 security/teleport
 security/tinc
 security/tor
