@@ -1528,6 +1528,7 @@ www/nginx-vts-exporter
 www/nift
 www/node
 www/node14
+www/node16
 www/novnc
 www/npm
 www/npm-node14
