@@ -1360,6 +1360,7 @@ www/gwsocket
 www/hs-postgrest
 www/janus
 www/jitsi-meet
+www/jwt-cli
 www/lighttpd
 www/links
 www/lychee
