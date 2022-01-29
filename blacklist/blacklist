@@ -1,9 +1,12 @@
+math/py-networkx
+ports-mgmt/porttree
+
+# devel/py-frictionless
+# net-mgmt/riemann
+# security/crowdsec
+# security/crowdsec-firewall-bouncer
 databases/pgloader3
-devel/py-frictionless
 graphics/hiptext
-net-mgmt/riemann
-security/crowdsec
-security/crowdsec-firewall-bouncer
 
 audio/esound
 databases/evolution-data-server
