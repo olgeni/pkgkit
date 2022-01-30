@@ -786,10 +786,6 @@ net-mgmt/telegraf
 net-mgmt/victoria-metrics
 net-mgmt/vmutils
 net-mgmt/whatmask
-net-mgmt/zabbix54-agent
-net-mgmt/zabbix54-frontend
-net-mgmt/zabbix54-proxy
-net-mgmt/zabbix54-server
 net-p2p/openethereum
 net/addrwatch
 net/arping
@@ -1666,6 +1662,7 @@ x11-themes/flat-remix-gtk-themes
 x11-themes/flat-remix-icon-themes
 x11-themes/greybird-theme
 x11-themes/icon-naming-utils
+x11-themes/la-capitaine-icon-theme
 x11-themes/matcha-gtk-themes
 x11-themes/mate-icon-theme-faenza
 x11-themes/nordic-theme
