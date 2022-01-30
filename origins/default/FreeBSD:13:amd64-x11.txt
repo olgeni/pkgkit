@@ -1725,6 +1725,7 @@ x11/lightdm-gtk-greeter
 x11/lightdm-gtk-greeter-settings
 x11/listres
 x11/lsw
+x11/lumina
 x11/mate
 x11/nvidia-driver
 x11/nvidia-driver-390
