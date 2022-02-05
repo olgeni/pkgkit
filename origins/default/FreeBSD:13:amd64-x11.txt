@@ -186,6 +186,7 @@ devel/apache-ant
 devel/arcanist
 devel/asmjit
 devel/astyle
+devel/atlantis
 devel/autoconf
 devel/autoconf-wrapper
 devel/automake
