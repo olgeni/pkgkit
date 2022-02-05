@@ -1324,6 +1324,7 @@ sysutils/shuf
 sysutils/smart
 sysutils/smartmontools
 sysutils/smenu
+sysutils/smug
 sysutils/snooze
 sysutils/socklog
 sysutils/spinner
