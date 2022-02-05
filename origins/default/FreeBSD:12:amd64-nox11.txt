@@ -959,6 +959,7 @@ sysutils/brename
 sysutils/bsdcrashtar
 sysutils/bsdstats
 sysutils/bulk_extractor
+sysutils/bupstash
 sysutils/bvm
 sysutils/cciss_vol_status
 sysutils/ccze
