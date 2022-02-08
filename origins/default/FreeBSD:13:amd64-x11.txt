@@ -1564,6 +1564,7 @@ www/typo3-10
 www/uwsgi
 www/uwsgitop
 www/varnish4
+www/vultr-cli
 www/w3m
 www/webkit2-gtk3
 www/websocat
