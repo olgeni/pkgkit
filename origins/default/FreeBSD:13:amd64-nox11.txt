@@ -1362,6 +1362,7 @@ www/jitsi-meet
 www/jwt-cli
 www/lighttpd
 www/links
+www/lux
 www/lychee
 www/lynx
 www/mattermost-server
