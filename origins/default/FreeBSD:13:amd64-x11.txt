@@ -1480,7 +1480,6 @@ textproc/xmlto
 textproc/xsv-rs
 textproc/ydiff
 textproc/yq
-www/annie
 www/apache24
 www/aria2
 www/caddy
