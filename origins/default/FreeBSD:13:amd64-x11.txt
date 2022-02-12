@@ -818,6 +818,7 @@ net/gitup
 net/gnetcat
 net/go-cs
 net/google-cloud-sdk
+net/gorss
 net/grpcox
 net/grpcui
 net/grpcurl
