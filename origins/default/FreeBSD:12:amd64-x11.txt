@@ -175,6 +175,7 @@ deskutils/noti
 deskutils/sowon
 deskutils/sysctlview
 deskutils/taskwarrior
+deskutils/taskwarrior-tui
 deskutils/terminal-image-viewer
 deskutils/timewarrior
 deskutils/treesheets

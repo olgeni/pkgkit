@@ -160,6 +160,7 @@ deskutils/dstask
 deskutils/gcal
 deskutils/gcalcli
 deskutils/taskwarrior
+deskutils/taskwarrior-tui
 deskutils/terminal-image-viewer
 deskutils/timewarrior
 deskutils/ultralist
