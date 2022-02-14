@@ -1168,6 +1168,7 @@ sysutils/reptyr
 sysutils/rest-server
 sysutils/restic
 sysutils/rex
+sysutils/rocinante
 sysutils/rset
 sysutils/rsfetch
 sysutils/rsyslog8
