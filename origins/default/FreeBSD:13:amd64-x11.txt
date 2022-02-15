@@ -999,6 +999,7 @@ security/pam_google_authenticator
 security/pam_ldap
 security/pam_mkhomedir
 security/pam_ssh_agent_auth
+security/passh
 security/pinentry
 security/pkcs11-tools
 security/py-acme
