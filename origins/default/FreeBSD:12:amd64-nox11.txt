@@ -958,6 +958,7 @@ sysutils/beats7
 sysutils/bfs
 sysutils/bhyve-firmware
 sysutils/bhyve+
+sysutils/bkt
 sysutils/bpytop
 sysutils/brename
 sysutils/bsdcrashtar
