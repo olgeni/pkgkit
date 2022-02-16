@@ -1059,6 +1059,7 @@ sysutils/goawk
 sysutils/gomi
 sysutils/google-compute-engine-oslogin
 sysutils/gotop
+sysutils/govmomi
 sysutils/grub2-bhyve
 sysutils/gstat-rs
 sysutils/hatop

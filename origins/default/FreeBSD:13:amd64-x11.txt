@@ -1193,6 +1193,7 @@ sysutils/goawk
 sysutils/gomi
 sysutils/google-compute-engine-oslogin
 sysutils/gotop
+sysutils/govmomi
 sysutils/graylog
 sysutils/grub2-bhyve
 sysutils/gsmartcontrol
