@@ -909,6 +909,7 @@ security/scrypt
 security/sequoia
 security/signify
 security/softether
+security/ssh-tools
 security/ssh-vault
 security/sshpass
 security/ssss
