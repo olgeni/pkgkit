@@ -1651,7 +1651,6 @@ x11-fonts/psftools
 x11-fonts/roboto-fonts-ttf
 x11-fonts/sharefonts
 x11-fonts/sourcecodepro-ttf
-x11-fonts/sourcesanspro-ttf
 x11-fonts/sourceserifpro-ttf
 x11-fonts/spleen
 x11-fonts/steps-mono
