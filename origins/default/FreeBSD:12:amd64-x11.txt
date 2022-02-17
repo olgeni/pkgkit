@@ -181,6 +181,7 @@ deskutils/timewarrior
 deskutils/treesheets
 deskutils/ultralist
 deskutils/xcalendar
+devel/ammonite
 devel/android-tools-adb
 devel/android-tools-fastboot
 devel/apache-ant
