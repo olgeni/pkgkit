@@ -856,6 +856,7 @@ security/gnupg1
 security/gnutls
 security/gopass
 security/hashcat
+security/headscale
 security/ipsec-tools
 security/keybase
 security/libreswan
