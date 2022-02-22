@@ -761,6 +761,7 @@ net/py-magic-wormhole
 net/py-maxminddb
 net/py-pyzmq
 net/py-s3cmd
+net/py-s4cmd
 net/py-smart-open
 net/py-speedtest-cli
 net/py-urllib3
