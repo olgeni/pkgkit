@@ -1709,6 +1709,7 @@ x11-wm/ctwm
 x11-wm/cwm
 x11-wm/fvwm2
 x11-wm/fvwm3
+x11-wm/icewm
 x11-wm/nscde
 x11-wm/obconf
 x11-wm/obconf-qt
