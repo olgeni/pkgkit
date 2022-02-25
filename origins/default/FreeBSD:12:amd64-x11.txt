@@ -1231,6 +1231,7 @@ sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
 sysutils/libfvde
+sysutils/libtree
 sysutils/lnav
 sysutils/logstash7
 sysutils/lsblk

@@ -1095,6 +1095,7 @@ sysutils/lbl-cf
 sysutils/lbl-hf
 sysutils/libchk
 sysutils/libfvde
+sysutils/libtree
 sysutils/lnav
 sysutils/lsblk
 sysutils/lscpu
