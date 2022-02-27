@@ -651,6 +651,7 @@ math/py-matplotlib
 math/py-networkx
 math/py-numpy
 math/qalculate
+math/qalculate-qt
 math/R
 math/suitesparse
 math/zegrapher
