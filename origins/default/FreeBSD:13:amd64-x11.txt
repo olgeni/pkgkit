@@ -850,6 +850,7 @@ net/mosquitto
 net/mpd5
 net/mtr
 net/multicat
+net/nats-nkeys
 net/nats-server
 net/nats-streaming-server
 net/nats-top
