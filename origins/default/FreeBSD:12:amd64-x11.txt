@@ -854,6 +854,7 @@ net/nats-nsc
 net/nats-server
 net/nats-streaming-server
 net/nats-top
+net/natscli
 net/ncp
 net/ngrep
 net/nload
