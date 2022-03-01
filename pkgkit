@@ -23,7 +23,7 @@ package_build()
         sudo poudriere pkgclean -y -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
     fi
 
-    sudo poudriere bulk ${POUDRIERE_VERBOSE} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN}
+    sudo poudriere bulk ${POUDRIERE_VERBOSE} -j ${PACKAGE_JAIL} -p ${PACKAGE_TREE} -z ${PACKAGE_SET} -f ${PACKAGE_ORIGIN} -b latest
 }
 
 package_clean()
