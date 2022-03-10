@@ -159,6 +159,7 @@ deskutils/dfshow
 deskutils/dstask
 deskutils/gcal
 deskutils/gcalcli
+deskutils/taskd
 deskutils/taskwarrior
 deskutils/taskwarrior-tui
 deskutils/terminal-image-viewer
