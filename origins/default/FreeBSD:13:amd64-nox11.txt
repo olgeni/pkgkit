@@ -1322,6 +1322,7 @@ textproc/py-autopep8
 textproc/py-chardet
 textproc/py-docx2txt
 textproc/py-jc
+textproc/py-jinja2-cli
 textproc/py-libxml2
 textproc/py-markdown2
 textproc/py-mkdocs
