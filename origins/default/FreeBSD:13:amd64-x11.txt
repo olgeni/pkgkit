@@ -1733,6 +1733,7 @@ x11/albert
 x11/bemenu
 x11/cde
 x11/cool-retro-term
+x11/eaglemode
 x11/editres
 x11/evtest
 x11/find-cursor
