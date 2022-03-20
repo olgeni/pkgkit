@@ -1553,6 +1553,7 @@ www/npm-node17
 www/oauth2-proxy
 www/oneshot
 www/onionshare
+www/openresty
 www/owncast
 www/pomerium
 www/py-boto3
