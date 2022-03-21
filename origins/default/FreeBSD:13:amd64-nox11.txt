@@ -1125,6 +1125,7 @@ sysutils/nq
 sysutils/nsysctl
 sysutils/ntfy
 sysutils/ohmu
+sysutils/onefetch
 sysutils/opa
 sysutils/open
 sysutils/p5-App-ZFSCurses
