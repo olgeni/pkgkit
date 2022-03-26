@@ -1602,6 +1602,7 @@ www/zola
 x11-clocks/xalarm
 x11-clocks/xclock
 x11-drivers/xorgxrdp
+x11-fm/polo
 x11-fm/rox-filer
 x11-fm/thunar
 x11-fm/wcmcommander
