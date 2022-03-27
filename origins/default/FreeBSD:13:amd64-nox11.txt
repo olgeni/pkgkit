@@ -1434,6 +1434,7 @@ www/uwsgi
 www/uwsgitop
 www/varnish4
 www/varnish6
+www/varnish7
 www/vultr-cli
 www/w3m
 www/websocat
