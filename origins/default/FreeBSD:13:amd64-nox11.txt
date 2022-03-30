@@ -1279,6 +1279,7 @@ textproc/csvq
 textproc/datamash
 textproc/diff-so-fancy
 textproc/diffstat
+textproc/difftastic
 textproc/docbook
 textproc/docbook-sgml
 textproc/docbook-xml
