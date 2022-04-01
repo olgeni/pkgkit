@@ -830,6 +830,7 @@ net/gsocket
 net/guacamole-server
 net/haproxy
 net/hexinject
+net/hping3
 net/ifstat
 net/ifstated
 net/ipsvd
