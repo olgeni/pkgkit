@@ -266,6 +266,7 @@ devel/interactive_rebase_tool
 devel/ipython
 devel/jenkins
 devel/jline
+devel/jsonnet
 devel/kBuild
 devel/kerl
 devel/lazygit

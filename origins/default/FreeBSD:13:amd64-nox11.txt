@@ -242,6 +242,7 @@ devel/icu
 devel/include-what-you-use
 devel/interactive_rebase_tool
 devel/ipython
+devel/jsonnet
 devel/kBuild
 devel/kerl
 devel/lazygit
