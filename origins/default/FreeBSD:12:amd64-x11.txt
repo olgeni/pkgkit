@@ -501,6 +501,7 @@ graphics/mesa-demos
 graphics/mupdf
 graphics/netpbm
 graphics/nomacs
+graphics/nsxiv
 graphics/opencv
 graphics/openjpeg
 graphics/pixd
