@@ -540,6 +540,7 @@ java/openjdk14
 java/openjdk15
 java/openjdk16
 java/openjdk17
+java/openjdk18
 java/openjdk8
 java/sqlitejdbc
 lang/abcl
