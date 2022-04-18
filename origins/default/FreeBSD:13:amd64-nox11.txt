@@ -930,6 +930,7 @@ security/tailscale
 security/teleport
 security/tinc
 security/tor
+security/totp-cli
 security/vault
 security/vlock
 security/vpnc
