@@ -688,6 +688,7 @@ net-mgmt/whatmask
 net-p2p/openethereum
 net/addrwatch
 net/arping
+net/bird2
 net/bosh-bootloader
 net/bosh-cli
 net/bsdec2-image-upload
