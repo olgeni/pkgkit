@@ -750,6 +750,7 @@ net/nats-streaming-server
 net/nats-top
 net/natscli
 net/ncp
+net/nfstrace
 net/ngrep
 net/nload
 net/nsq
