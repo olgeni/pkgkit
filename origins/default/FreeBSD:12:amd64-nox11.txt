@@ -1358,6 +1358,7 @@ textproc/xsv-rs
 textproc/ydiff
 textproc/yq
 textproc/zed
+textproc/zq
 www/apache24
 www/aria2
 www/caddy
