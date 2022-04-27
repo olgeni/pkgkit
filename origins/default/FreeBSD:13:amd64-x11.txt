@@ -1505,6 +1505,7 @@ textproc/xmlto
 textproc/xsv-rs
 textproc/ydiff
 textproc/yq
+textproc/zed
 www/apache24
 www/aria2
 www/caddy
