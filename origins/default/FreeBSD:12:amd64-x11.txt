@@ -429,6 +429,7 @@ editors/tweak
 editors/vim@gtk3
 editors/with-editor
 emulators/dosbox
+emulators/dosbox-x
 emulators/fuse
 emulators/fuse-roms
 emulators/fuse-utils
