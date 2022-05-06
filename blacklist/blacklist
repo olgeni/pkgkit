@@ -1,10 +1,16 @@
+x11-wm/enlightenment
+x11/terminology
+devel/py-jupyterlab
+devel/py-jupyterlab-server
+www/pydio-cells
+devel/gogs
+sysutils/zrepl
+net/syncthing
+sysutils/ipget
+devel/pylint
 math/py-networkx
 ports-mgmt/porttree
 
-# devel/py-frictionless
-# net-mgmt/riemann
-# security/crowdsec
-# security/crowdsec-firewall-bouncer
 databases/pgloader3
 graphics/hiptext
 
