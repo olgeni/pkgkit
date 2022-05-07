@@ -747,7 +747,6 @@ net/multicat
 net/nats-nkeys
 net/nats-nsc
 net/nats-server
-net/nats-streaming-server
 net/nats-top
 net/natscli
 net/ncp
