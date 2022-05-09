@@ -1402,6 +1402,7 @@ sysutils/xfsprogs
 sysutils/xjobs
 sysutils/xosview
 sysutils/xpipe
+sysutils/yadf
 sysutils/yadm
 sysutils/yank
 sysutils/zap
