@@ -186,6 +186,7 @@ devel/boost-jam
 devel/boost-libs
 devel/bpython
 devel/bsddialog
+devel/cbang
 devel/ccache
 devel/cdecl
 devel/cdialog
