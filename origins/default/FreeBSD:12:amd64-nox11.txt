@@ -728,6 +728,7 @@ net/hping3
 net/ifstat
 net/ifstated
 net/ipsvd
+net/isboot-kmod
 net/isc-dhcp44-server
 net/jose
 net/krill
