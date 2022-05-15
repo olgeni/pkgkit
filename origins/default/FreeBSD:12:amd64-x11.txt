@@ -229,6 +229,7 @@ devel/elm-format
 devel/emscripten
 devel/etcd34
 devel/fossil
+devel/freebsd-git-devtools
 devel/frink
 devel/gdb
 devel/gindent
