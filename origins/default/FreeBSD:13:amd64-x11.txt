@@ -1182,6 +1182,7 @@ sysutils/f2
 sysutils/facter
 sysutils/fd
 sysutils/fdupes
+sysutils/filemon
 sysutils/fileprune
 sysutils/firstboot-freebsd-update
 sysutils/firstboot-growfs
