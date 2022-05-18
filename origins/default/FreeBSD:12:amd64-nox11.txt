@@ -1109,6 +1109,7 @@ sysutils/libchk
 sysutils/libfvde
 sysutils/libtree
 sysutils/lnav
+sysutils/loki
 sysutils/lsblk
 sysutils/lscpu
 sysutils/lsd
