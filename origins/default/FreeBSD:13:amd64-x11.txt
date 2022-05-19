@@ -1590,6 +1590,7 @@ www/py-uvicorn
 www/pydio-cells
 www/reproxy
 www/slowhttptest
+www/so
 www/squid
 www/srt
 www/tclhttpd
