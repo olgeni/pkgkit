@@ -1723,6 +1723,7 @@ x11-themes/qogir-icon-themes
 x11-themes/sddm-freebsd-black-theme
 x11-themes/skeuos-gtk-themes
 x11-themes/yaru-icon-theme
+x11-themes/zorin-icon-themes
 x11-toolkits/bwidget
 x11-toolkits/gtk-sharp20
 x11-toolkits/gtk-sharp30
