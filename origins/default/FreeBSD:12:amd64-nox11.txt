@@ -362,6 +362,7 @@ devel/yaegi
 devel/yajl-tcl
 devel/yasm
 devel/zydis
+dns/acme-dns
 dns/adns
 dns/bind-tools
 dns/bind916

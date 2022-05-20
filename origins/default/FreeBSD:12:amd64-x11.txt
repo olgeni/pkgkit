@@ -391,6 +391,7 @@ devel/yajl-tcl
 devel/yasm
 devel/zookeeper
 devel/zydis
+dns/acme-dns
 dns/adns
 dns/bind-tools
 dns/bind916
