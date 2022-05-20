@@ -1084,6 +1084,7 @@ shells/ksh93
 shells/mksh
 shells/modernish
 shells/oksh
+shells/rc
 shells/starship
 shells/viewglob
 shells/xonsh
