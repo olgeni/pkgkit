@@ -962,7 +962,6 @@ sysutils/ansible
 sysutils/ansible-iocage
 sysutils/ansible-kld
 sysutils/ansible-sshjail
-sysutils/ansible-sysrc
 sysutils/apachetop
 sysutils/aptly
 sysutils/atop
