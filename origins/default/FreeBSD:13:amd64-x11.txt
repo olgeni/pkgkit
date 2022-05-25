@@ -541,7 +541,6 @@ java/intellij-fsnotifier
 java/intellij-pty4j
 java/java-zoneinfo
 java/javavmwrapper
-java/openjdk15
 java/openjdk16
 java/openjdk17
 java/openjdk18
