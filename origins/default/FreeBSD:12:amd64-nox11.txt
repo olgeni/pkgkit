@@ -500,6 +500,7 @@ lang/jimtcl
 lang/lfe
 lang/mono
 lang/nim
+lang/njs
 lang/nx
 lang/perl5.32
 lang/php74
