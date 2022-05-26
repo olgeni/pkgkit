@@ -1354,6 +1354,7 @@ textproc/slowcat
 textproc/texi2html
 textproc/textql
 textproc/the_silver_searcher
+textproc/trdsql
 textproc/ugrep
 textproc/uni
 textproc/up
