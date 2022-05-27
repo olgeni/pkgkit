@@ -1,18 +1,7 @@
-x11-wm/enlightenment
-x11/terminology
-devel/py-jupyterlab
-devel/py-jupyterlab-server
-www/pydio-cells
-devel/gogs
-sysutils/zrepl
-net/syncthing
-sysutils/ipget
-devel/pylint
-math/py-networkx
-ports-mgmt/porttree
-
-databases/pgloader3
 graphics/hiptext
+net-mgmt/collectd5
+sysutils/ipget
+www/deno
 
 audio/esound
 databases/evolution-data-server
