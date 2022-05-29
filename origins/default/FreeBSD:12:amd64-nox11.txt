@@ -171,6 +171,7 @@ devel/asmjit
 devel/astyle
 devel/atlantis
 devel/autoconf
+devel/autoconf-switch
 devel/automake
 devel/awless
 devel/awscli
