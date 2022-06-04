@@ -1418,7 +1418,7 @@ www/novnc
 www/npm
 www/npm-node14
 www/npm-node16
-www/npm-node17
+www/npm-node18
 www/oauth2-proxy
 www/oneshot
 www/openresty
@@ -1463,7 +1463,7 @@ www/xh
 www/yarn
 www/yarn-node14
 www/yarn-node16
-www/yarn-node17
+www/yarn-node18
 www/yaws
 www/youtube_dl
 www/yt-dlp
