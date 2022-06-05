@@ -416,6 +416,7 @@ editors/heme
 editors/hexcurse
 editors/hexedit
 editors/hte
+editors/imhex
 editors/joe
 editors/kakoune
 editors/le
