@@ -989,6 +989,7 @@ sysutils/checkrestart
 sysutils/chezmoi
 sysutils/clone
 sysutils/conan
+sysutils/confctl
 sysutils/consul
 sysutils/consul-alerts
 sysutils/consul-replicate

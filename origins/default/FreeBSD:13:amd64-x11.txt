@@ -1123,6 +1123,7 @@ sysutils/checkrestart
 sysutils/chezmoi
 sysutils/clone
 sysutils/conan
+sysutils/confctl
 sysutils/conky
 sysutils/consul
 sysutils/consul-alerts
