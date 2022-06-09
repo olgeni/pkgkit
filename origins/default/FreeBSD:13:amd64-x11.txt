@@ -1096,6 +1096,7 @@ sysutils/ansible-kld
 sysutils/ansible-sshjail
 sysutils/apachetop
 sysutils/aptly
+sysutils/arc_summary
 sysutils/atop
 sysutils/azure-agent
 sysutils/barrier
