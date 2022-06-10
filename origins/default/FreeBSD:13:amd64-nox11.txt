@@ -164,6 +164,7 @@ deskutils/taskwarrior-tui
 deskutils/terminal-image-viewer
 deskutils/timewarrior
 deskutils/ultralist
+devel/android-tools
 devel/android-tools-adb
 devel/android-tools-fastboot
 devel/arcanist
