@@ -165,7 +165,6 @@ deskutils/terminal-image-viewer
 deskutils/timewarrior
 deskutils/ultralist
 devel/android-tools
-devel/android-tools-fastboot
 devel/arcanist
 devel/asmjit
 devel/astyle
