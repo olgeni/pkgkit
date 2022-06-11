@@ -554,6 +554,7 @@ mail/smtp-cli
 mail/spamassassin
 mail/spamd
 mail/ssmtp
+math/basic-stats
 math/bitwise
 math/blas
 math/calc

@@ -638,6 +638,7 @@ mail/spamassassin
 mail/spamd
 mail/ssmtp
 mail/thunderbird
+math/basic-stats
 math/bitwise
 math/blas
 math/calc
