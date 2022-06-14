@@ -1111,6 +1111,7 @@ sysutils/bpytop
 sysutils/brename
 sysutils/bsdcrashtar
 sysutils/bsdstats
+sysutils/btop
 sysutils/bulk_extractor
 sysutils/bupstash
 sysutils/bvm
