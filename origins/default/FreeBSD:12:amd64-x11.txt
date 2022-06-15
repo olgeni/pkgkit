@@ -1143,6 +1143,7 @@ sysutils/damager
 sysutils/dar
 sysutils/dcfldd
 sysutils/ddrescue
+sysutils/debootstrap
 sysutils/detox
 sysutils/devcpu-data
 sysutils/devcpu-data-amd
