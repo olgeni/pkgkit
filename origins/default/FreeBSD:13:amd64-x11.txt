@@ -1744,6 +1744,7 @@ x11-wm/awesome-vicious
 x11-wm/compton
 x11-wm/ctwm
 x11-wm/cwm
+x11-wm/devilspie2
 x11-wm/enlightenment
 x11-wm/fvwm2
 x11-wm/fvwm3
