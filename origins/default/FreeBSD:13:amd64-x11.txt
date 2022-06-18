@@ -758,6 +758,7 @@ multimedia/webcamd
 multimedia/x264
 multimedia/xvid
 net-im/jicofo
+net-im/jitsi-srtp-native
 net-im/jitsi-videobridge
 net-im/matterhorn
 net-im/oysttyer
