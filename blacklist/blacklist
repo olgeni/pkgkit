@@ -1,7 +1,11 @@
 graphics/hiptext
 net-mgmt/collectd5
 sysutils/ipget
-www/deno
+www/mod_qos
+devel/stack
+sysutils/firstboot-cloudsetup
+
+devel/emscripten
 
 audio/esound
 databases/evolution-data-server
