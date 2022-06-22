@@ -116,6 +116,12 @@ databases/postgresql-repmgr
 databases/postgresql-rum
 databases/postgresql10-server
 databases/postgresql11-server
+databases/postgresql12-client
+databases/postgresql12-contrib
+databases/postgresql12-pgtcl
+databases/postgresql12-plperl
+databases/postgresql12-plpython
+databases/postgresql12-pltcl
 databases/postgresql12-server
 databases/postgresql13-client
 databases/postgresql13-contrib
