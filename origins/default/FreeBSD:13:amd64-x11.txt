@@ -1194,7 +1194,6 @@ sysutils/filemon
 sysutils/fileprune
 sysutils/firstboot-cloudsetup
 sysutils/firstboot-freebsd-update
-sysutils/firstboot-growfs
 sysutils/firstboot-pkgs
 sysutils/flashrom
 sysutils/flock
