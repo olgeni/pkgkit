@@ -644,7 +644,6 @@ multimedia/mjpegtools
 multimedia/mkclean
 multimedia/mkvalidator
 multimedia/mp4v2
-multimedia/mpgtx
 multimedia/mplayer
 multimedia/mpv
 multimedia/mxflib

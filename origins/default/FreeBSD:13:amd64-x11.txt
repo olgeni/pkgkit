@@ -745,7 +745,6 @@ multimedia/mkclean
 multimedia/mkvalidator
 multimedia/mkvtoolnix
 multimedia/mp4v2
-multimedia/mpgtx
 multimedia/mplayer
 multimedia/mplayer-skins
 multimedia/mpv
