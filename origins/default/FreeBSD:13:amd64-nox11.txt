@@ -651,7 +651,6 @@ multimedia/playerctl
 multimedia/py-librtmp
 multimedia/qt-faststart
 multimedia/rtmpdump
-multimedia/schroedinger
 multimedia/termplay
 multimedia/ustreamer
 multimedia/v4l_compat

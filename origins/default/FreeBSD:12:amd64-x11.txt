@@ -752,7 +752,6 @@ multimedia/playerctl
 multimedia/py-librtmp
 multimedia/qt-faststart
 multimedia/rtmpdump
-multimedia/schroedinger
 multimedia/smpeg
 multimedia/smplayer
 multimedia/termplay
