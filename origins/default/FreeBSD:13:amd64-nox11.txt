@@ -649,7 +649,6 @@ multimedia/mpv
 multimedia/mxflib
 multimedia/playerctl
 multimedia/py-librtmp
-multimedia/qt-faststart
 multimedia/rtmpdump
 multimedia/termplay
 multimedia/ustreamer
