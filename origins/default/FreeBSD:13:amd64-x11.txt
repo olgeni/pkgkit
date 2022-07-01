@@ -224,7 +224,6 @@ devel/cvs
 devel/cvsps
 devel/dconf-editor
 devel/deheader
-devel/dep
 devel/desed
 devel/dev86
 devel/distel

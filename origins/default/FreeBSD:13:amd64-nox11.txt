@@ -204,7 +204,6 @@ devel/ctags
 devel/cvs
 devel/cvsps
 devel/deheader
-devel/dep
 devel/desed
 devel/dev86
 devel/distel@nox
