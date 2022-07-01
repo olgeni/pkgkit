@@ -920,6 +920,7 @@ security/py-oauthlib
 security/py-pycrypto
 security/py-rsa
 security/py-ssh-audit
+security/py-sslyze
 security/racoon2
 security/rnp
 security/rustscan
