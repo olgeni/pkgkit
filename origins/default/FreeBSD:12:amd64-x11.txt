@@ -717,6 +717,7 @@ misc/ytree
 multimedia/Bento4
 multimedia/dvbsnoop
 multimedia/ffmpeg
+multimedia/gpac-mp4box
 multimedia/gstreamer1
 multimedia/gstreamer1-plugins
 multimedia/gstreamer1-plugins-bad

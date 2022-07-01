@@ -626,6 +626,7 @@ misc/ytree
 multimedia/Bento4
 multimedia/dvbsnoop
 multimedia/ffmpeg
+multimedia/gpac-mp4box
 multimedia/handbrake
 multimedia/libass
 multimedia/libdv
