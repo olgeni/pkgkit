@@ -287,6 +287,7 @@ devel/lua-stdlib-normalize
 devel/m4
 devel/maven
 devel/mdb
+devel/mutagen
 devel/myrepos
 devel/nasm
 devel/newfile

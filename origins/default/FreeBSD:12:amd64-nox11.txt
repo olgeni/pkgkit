@@ -262,6 +262,7 @@ devel/lua-stdlib-debug
 devel/lua-stdlib-normalize
 devel/m4
 devel/mdb
+devel/mutagen
 devel/myrepos
 devel/nasm
 devel/newfile
