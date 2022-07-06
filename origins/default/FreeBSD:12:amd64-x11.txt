@@ -1482,6 +1482,8 @@ textproc/miller
 textproc/nuspell
 textproc/p5-ack
 textproc/par
+textproc/pdfgrep
+textproc/pdfsandwich
 textproc/pup
 textproc/py-asciinema
 textproc/py-autopep8
