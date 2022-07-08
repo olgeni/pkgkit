@@ -479,6 +479,7 @@ lang/cling
 lang/clisp
 lang/crystal
 lang/cython
+lang/dhall
 lang/ecl
 lang/eisl
 lang/elixir

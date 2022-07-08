@@ -557,6 +557,7 @@ lang/clisp
 lang/clojure
 lang/crystal
 lang/cython
+lang/dhall
 lang/ecl
 lang/eisl
 lang/elixir
