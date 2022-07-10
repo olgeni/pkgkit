@@ -675,7 +675,6 @@ misc/clifm
 misc/cloc
 misc/cpuid
 misc/cstream
-misc/cxxmatrix
 misc/delay
 misc/dynomite
 misc/figlet
