@@ -361,6 +361,7 @@ devel/tig
 devel/tmake
 devel/universal-ctags
 devel/uthash
+devel/xmake
 devel/yaegi
 devel/yajl-tcl
 devel/yasm

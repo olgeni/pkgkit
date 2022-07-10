@@ -388,6 +388,7 @@ devel/tkcon
 devel/tmake
 devel/universal-ctags
 devel/uthash
+devel/xmake
 devel/xorg-macros
 devel/yaegi
 devel/yajl-tcl
