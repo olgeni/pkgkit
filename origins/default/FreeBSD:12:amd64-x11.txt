@@ -473,6 +473,7 @@ games/bsdgames
 games/bzflag
 games/cavezofphear
 games/cdogs-sdl
+games/cxxmatrix
 games/nbsdgames
 games/nsnake
 games/oolite

@@ -428,6 +428,7 @@ games/asciiquarium
 games/bastet
 games/bsdgames
 games/cavezofphear
+games/cxxmatrix
 games/nbsdgames
 games/nsnake
 games/robotfindskitten
