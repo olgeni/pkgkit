@@ -1260,6 +1260,7 @@ sysutils/vimpager
 sysutils/virt-what
 sysutils/vivid
 sysutils/vm-bhyve
+sysutils/vm-bhyve-devel
 sysutils/vmtouch
 sysutils/vttest
 sysutils/vzvol
