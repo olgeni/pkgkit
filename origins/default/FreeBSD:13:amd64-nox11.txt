@@ -1040,6 +1040,7 @@ sysutils/duf
 sysutils/dust
 sysutils/dvd+rw-tools
 sysutils/dvdbackup
+sysutils/dwatch
 sysutils/dwatch-gource
 sysutils/dwatch-json
 sysutils/dwatch-pwsnoop
