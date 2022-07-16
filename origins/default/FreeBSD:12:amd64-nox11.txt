@@ -395,6 +395,7 @@ editors/joe
 editors/kakoune
 editors/le
 editors/micro
+editors/mined
 editors/mle
 editors/nano
 editors/ne
