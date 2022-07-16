@@ -937,6 +937,7 @@ net/zsync
 net/zyre
 ports-mgmt/bsdadminscripts2
 ports-mgmt/distilator
+ports-mgmt/fallout
 ports-mgmt/hs-panopticum
 ports-mgmt/lsknobs
 ports-mgmt/modules2tuple
