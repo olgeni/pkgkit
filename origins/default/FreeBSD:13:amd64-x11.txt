@@ -631,6 +631,7 @@ mail/libspf2
 mail/mailfromd
 mail/mboxgrep
 mail/mutt
+mail/opendkim
 mail/pfqueue
 mail/pine-pgp-filters
 mail/postfix
