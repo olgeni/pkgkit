@@ -518,10 +518,10 @@ lang/purescript
 lang/py-hy
 lang/python
 lang/python3
-lang/python38
+lang/python39
 lang/quickjs
 lang/racket-minimal
-lang/ruby27
+lang/ruby30
 lang/runawk
 lang/rust
 lang/sbcl
@@ -865,7 +865,7 @@ security/clamav
 security/crowdsec
 security/crowdsec-firewall-bouncer
 security/dehydrated
-security/denyhosts@py38
+security/denyhosts@py39
 security/doas
 security/easy-rsa
 security/expiretable
@@ -1418,7 +1418,7 @@ www/minio
 www/minio-client
 www/mod_evasive
 www/mod_qos
-www/mod_wsgi4@py38
+www/mod_wsgi4@py39
 www/mod_xsendfile
 www/moinmoin
 www/moinmoincli
