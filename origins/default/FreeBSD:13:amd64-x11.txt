@@ -103,7 +103,6 @@ databases/pg_filedump
 databases/pg_hashids
 databases/pg_repack
 databases/pg_stat_kcache
-databases/pgadmin3
 databases/pgbackrest
 databases/pgbadger
 databases/pgbarman
