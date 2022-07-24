@@ -1371,6 +1371,7 @@ textproc/trdsql
 textproc/ugrep
 textproc/uni
 textproc/up
+textproc/vale
 textproc/vgrep
 textproc/xlnt
 textproc/xmlcatmgr
