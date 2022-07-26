@@ -1130,6 +1130,7 @@ sysutils/lscpu
 sysutils/lsd
 sysutils/lsof
 sysutils/lsop
+sysutils/ltfs
 sysutils/ltrace
 sysutils/mapdir
 sysutils/mcfly
