@@ -1388,6 +1388,7 @@ sysutils/tlsdate
 sysutils/tmate
 sysutils/tmate-ssh-server
 sysutils/tmux
+sysutils/topgrade
 sysutils/topless
 sysutils/tree
 sysutils/ts
