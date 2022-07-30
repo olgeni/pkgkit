@@ -1360,6 +1360,7 @@ textproc/py-mkdocs-material
 textproc/py-mkdocs-nature
 textproc/py-ocrmypdf
 textproc/py-python-augeas
+textproc/py-rich-cli
 textproc/py-xmldiff
 textproc/qr
 textproc/redisearch
