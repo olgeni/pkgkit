@@ -1144,6 +1144,7 @@ sysutils/most
 sysutils/multitail
 sysutils/ncdu
 sysutils/neofetch
+sysutils/nerdctl
 sysutils/nomad
 sysutils/nomad-pot-driver
 sysutils/nq

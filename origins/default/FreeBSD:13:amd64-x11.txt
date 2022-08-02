@@ -1284,6 +1284,7 @@ sysutils/most
 sysutils/multitail
 sysutils/ncdu
 sysutils/neofetch
+sysutils/nerdctl
 sysutils/nomad
 sysutils/nomad-pot-driver
 sysutils/nq
@@ -1718,8 +1719,8 @@ x11-fonts/victor-mono-ttf
 x11-fonts/webfonts
 x11-fonts/xfs
 x11-fonts/xlsfonts
-x11-servers/xorg@xephyr
-x11-servers/xorg@xvfb
+x11-servers/xorg-server@xephyr
+x11-servers/xorg-server@xvfb
 x11-themes/adwaita-icon-theme
 x11-themes/ant-dracula-theme
 x11-themes/canta-gtk-themes
