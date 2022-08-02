@@ -1718,7 +1718,6 @@ x11-fonts/victor-mono-ttf
 x11-fonts/webfonts
 x11-fonts/xfs
 x11-fonts/xlsfonts
-x11-servers/xorg-vfbserver
 x11-themes/adwaita-icon-theme
 x11-themes/ant-dracula-theme
 x11-themes/canta-gtk-themes
