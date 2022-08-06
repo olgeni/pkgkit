@@ -1592,6 +1592,7 @@ www/npm-node18
 www/oauth2-proxy
 www/oneshot
 www/onionshare
+www/onionshare-cli
 www/openresty
 www/owncast
 www/pomerium
