@@ -515,6 +515,7 @@ lang/php74
 lang/php74-extensions
 lang/php80
 lang/php80-extensions
+lang/php81
 lang/purescript
 lang/py-hy
 lang/python
