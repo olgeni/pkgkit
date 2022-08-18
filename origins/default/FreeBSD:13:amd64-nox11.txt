@@ -130,6 +130,13 @@ databases/postgresql13-plperl
 databases/postgresql13-plpython
 databases/postgresql13-pltcl
 databases/postgresql13-server
+databases/postgresql14-client
+databases/postgresql14-contrib
+databases/postgresql14-pgtcl
+databases/postgresql14-plperl
+databases/postgresql14-plpython
+databases/postgresql14-pltcl
+databases/postgresql14-server
 databases/pspg
 databases/py-gdbm
 databases/py-hiredis
@@ -562,7 +569,6 @@ mail/procmail
 mail/pyzor
 mail/razor-agents
 mail/ripmime
-mail/roundcube
 mail/rspamd
 mail/sa-utils
 mail/smtp-cli
