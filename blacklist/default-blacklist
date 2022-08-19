@@ -12,6 +12,7 @@ databases/postgresql11-pgtcl
 databases/postgresql11-plperl
 databases/postgresql11-plpython
 databases/postgresql11-pltcl
+lang/python38
 # databases/postgresql12-contrib
 # databases/postgresql12-docs
 # databases/postgresql12-pgtcl
