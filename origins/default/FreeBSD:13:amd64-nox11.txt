@@ -87,6 +87,7 @@ databases/mdbtools
 databases/mysql57-client
 databases/mysql57-server
 databases/mysql80-client
+databases/mysql80-server
 databases/p5-Bucardo
 databases/pear-MDB2_Driver_pgsql
 databases/percona57-client
