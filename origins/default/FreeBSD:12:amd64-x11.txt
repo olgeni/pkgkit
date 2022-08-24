@@ -368,6 +368,7 @@ devel/py-xmltodict
 devel/py-yamllint
 devel/py-yattag
 devel/pybugz
+devel/pyenv
 devel/pylint
 devel/rclint
 devel/rebar
