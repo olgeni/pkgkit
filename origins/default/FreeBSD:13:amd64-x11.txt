@@ -370,6 +370,7 @@ devel/py-yattag
 devel/pybugz
 devel/pyenv
 devel/pylint
+devel/rbenv
 devel/rclint
 devel/rebar
 devel/rebar3
