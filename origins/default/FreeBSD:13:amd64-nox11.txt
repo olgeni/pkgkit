@@ -1300,6 +1300,7 @@ sysutils/yadm
 sysutils/zap
 sysutils/zellij
 sysutils/zetaback
+sysutils/zfs-snap-diff
 sysutils/zfs-snapshot-clean
 sysutils/zfs-stats
 sysutils/zfstools
