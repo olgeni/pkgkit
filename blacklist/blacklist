@@ -1,4 +1,12 @@
+devel/cbang
+devel/gindent
 graphics/hiptext
+sysutils/fluent-bit
+sysutils/syslog-ng
+www/py-lektor
+devel/include-what-you-use
+security/zaproxy
+databases/postgresql-cstore_fdw
 
 devel/emscripten
 
