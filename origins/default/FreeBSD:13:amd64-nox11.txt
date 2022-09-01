@@ -971,6 +971,7 @@ shells/elvish
 shells/fd
 shells/fish
 shells/jailkit
+shells/ksh
 shells/ksh93
 shells/mksh
 shells/modernish
