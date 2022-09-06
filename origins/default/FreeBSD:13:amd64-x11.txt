@@ -24,6 +24,7 @@ archivers/zchunk
 archivers/zip
 astro/xearth
 audio/alac
+audio/alacenc
 audio/audacity
 audio/aumix
 audio/beep
