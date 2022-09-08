@@ -1261,6 +1261,7 @@ sysutils/sysvbanner
 sysutils/tai64nfrac
 sysutils/terraform
 sysutils/terraform-docs
+sysutils/terraform-provider-gridscale
 sysutils/terraform-switcher
 sysutils/terragrunt
 sysutils/tflint
