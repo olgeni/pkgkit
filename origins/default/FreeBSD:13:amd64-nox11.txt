@@ -1002,6 +1002,7 @@ sysutils/bfs
 sysutils/bhyve-firmware
 sysutils/bhyve+
 sysutils/bkt
+sysutils/bottom
 sysutils/bpytop
 sysutils/brename
 sysutils/bsdcrashtar
