@@ -1282,6 +1282,7 @@ sysutils/libfvde
 sysutils/libtree
 sysutils/lnav
 sysutils/logstash7
+sysutils/logstash8
 sysutils/loki
 sysutils/lsblk
 sysutils/lscpu
