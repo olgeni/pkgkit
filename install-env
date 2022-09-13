@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -e -u
+set -e -u -o pipefail
 
 rsync -a --delete options/x11-options/ /var/db/ports/
 chown -R root:wheel /var/db/ports/
