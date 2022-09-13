@@ -1,6 +1,6 @@
 #!/usr/local/bin/zsh
 
-set -e
+set -e -u -o pipefail
 
 CURDIR=$(dirname $0)
 
