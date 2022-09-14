@@ -1237,6 +1237,7 @@ sysutils/runwhen
 sysutils/rush
 sysutils/s6
 sysutils/s6-rc
+sysutils/safecat
 sysutils/samefile
 sysutils/sanoid
 sysutils/screen
