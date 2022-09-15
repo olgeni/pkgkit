@@ -894,6 +894,7 @@ security/gnutls
 security/gopass
 security/hashcat
 security/headscale
+security/hexcode
 security/ipsec-tools
 security/keybase
 security/libreswan

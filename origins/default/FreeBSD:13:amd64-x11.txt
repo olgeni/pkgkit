@@ -1016,6 +1016,7 @@ security/gopass
 security/gpg-tui
 security/hashcat
 security/headscale
+security/hexcode
 security/ipsec-tools
 security/keepassxc
 security/keybase
