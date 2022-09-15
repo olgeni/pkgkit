@@ -942,6 +942,7 @@ security/py-ssh-audit
 security/py-sslyze
 security/racoon2
 security/rnp
+security/rotate
 security/rustscan
 security/scrypt
 security/sequoia
