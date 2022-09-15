@@ -1496,6 +1496,7 @@ textproc/gnugrep
 textproc/go-md2man
 textproc/gojq
 textproc/gsed
+textproc/hexcode
 textproc/hs-pandoc
 textproc/htmlq
 textproc/hunspell
