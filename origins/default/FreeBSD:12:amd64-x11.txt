@@ -1002,6 +1002,7 @@ security/crowdsec
 security/crowdsec-firewall-bouncer
 security/dehydrated
 security/denyhosts@py39
+security/diffcode
 security/doas
 security/easy-rsa
 security/expiretable
